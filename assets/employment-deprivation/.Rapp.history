@@ -1,0 +1,56 @@
+# set working directory#
+> setwd("//Library/WebServer/Documents/documents/Frank/Risk of Crime Calculator/data/wd")#
+#open the csv file#
+wholeFile = read.csv("deprivation_ranks.csv")#
+# subset the file by area code#
+#Get the list of unique MP names#
+for (name in levels(wholeFile$LSOAname)){#
+  #Subset the data by areaLA#
+  tmp=subset(wholeFile,LSOAname==name)#
+  #Create a new filename for each area - the folder 'mpExpenses2012' should already exist#
+  fn=paste(gsub(' ','',name),".csv",sep='')#
+  #Save the CSV file containing separate expenses data for each MP#
+  write.csv(tmp,fn,row.names=FALSE)#
+}
+# set working directory#
+> setwd("//Library/WebServer/Documents/documents/Frank/Risk of Crime Calculator/data/wd")#
+#open the csv file#
+wholeFile = read.csv("deprivation_ranks.csv")#
+# subset the file by area code#
+#Get the list of unique MP names#
+for (name in levels(wholeFile$LSOAname)){#
+  #Subset the data by areaLA#
+  tmp=subset(wholeFile,LSOAname==name)#
+  #Create a new filename for each area - the folder 'mpExpenses2012' should already exist#
+  fn=paste(gsub(' ','',name),".csv",sep='')#
+  #Save the CSV file containing separate expenses data for each MP#
+  write.csv(tmp,fn,row.names=FALSE)#
+}
+# set working directory#
+> setwd("//Library/WebServer/Documents/documents/Frank/wd")#
+#open the csv file#
+wholeFile = read.csv("deprivation_ranks.csv")#
+# subset the file by area code#
+#Get the list of unique MP names#
+for (name in levels(wholeFile$LSOAname)){#
+  #Subset the data by areaLA#
+  tmp=subset(wholeFile,LSOAname==name)#
+  #Create a new filename for each area - the folder 'mpExpenses2012' should already exist#
+  fn=paste(gsub(' ','',name),".csv",sep='')#
+  #Save the CSV file containing separate expenses data for each MP#
+  write.csv(tmp,fn,row.names=FALSE)#
+}
+# set working directory#
+setwd("//Library/WebServer/Documents/documents/Frank/wd")#
+#open the csv file#
+wholeFile = read.csv("deprivation_ranks.csv")#
+# subset the file by area code#
+#Get the list of unique MP names#
+for (name in levels(wholeFile$LSOAname)){#
+  #Subset the data by areaLA#
+  tmp=subset(wholeFile,LSOAname==name)#
+  #Create a new filename for each area - the folder 'mpExpenses2012' should already exist#
+  fn=paste(gsub(' ','',name),".csv",sep='')#
+  #Save the CSV file containing separate expenses data for each MP#
+  write.csv(tmp,fn,row.names=FALSE)#
+}

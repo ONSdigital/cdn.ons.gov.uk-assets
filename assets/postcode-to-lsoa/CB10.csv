@@ -1,0 +1,631 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+England,Cambridge 010B,CB10UR,CB10
+England,South Cambridgeshire 017A,CB101SP,CB10
+England,South Cambridgeshire 017A,CB101SH,CB10
+England,Uttlesford 002B,CB101EB,CB10
+England,Uttlesford 001D,CB101QD,CB10
+England,Uttlesford 001D,CB101PY,CB10
+England,Uttlesford 001C,CB101UZ,CB10
+England,South Cambridgeshire 017D,CB101QY,CB10
+England,Cambridge 007G,CB10SE,CB10
+England,Cambridge 010B,CB10JP,CB10
+England,South Cambridgeshire 017A,CB101SJ,CB10
+England,Uttlesford 002B,CB101AZ,CB10
+England,South Cambridgeshire 017D,CB101RF,CB10
+England,Uttlesford 002B,CB109AQ,CB10
+England,Uttlesford 004C,CB102TG,CB10
+England,Uttlesford 001D,CB101QQ,CB10
+England,Uttlesford 001C,CB102GF,CB10
+England,South Cambridgeshire 020D,CB10SY,CB10
+England,Cambridge 010B,CB10BD,CB10
+England,Uttlesford 002F,CB101LR,CB10
+England,Uttlesford 001B,CB109SB,CB10
+England,Uttlesford 002C,CB102DJ,CB10
+England,Uttlesford 001A,CB102NE,CB10
+England,Uttlesford 002D,CB102GT,CB10
+England,Cambridge 010B,CB10YN,CB10
+England,South Cambridgeshire 017D,CB101QZ,CB10
+England,Uttlesford 001B,CB109TR,CB10
+England,Uttlesford 002B,CB101BB,CB10
+England,Uttlesford 001A,CB102LT,CB10
+England,Uttlesford 002B,CB101LD,CB10
+England,Uttlesford 004C,CB102RU,CB10
+England,Uttlesford 001D,CB101PX,CB10
+England,Uttlesford 001D,CB101QB,CB10
+England,Uttlesford 002B,CB101HS,CB10
+England,Uttlesford 002C,CB101BQ,CB10
+England,Uttlesford 001D,CB101PW,CB10
+England,Uttlesford 002D,CB102AB,CB10
+England,Uttlesford 002F,CB102JP,CB10
+England,Cambridge 007G,CB10SJ,CB10
+England,Uttlesford 002B,CB101BN,CB10
+England,South Cambridgeshire 020D,CB10SN,CB10
+England,South Cambridgeshire 020D,CB10UG,CB10
+England,Cambridge 010B,CB10QX,CB10
+England,Cambridge 010B,CB10JU,CB10
+England,Uttlesford 002B,CB101HX,CB10
+England,Uttlesford 002C,CB102DE,CB10
+England,Uttlesford 002C,CB102DD,CB10
+England,Uttlesford 001D,CB101NP,CB10
+England,Uttlesford 001C,CB101RR,CB10
+England,Uttlesford 002B,CB101HF,CB10
+England,Uttlesford 001D,CB101NU,CB10
+England,Uttlesford 004D,CB102XH,CB10
+England,Uttlesford 001C,CB102DP,CB10
+England,Uttlesford 002C,CB101BE,CB10
+England,Uttlesford 001D,CB101PS,CB10
+England,Uttlesford 001A,CB102GP,CB10
+England,Uttlesford 004C,CB102UA,CB10
+England,Uttlesford 001B,CB109SY,CB10
+England,Uttlesford 002B,CB109DY,CB10
+England,Uttlesford 001A,CB102HU,CB10
+England,Uttlesford 001B,CB109SS,CB10
+England,Uttlesford 001D,CB101QE,CB10
+England,Uttlesford 001D,CB101RP,CB10
+England,South Cambridgeshire 017A,CB101SW,CB10
+England,Uttlesford 002B,CB101HJ,CB10
+England,Uttlesford 002D,CB102EW,CB10
+England,Uttlesford 002C,CB102DN,CB10
+England,Uttlesford 002D,CB102GQ,CB10
+England,Uttlesford 001D,CB101NT,CB10
+England,Uttlesford 001C,CB102EE,CB10
+England,Cambridge 010B,CB10RW,CB10
+England,Uttlesford 002B,CB109EB,CB10
+England,Uttlesford 002B,CB101HD,CB10
+England,Cambridge 007G,CB10SB,CB10
+England,Uttlesford 004C,CB102TJ,CB10
+England,Uttlesford 001D,CB101NZ,CB10
+England,Uttlesford 001C,CB101XG,CB10
+England,Uttlesford 001D,CB101PB,CB10
+England,Uttlesford 002C,CB102AS,CB10
+England,South Cambridgeshire 017D,CB101RB,CB10
+England,Uttlesford 002D,CB102AQ,CB10
+England,South Cambridgeshire 017D,CB101RQ,CB10
+England,Uttlesford 002B,CB101EG,CB10
+England,Uttlesford 001C,CB102DR,CB10
+England,Uttlesford 001A,CB102LP,CB10
+England,Uttlesford 001A,CB102LW,CB10
+England,South Cambridgeshire 020D,CB10TY,CB10
+England,Uttlesford 001A,CB102HQ,CB10
+England,Uttlesford 002D,CB102BE,CB10
+England,Uttlesford 002C,CB101BG,CB10
+England,Uttlesford 002F,CB101LP,CB10
+England,Uttlesford 004C,CB102PB,CB10
+England,Cambridge 010B,CB10LJ,CB10
+England,South Cambridgeshire 020D,CB10TA,CB10
+England,South Cambridgeshire 020D,CB10TE,CB10
+England,Uttlesford 002F,CB101LS,CB10
+England,Uttlesford 004D,CB102UX,CB10
+England,Uttlesford 004D,CB102LJ,CB10
+England,Uttlesford 004C,CB102RJ,CB10
+England,South Cambridgeshire 017A,CB101SE,CB10
+England,Cambridge 010B,CB10YT,CB10
+England,Uttlesford 004D,CB102XP,CB10
+England,Uttlesford 002B,CB101JG,CB10
+England,South Cambridgeshire 020D,CB10UB,CB10
+England,Uttlesford 001B,CB109ST,CB10
+England,Uttlesford 002D,CB102TN,CB10
+England,Uttlesford 001D,CB101PA,CB10
+England,Uttlesford 001A,CB102JA,CB10
+England,Uttlesford 002B,CB101HR,CB10
+England,Uttlesford 002B,CB101DY,CB10
+England,Uttlesford 002B,CB109DN,CB10
+England,Uttlesford 001D,CB101RN,CB10
+England,Uttlesford 001A,CB102HG,CB10
+England,Uttlesford 002B,CB101ER,CB10
+England,Uttlesford 001D,CB101NR,CB10
+England,Uttlesford 004C,CB102RT,CB10
+England,Uttlesford 001B,CB109SG,CB10
+England,Uttlesford 004D,CB102XB,CB10
+England,Uttlesford 004C,CB102RP,CB10
+England,Uttlesford 001A,CB102HL,CB10
+England,Uttlesford 002D,CB101LT,CB10
+England,Uttlesford 002B,CB101JJ,CB10
+England,Uttlesford 004C,CB102SS,CB10
+England,Uttlesford 004C,CB102QG,CB10
+England,Uttlesford 003B,CB101UF,CB10
+England,Uttlesford 004C,CB102TY,CB10
+England,Uttlesford 004C,CB102QF,CB10
+England,Uttlesford 001B,CB109SL,CB10
+England,Uttlesford 004C,CB102RS,CB10
+England,Uttlesford 002B,CB102BW,CB10
+England,Uttlesford 002B,CB101EU,CB10
+England,South Cambridgeshire 017D,CB101SA,CB10
+England,Uttlesford 004D,CB102XA,CB10
+England,Uttlesford 002C,CB102AZ,CB10
+England,Uttlesford 002B,CB101JS,CB10
+England,South Cambridgeshire 017D,CB101RG,CB10
+England,Uttlesford 004D,CB102XE,CB10
+England,South Cambridgeshire 020D,CB10UN,CB10
+England,Uttlesford 004C,CB102QE,CB10
+England,Uttlesford 002D,CB102BD,CB10
+England,Uttlesford 002C,CB102DL,CB10
+England,Uttlesford 004C,CB102RH,CB10
+England,Uttlesford 002D,CB102NL,CB10
+England,Uttlesford 002B,CB101NA,CB10
+England,Cambridge 010B,CB10YR,CB10
+England,Uttlesford 001D,CB101PU,CB10
+England,Uttlesford 004C,CB102PA,CB10
+England,Uttlesford 002B,CB101EJ,CB10
+England,Uttlesford 002F,CB101LN,CB10
+England,Uttlesford 002C,CB102DF,CB10
+England,Uttlesford 002C,CB102GB,CB10
+England,South Cambridgeshire 020D,CB10SZ,CB10
+England,Uttlesford 002D,CB101LU,CB10
+England,Uttlesford 002B,CB101JW,CB10
+England,Uttlesford 001C,CB102GE,CB10
+England,Uttlesford 001D,CB101QN,CB10
+England,Uttlesford 002B,CB101HB,CB10
+England,Uttlesford 004D,CB102UY,CB10
+England,Cambridge 010B,CB10XX,CB10
+England,Uttlesford 002C,CB102BY,CB10
+England,Uttlesford 001D,CB101UA,CB10
+England,South Cambridgeshire 020D,CB10TU,CB10
+England,Uttlesford 002B,CB101BH,CB10
+England,Uttlesford 001B,CB101AJ,CB10
+England,South Cambridgeshire 020D,CB10TB,CB10
+England,Uttlesford 001B,CB109TD,CB10
+England,Uttlesford 002D,CB102YY,CB10
+England,Uttlesford 004C,CB102RZ,CB10
+England,Uttlesford 002B,CB109ZZ,CB10
+England,Uttlesford 002B,CB101JD,CB10
+England,Uttlesford 002B,CB101WQ,CB10
+England,Uttlesford 001C,CB101UX,CB10
+England,Uttlesford 004C,CB102SX,CB10
+England,Cambridge 010B,CB10GA,CB10
+England,Uttlesford 001C,CB102ER,CB10
+England,Cambridge 007G,CB10SF,CB10
+England,Uttlesford 001B,CB109SJ,CB10
+England,Uttlesford 004C,CB102SW,CB10
+England,Uttlesford 002C,CB101BD,CB10
+England,South Cambridgeshire 020D,CB10TN,CB10
+England,Uttlesford 001A,CB102LF,CB10
+England,Uttlesford 001C,CB102EF,CB10
+England,Uttlesford 002D,CB102BG,CB10
+England,Uttlesford 001A,CB102HA,CB10
+England,Uttlesford 002B,CB101JN,CB10
+England,South Cambridgeshire 020D,CB10TZ,CB10
+England,Cambridge 010B,CB10XD,CB10
+England,South Cambridgeshire 017D,CB101RS,CB10
+England,Uttlesford 001C,CB102DX,CB10
+England,South Cambridgeshire 020D,CB10UJ,CB10
+England,Cambridge 010B,CB10FY,CB10
+England,Uttlesford 002B,CB101DQ,CB10
+England,Uttlesford 004C,CB102SN,CB10
+England,Uttlesford 001C,CB102BN,CB10
+England,Uttlesford 002B,CB109BT,CB10
+England,Cambridge 007G,CB10SQ,CB10
+England,Uttlesford 002D,CB102AH,CB10
+England,Uttlesford 001C,CB102AR,CB10
+England,Uttlesford 002B,CB101DG,CB10
+England,Uttlesford 002B,CB101HL,CB10
+England,Uttlesford 001A,CB102JF,CB10
+England,Uttlesford 002B,CB101HY,CB10
+England,Uttlesford 001D,CB101PL,CB10
+England,Uttlesford 002D,CB102NJ,CB10
+England,Uttlesford 001A,CB102JE,CB10
+England,Uttlesford 002D,CB102AJ,CB10
+England,Uttlesford 001C,CB101XE,CB10
+England,Uttlesford 001A,CB102HN,CB10
+England,Cambridge 010B,CB10AN,CB10
+England,South Cambridgeshire 020D,CB10TF,CB10
+England,South Cambridgeshire 017D,CB101RD,CB10
+England,Uttlesford 004D,CB102YA,CB10
+England,Uttlesford 002C,CB102DU,CB10
+England,South Cambridgeshire 020D,CB10SX,CB10
+England,Uttlesford 002B,CB109BP,CB10
+England,Uttlesford 001D,CB101UE,CB10
+England,Uttlesford 004D,CB102YH,CB10
+England,Uttlesford 004C,CB102QR,CB10
+England,Uttlesford 002B,CB101AP,CB10
+England,Uttlesford 002B,CB101DB,CB10
+England,Cambridge 010B,CB10WS,CB10
+England,Cambridge 010B,CB10LL,CB10
+England,Uttlesford 002D,CB102BB,CB10
+England,Uttlesford 004C,CB102UB,CB10
+England,Uttlesford 004C,CB102QS,CB10
+England,Uttlesford 001D,CB101NN,CB10
+England,Uttlesford 001A,CB102NA,CB10
+England,Cambridge 010B,CB10LD,CB10
+England,Uttlesford 004C,CB102RL,CB10
+England,Uttlesford 002B,CB101NG,CB10
+England,Uttlesford 002B,CB102BS,CB10
+England,Uttlesford 004D,CB102UT,CB10
+England,Cambridge 006A,CB10ZY,CB10
+England,Uttlesford 002B,CB101DT,CB10
+England,Cambridge 007G,CB10SA,CB10
+England,Cambridge 010B,CB10RL,CB10
+England,Uttlesford 004C,CB102QT,CB10
+England,Uttlesford 002B,CB101AG,CB10
+England,Uttlesford 004C,CB102FN,CB10
+England,Uttlesford 001A,CB102EN,CB10
+England,Cambridge 010B,CB10YH,CB10
+England,Uttlesford 004C,CB102PN,CB10
+England,Uttlesford 002B,CB101AX,CB10
+England,Uttlesford 004C,CB102TX,CB10
+England,Uttlesford 001D,CB101TU,CB10
+England,Uttlesford 002B,CB101EX,CB10
+England,Cambridge 007G,CB10SL,CB10
+England,Uttlesford 001B,CB109SF,CB10
+England,Uttlesford 001C,CB102EH,CB10
+England,South Cambridgeshire 017D,CB101RE,CB10
+England,Cambridge 010B,CB10RP,CB10
+England,Uttlesford 001A,CB102NB,CB10
+England,Uttlesford 002B,CB101BW,CB10
+England,Uttlesford 002B,CB101DX,CB10
+England,Uttlesford 004C,CB102RQ,CB10
+England,Uttlesford 001B,CB109TP,CB10
+England,Uttlesford 004C,CB102NU,CB10
+England,Uttlesford 002D,CB102NN,CB10
+England,Uttlesford 004C,CB102PE,CB10
+England,Cambridge 010B,CB10PG,CB10
+England,Uttlesford 002B,CB101EN,CB10
+England,Uttlesford 001D,CB101QA,CB10
+England,Uttlesford 002G,CB102FY,CB10
+England,Uttlesford 002D,CB102AG,CB10
+England,Uttlesford 001A,CB102LQ,CB10
+England,Uttlesford 002B,CB101NQ,CB10
+England,Uttlesford 002B,CB101ED,CB10
+England,Uttlesford 002B,CB101EE,CB10
+England,Uttlesford 002B,CB101JQ,CB10
+England,Uttlesford 002B,CB101JX,CB10
+England,Uttlesford 004C,CB102RG,CB10
+England,Uttlesford 001A,CB102LR,CB10
+England,Uttlesford 004C,CB102SR,CB10
+England,Uttlesford 004C,CB102RY,CB10
+England,Uttlesford 001C,CB102EG,CB10
+England,Uttlesford 001B,CB109TA,CB10
+England,Uttlesford 004C,CB102NX,CB10
+England,Uttlesford 001A,CB101XQ,CB10
+England,Uttlesford 001B,CB109TN,CB10
+England,Uttlesford 001A,CB102EY,CB10
+England,Uttlesford 002B,CB101EH,CB10
+England,Uttlesford 001B,CB109TJ,CB10
+England,Uttlesford 002D,CB102EA,CB10
+England,Cambridge 010B,CB10YG,CB10
+England,Uttlesford 001D,CB101QL,CB10
+England,Uttlesford 001C,CB102AW,CB10
+England,Uttlesford 004D,CB102YG,CB10
+England,Uttlesford 001A,CB102HY,CB10
+England,Uttlesford 002F,CB101LW,CB10
+England,Uttlesford 004C,CB102TQ,CB10
+England,Uttlesford 002D,CB102AE,CB10
+England,Uttlesford 001B,CB109TG,CB10
+England,Uttlesford 004C,CB102PU,CB10
+England,Uttlesford 004D,CB102XN,CB10
+England,South Cambridgeshire 020D,CB10SW,CB10
+England,Uttlesford 001A,CB102HW,CB10
+England,Uttlesford 001A,CB102HB,CB10
+England,Uttlesford 004C,CB102PP,CB10
+England,Cambridge 007G,CB10SH,CB10
+England,Uttlesford 001C,CB102AY,CB10
+England,Uttlesford 004C,CB102PW,CB10
+England,South Cambridgeshire 020D,CB10UA,CB10
+England,Uttlesford 004C,CB102QQ,CB10
+England,Uttlesford 004D,CB102YF,CB10
+England,Uttlesford 001D,CB101PH,CB10
+England,Uttlesford 004D,CB102XD,CB10
+England,Uttlesford 004C,CB102QJ,CB10
+England,Uttlesford 004C,CB102RR,CB10
+England,Cambridge 010B,CB10YE,CB10
+England,Uttlesford 002B,CB101HQ,CB10
+England,Uttlesford 001A,CB102LG,CB10
+England,Uttlesford 004C,CB102SB,CB10
+England,Uttlesford 004C,CB102RX,CB10
+England,Uttlesford 001A,CB102LS,CB10
+England,South Cambridgeshire 017A,CB101SZ,CB10
+England,Uttlesford 004C,CB102TH,CB10
+England,Uttlesford 002B,CB101BY,CB10
+England,Uttlesford 001A,CB102HF,CB10
+England,Uttlesford 001A,CB102LX,CB10
+England,Cambridge 010B,CB10UU,CB10
+England,Uttlesford 004D,CB102XR,CB10
+England,Uttlesford 004D,CB102YB,CB10
+England,Uttlesford 001B,CB109TQ,CB10
+England,South Cambridgeshire 017D,CB101SG,CB10
+England,Uttlesford 002B,CB101FP,CB10
+England,Uttlesford 002B,CB101QT,CB10
+England,Uttlesford 002B,CB101AW,CB10
+England,South Cambridgeshire 020D,CB10TL,CB10
+England,Uttlesford 002C,CB102DS,CB10
+England,Cambridge 010B,CB10GL,CB10
+England,South Cambridgeshire 020D,CB10TW,CB10
+England,Uttlesford 001B,CB101BX,CB10
+England,Uttlesford 001B,CB109SP,CB10
+England,Uttlesford 001D,CB101PJ,CB10
+England,Uttlesford 001D,CB101QH,CB10
+England,Uttlesford 002B,CB101AL,CB10
+England,Uttlesford 002B,CB101EW,CB10
+England,Uttlesford 001A,CB102HP,CB10
+England,Uttlesford 001A,CB102LL,CB10
+England,Uttlesford 001D,CB101PR,CB10
+England,Uttlesford 002C,CB102DY,CB10
+England,Uttlesford 001D,CB101NW,CB10
+England,Uttlesford 001C,CB102ND,CB10
+England,Uttlesford 004C,CB102TE,CB10
+England,Uttlesford 004C,CB102NY,CB10
+England,Uttlesford 002B,CB109AZ,CB10
+England,Uttlesford 002B,CB109EG,CB10
+England,Uttlesford 004C,CB102PL,CB10
+England,Cambridge 010B,CB10XT,CB10
+England,Uttlesford 002C,CB102EL,CB10
+England,Uttlesford 002D,CB102BH,CB10
+England,Uttlesford 001A,CB102HX,CB10
+England,Uttlesford 002B,CB101JF,CB10
+England,Uttlesford 001A,CB102HS,CB10
+England,Uttlesford 002C,CB102BF,CB10
+England,Uttlesford 002B,CB102ZZ,CB10
+England,Cambridge 010B,CB10PL,CB10
+England,Uttlesford 001A,CB102HT,CB10
+England,Uttlesford 002C,CB102EP,CB10
+England,Uttlesford 002B,CB101EA,CB10
+England,Uttlesford 002B,CB101AQ,CB10
+England,Cambridge 007G,CB10SR,CB10
+England,South Cambridgeshire 017A,CB101TE,CB10
+England,Uttlesford 002D,CB102DA,CB10
+England,Uttlesford 002D,CB102AU,CB10
+England,Uttlesford 002B,CB101DA,CB10
+England,Cambridge 010B,CB10YP,CB10
+England,Cambridge 010B,CB10GJ,CB10
+England,Uttlesford 001B,CB109SE,CB10
+England,Uttlesford 002B,CB101HZ,CB10
+England,Uttlesford 001D,CB101PF,CB10
+England,Uttlesford 001C,CB102NQ,CB10
+England,Cambridge 010B,CB10YS,CB10
+England,South Cambridgeshire 020D,CB10TS,CB10
+England,Uttlesford 001B,CB109SW,CB10
+England,Uttlesford 001D,CB101NS,CB10
+England,Uttlesford 001C,CB101UY,CB10
+England,Cambridge 010B,CB10YJ,CB10
+England,Uttlesford 001A,CB102JH,CB10
+England,South Cambridgeshire 017D,CB101RA,CB10
+England,South Cambridgeshire 017A,CB101SS,CB10
+England,Cambridge 010B,CB10YF,CB10
+England,Uttlesford 002C,CB102DT,CB10
+England,Uttlesford 004C,CB102TF,CB10
+England,Uttlesford 001B,CB109SR,CB10
+England,Uttlesford 001B,CB109SX,CB10
+England,Uttlesford 001A,CB102EZ,CB10
+England,Cambridge 010B,CB10GT,CB10
+England,Uttlesford 004C,CB102TL,CB10
+England,Uttlesford 001A,CB102LN,CB10
+England,Uttlesford 002D,CB102GR,CB10
+England,Cambridge 010B,CB10XH,CB10
+England,Uttlesford 001B,CB109SU,CB10
+England,Cambridge 010B,CB10WW,CB10
+England,Uttlesford 001B,CB109TH,CB10
+England,South Cambridgeshire 017A,CB101TF,CB10
+England,South Cambridgeshire 020D,CB10TQ,CB10
+England,Uttlesford 001D,CB101XJ,CB10
+England,Uttlesford 004C,CB102NZ,CB10
+England,Uttlesford 001D,CB101RL,CB10
+England,Cambridge 010B,CB10GX,CB10
+England,Uttlesford 004D,CB102YD,CB10
+England,Uttlesford 002C,CB102DW,CB10
+England,Uttlesford 004C,CB102QL,CB10
+England,Uttlesford 002B,CB101SY,CB10
+England,Uttlesford 004C,CB102PD,CB10
+England,Uttlesford 001D,CB101PN,CB10
+England,Uttlesford 002D,CB101LX,CB10
+England,Uttlesford 004D,CB102XW,CB10
+England,Cambridge 010B,CB10GR,CB10
+England,South Cambridgeshire 017A,CB101TG,CB10
+England,Uttlesford 004C,CB102PJ,CB10
+England,Uttlesford 002D,CB102BQ,CB10
+England,Uttlesford 002B,CB101AE,CB10
+England,Uttlesford 001D,CB101PT,CB10
+England,Uttlesford 002B,CB101HG,CB10
+England,South Cambridgeshire 017D,CB101SD,CB10
+England,Uttlesford 001D,CB101TY,CB10
+England,Uttlesford 001C,CB102AP,CB10
+England,Uttlesford 001C,CB102NH,CB10
+England,Uttlesford 002C,CB102BU,CB10
+England,Uttlesford 001B,CB109SA,CB10
+England,Uttlesford 004C,CB102PQ,CB10
+England,Uttlesford 002D,CB102BT,CB10
+England,Uttlesford 001D,CB101QG,CB10
+England,Cambridge 006A,CB10ZZ,CB10
+England,Uttlesford 002G,CB102JZ,CB10
+England,Uttlesford 002D,CB102AT,CB10
+England,Uttlesford 001A,CB102JL,CB10
+England,Uttlesford 001D,CB101NX,CB10
+England,South Cambridgeshire 020D,CB10TG,CB10
+England,South Cambridgeshire 020D,CB10UL,CB10
+England,Uttlesford 002C,CB102GA,CB10
+England,Uttlesford 001A,CB102HZ,CB10
+England,Uttlesford 001D,CB101PP,CB10
+England,Cambridge 010B,CB10YZ,CB10
+England,Uttlesford 002B,CB102ZF,CB10
+England,Uttlesford 002B,CB101BT,CB10
+England,Uttlesford 001C,CB102ED,CB10
+England,Uttlesford 002B,CB101AF,CB10
+England,Uttlesford 001A,CB102HD,CB10
+England,Uttlesford 004D,CB102SU,CB10
+England,Uttlesford 001A,CB102LE,CB10
+England,Uttlesford 002C,CB102DB,CB10
+England,Cambridge 010B,CB10HU,CB10
+England,Uttlesford 002B,CB109BE,CB10
+England,Uttlesford 002B,CB101AS,CB10
+England,Uttlesford 002B,CB101WG,CB10
+England,Uttlesford 002D,CB102BA,CB10
+England,Uttlesford 001A,CB102ST,CB10
+England,Uttlesford 002B,CB101BP,CB10
+England,South Cambridgeshire 017A,CB101SL,CB10
+England,Uttlesford 002B,CB101JB,CB10
+England,Uttlesford 002B,CB101DZ,CB10
+England,Uttlesford 004C,CB102QW,CB10
+England,Cambridge 010B,CB10QF,CB10
+England,Uttlesford 002B,CB101JZ,CB10
+England,Uttlesford 001A,CB102ET,CB10
+England,South Cambridgeshire 017A,CB101ST,CB10
+England,Uttlesford 001D,CB101TS,CB10
+England,Uttlesford 004C,CB102SE,CB10
+England,Uttlesford 002B,CB101HH,CB10
+England,Cambridge 007G,CB10SG,CB10
+England,Cambridge 007G,CB10SU,CB10
+England,Uttlesford 004C,CB102PR,CB10
+England,Cambridge 010B,CB10JH,CB10
+England,Uttlesford 001C,CB101XH,CB10
+England,Uttlesford 002B,CB101FJ,CB10
+England,South Cambridgeshire 017A,CB101SX,CB10
+England,Uttlesford 001D,CB101XL,CB10
+England,Uttlesford 004D,CB102YJ,CB10
+England,Uttlesford 002C,CB102DZ,CB10
+England,Uttlesford 004C,CB102QP,CB10
+England,Uttlesford 001C,CB102AN,CB10
+England,South Cambridgeshire 020D,CB10UH,CB10
+England,South Cambridgeshire 020D,CB10TP,CB10
+England,Uttlesford 002B,CB109DZ,CB10
+England,Uttlesford 001A,CB102HJ,CB10
+England,Uttlesford 002C,CB102DQ,CB10
+England,Uttlesford 001A,CB102LY,CB10
+England,Uttlesford 001B,CB109SQ,CB10
+England,South Cambridgeshire 020D,CB10TD,CB10
+England,Cambridge 010B,CB10RN,CB10
+England,Uttlesford 001A,CB102JD,CB10
+England,Uttlesford 001D,CB101UB,CB10
+England,Uttlesford 001C,CB102AL,CB10
+England,Uttlesford 001A,CB102EX,CB10
+England,Uttlesford 001C,CB101XB,CB10
+England,Uttlesford 002B,CB101ZP,CB10
+England,Uttlesford 002B,CB101ES,CB10
+England,Uttlesford 001A,CB102JB,CB10
+England,Cambridge 010B,CB10UQ,CB10
+England,Uttlesford 004D,CB102FW,CB10
+England,Uttlesford 001B,CB109TL,CB10
+England,Uttlesford 002G,CB102LD,CB10
+England,Uttlesford 002G,CB102UP,CB10
+England,Uttlesford 004D,CB102XF,CB10
+England,South Cambridgeshire 016C,CB102JQ,CB10
+England,Uttlesford 004C,CB102SP,CB10
+England,Uttlesford 004D,CB102XG,CB10
+England,Uttlesford 004D,CB102YE,CB10
+England,Cambridge 010B,CB10YL,CB10
+England,South Cambridgeshire 017A,CB101SR,CB10
+England,Cambridge 010B,CB10XU,CB10
+England,Uttlesford 004C,CB102UD,CB10
+England,Uttlesford 001B,CB109SZ,CB10
+England,Uttlesford 002G,CB102LB,CB10
+England,Uttlesford 004C,CB102RW,CB10
+England,Uttlesford 002B,CB101BS,CB10
+England,Uttlesford 002C,CB102BZ,CB10
+England,South Cambridgeshire 020D,CB10UD,CB10
+England,Uttlesford 001D,CB101PE,CB10
+England,Uttlesford 001B,CB109SN,CB10
+England,Uttlesford 001D,CB101TT,CB10
+England,Uttlesford 004D,CB102LH,CB10
+England,South Cambridgeshire 017A,CB101TB,CB10
+England,Uttlesford 002B,CB101AA,CB10
+England,Uttlesford 002C,CB102EQ,CB10
+England,Uttlesford 004D,CB102YL,CB10
+England,South Cambridgeshire 020D,CB10UF,CB10
+England,Uttlesford 001D,CB101QF,CB10
+England,South Cambridgeshire 017A,CB101TD,CB10
+England,Uttlesford 004D,CB102XX,CB10
+England,Uttlesford 001A,CB102LZ,CB10
+England,Uttlesford 004C,CB102TZ,CB10
+England,Uttlesford 001B,CB109SD,CB10
+England,Uttlesford 004C,CB102RN,CB10
+England,Cambridge 010B,CB10JS,CB10
+England,Uttlesford 002G,CB102UQ,CB10
+England,Uttlesford 004C,CB102PH,CB10
+England,Cambridge 010B,CB10GN,CB10
+England,Uttlesford 004C,CB102QH,CB10
+England,Uttlesford 001C,CB101XF,CB10
+England,Uttlesford 002D,CB102NF,CB10
+England,Uttlesford 001C,CB102DH,CB10
+England,Uttlesford 002B,CB101ND,CB10
+England,South Cambridgeshire 020D,CB10UE,CB10
+England,Uttlesford 001D,CB101PZ,CB10
+England,Cambridge 007G,CB10SP,CB10
+England,Uttlesford 001B,CB109TE,CB10
+England,Uttlesford 004C,CB102SA,CB10
+England,Uttlesford 001D,CB101PD,CB10
+England,Uttlesford 002B,CB101AU,CB10
+England,Cambridge 010B,CB10QY,CB10
+England,Uttlesford 002B,CB101QJ,CB10
+England,Uttlesford 002B,CB101AY,CB10
+England,Uttlesford 002B,CB101BJ,CB10
+England,Uttlesford 001D,CB101PG,CB10
+England,Uttlesford 002B,CB109EH,CB10
+England,Uttlesford 002B,CB109BS,CB10
+England,South Cambridgeshire 020D,CB10TX,CB10
+England,Uttlesford 002C,CB102DG,CB10
+England,Uttlesford 001D,CB101QR,CB10
+England,Uttlesford 004D,CB102XS,CB10
+England,Uttlesford 002B,CB101XX,CB10
+England,Uttlesford 002B,CB101AN,CB10
+England,Uttlesford 004D,CB102XL,CB10
+England,Uttlesford 002B,CB101DH,CB10
+England,Uttlesford 002B,CB101AT,CB10
+England,Uttlesford 002F,CB101LL,CB10
+England,Uttlesford 002D,CB102AX,CB10
+England,Uttlesford 001D,CB101UD,CB10
+England,Uttlesford 002D,CB102GN,CB10
+England,Cambridge 010B,CB10AH,CB10
+England,Uttlesford 002B,CB101EP,CB10
+England,Uttlesford 001D,CB101NY,CB10
+England,Uttlesford 002B,CB101BZ,CB10
+England,Uttlesford 004D,CB102XQ,CB10
+England,Uttlesford 002B,CB101EF,CB10
+England,Uttlesford 004D,CB102XJ,CB10
+England,Uttlesford 001B,CB109TB,CB10
+England,Uttlesford 002G,CB102UR,CB10
+England,Uttlesford 001A,CB102EU,CB10
+England,Uttlesford 002D,CB102EJ,CB10
+England,Cambridge 010B,CB10XW,CB10
+England,Uttlesford 002B,CB109DR,CB10
+England,Cambridge 010B,CB10XN,CB10
+England,Uttlesford 004C,CB102QN,CB10
+England,Uttlesford 002D,CB102BL,CB10
+England,Uttlesford 001D,CB101QP,CB10
+England,Uttlesford 002B,CB101RX,CB10
+England,Uttlesford 002B,CB102ES,CB10
+England,Uttlesford 002B,CB101DE,CB10
+England,Uttlesford 002B,CB101JP,CB10
+England,Cambridge 010B,CB10AP,CB10
+England,Uttlesford 002C,CB101BU,CB10
+England,South Cambridgeshire 020D,CB10TH,CB10
+England,Uttlesford 002B,CB101EQ,CB10
+England,Cambridge 010B,CB10YB,CB10
+England,Uttlesford 002B,CB101AD,CB10
+England,Uttlesford 001B,CB109TF,CB10
+England,Uttlesford 004D,CB102UZ,CB10
+England,Uttlesford 002D,CB102BJ,CB10
+England,Uttlesford 002C,CB102BP,CB10
+England,Cambridge 010B,CB10YA,CB10
+England,Uttlesford 001C,CB101XA,CB10
+England,Uttlesford 001A,CB102HR,CB10
+England,Cambridge 007G,CB10SD,CB10
+England,Uttlesford 001D,CB101RJ,CB10
+England,Uttlesford 002F,CB101LZ,CB10
+England,Cambridge 007G,CB10ST,CB10
+England,Uttlesford 002D,CB102AD,CB10
+England,Uttlesford 002B,CB101JL,CB10
+England,South Cambridgeshire 017A,CB101SU,CB10
+England,Uttlesford 004D,CB102YQ,CB10
+England,Cambridge 010B,CB10BX,CB10
+England,Uttlesford 001A,CB102HH,CB10
+England,Uttlesford 002B,CB101HA,CB10
+England,Uttlesford 002D,CB102AA,CB10
+England,Uttlesford 002D,CB102FJ,CB10
+England,Uttlesford 002F,CB101NB,CB10
+England,Uttlesford 001C,CB102EB,CB10
+England,Uttlesford 002B,CB101AR,CB10
+England,Uttlesford 002B,CB101JH,CB10
+England,Uttlesford 004C,CB102UE,CB10
+England,Uttlesford 002B,CB102FX,CB10
+England,Uttlesford 001C,CB101XN,CB10
+England,Cambridge 007G,CB10SS,CB10
+England,Cambridge 010B,CB10YQ,CB10
+England,Uttlesford 001B,CB109SH,CB10
+England,Uttlesford 001D,CB101TZ,CB10
+England,South Cambridgeshire 020D,CB10TT,CB10
+England,South Cambridgeshire 020D,CB10TR,CB10
+England,Uttlesford 002B,CB101AH,CB10
+England,Uttlesford 004C,CB102XT,CB10
+England,South Cambridgeshire 020D,CB10TJ,CB10
+England,Uttlesford 004C,CB102PF,CB10
+England,Uttlesford 002D,CB102BX,CB10
+England,South Cambridgeshire 017A,CB101TA,CB10
+England,Uttlesford 002B,CB101HE,CB10
