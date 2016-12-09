@@ -1,0 +1,805 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+England,South Hams 005A,PL210AL,PL21
+England,South Hams 001D,PL219FH,PL21
+England,Plymouth 026A,PL21SA,PL21
+England,South Hams 002A,PL219SU,PL21
+England,Plymouth 014C,PL21QT,PL21
+England,Plymouth 020A,PL21LR,PL21
+England,South Hams 005A,PL210UB,PL21
+England,Plymouth 014B,PL21LL,PL21
+England,South Hams 005F,PL219HB,PL21
+England,South Hams 005A,PL219AY,PL21
+England,Plymouth 020E,PL21BN,PL21
+England,South Hams 005E,PL219UP,PL21
+England,South Hams 002A,PL219QE,PL21
+England,Plymouth 020C,PL21QG,PL21
+England,Plymouth 020E,PL21BR,PL21
+England,Plymouth 026B,PL21DD,PL21
+England,South Hams 002A,PL219QX,PL21
+England,South Hams 002C,PL210ED,PL21
+England,Plymouth 020C,PL21QE,PL21
+England,South Hams 005G,PL219TW,PL21
+England,South Hams 002C,PL210DU,PL21
+England,South Hams 008B,PL210PY,PL21
+England,South Hams 008C,PL219NZ,PL21
+England,Plymouth 020B,PL21BA,PL21
+England,South Hams 008B,PL210QT,PL21
+England,Plymouth 026A,PL21RJ,PL21
+England,South Hams 002A,PL210JD,PL21
+England,South Hams 005D,PL210RX,PL21
+England,South Hams 005A,PL219DS,PL21
+England,South Hams 005A,PL219AA,PL21
+England,Plymouth 020B,PL21AF,PL21
+England,South Hams 005A,PL210FN,PL21
+England,South Hams 005A,PL219DR,PL21
+England,South Hams 005A,PL219BQ,PL21
+England,South Hams 006A,PL210SF,PL21
+England,South Hams 005A,PL211AQ,PL21
+England,South Hams 005B,PL210BX,PL21
+England,South Hams 002C,PL210EL,PL21
+England,South Hams 002A,PL219TA,PL21
+England,South Hams 008C,PL219LP,PL21
+England,Plymouth 020B,PL21BX,PL21
+England,South Hams 005G,PL219TZ,PL21
+England,South Hams 008C,PL219PE,PL21
+England,South Hams 005C,PL210WF,PL21
+England,South Hams 001D,PL219PN,PL21
+England,Plymouth 020A,PL21NJ,PL21
+England,South Hams 008B,PL210PZ,PL21
+England,South Hams 002C,PL210NF,PL21
+England,South Hams 002A,PL219SL,PL21
+England,South Hams 002C,PL210FP,PL21
+England,South Hams 002C,PL210EH,PL21
+England,South Hams 005G,PL219UZ,PL21
+England,South Hams 005B,PL210JX,PL21
+England,South Hams 005F,PL219HA,PL21
+England,South Hams 005F,PL219BW,PL21
+England,South Hams 002C,PL210HG,PL21
+England,South Hams 008B,PL210TP,PL21
+England,Plymouth 020B,PL21DX,PL21
+England,Plymouth 020E,PL21AN,PL21
+England,Plymouth 020E,PL21AP,PL21
+England,South Hams 005D,PL210AR,PL21
+England,Plymouth 020E,PL21HN,PL21
+England,South Hams 002A,PL219HP,PL21
+England,South Hams 008B,PL210TT,PL21
+England,South Hams 005E,PL219JB,PL21
+England,South Hams 005A,PL219PR,PL21
+England,South Hams 002C,PL210XN,PL21
+England,South Hams 005F,PL219TP,PL21
+England,South Hams 001D,PL219EF,PL21
+England,Plymouth 014C,PL21NZ,PL21
+England,South Hams 002A,PL219RS,PL21
+England,South Hams 005C,PL210YA,PL21
+England,South Hams 008C,PL219LL,PL21
+England,Plymouth 020D,PL21QJ,PL21
+England,South Hams 002C,PL210XF,PL21
+England,South Hams 008C,PL219LF,PL21
+England,South Hams 005C,PL210YE,PL21
+England,South Hams 008B,PL210QY,PL21
+England,South Hams 005F,PL219JA,PL21
+England,South Hams 005G,PL219TY,PL21
+England,Plymouth 020E,PL21HJ,PL21
+England,South Hams 008B,PL210TD,PL21
+England,South Hams 002C,PL210NW,PL21
+England,South Hams 005F,PL219UD,PL21
+England,Plymouth 020C,PL21QA,PL21
+England,South Hams 002C,PL210NS,PL21
+England,South Hams 005A,PL210FL,PL21
+England,Plymouth 020C,PL21PY,PL21
+England,South Hams 005A,PL219GH,PL21
+England,South Hams 005E,PL219HZ,PL21
+England,Plymouth 020D,PL21PW,PL21
+England,South Hams 008B,PL210XY,PL21
+England,Plymouth 026B,PL21AH,PL21
+England,South Hams 002C,PL210DA,PL21
+England,South Hams 008C,PL210LU,PL21
+England,South Hams 008C,PL219NQ,PL21
+England,South Hams 005A,PL210UL,PL21
+England,South Hams 005C,PL210YD,PL21
+England,South Hams 005B,PL210NA,PL21
+England,Plymouth 026B,PL21AG,PL21
+England,South Hams 008C,PL219LX,PL21
+England,South Hams 005B,PL210DD,PL21
+England,Plymouth 026A,PL21QX,PL21
+England,South Hams 005F,PL219BT,PL21
+England,South Hams 005C,PL210WD,PL21
+England,South Hams 002A,PL219QL,PL21
+England,Plymouth 020B,PL21EG,PL21
+England,South Hams 008C,PL219JX,PL21
+England,Plymouth 020E,PL21BL,PL21
+England,South Hams 002C,PL210NZ,PL21
+England,South Hams 002C,PL210LE,PL21
+England,Plymouth 020B,PL21RP,PL21
+England,South Hams 005A,PL219AZ,PL21
+England,South Hams 005G,PL219UQ,PL21
+England,South Hams 005E,PL219UX,PL21
+England,Plymouth 020D,PL21EN,PL21
+England,South Hams 002C,PL210NH,PL21
+England,South Hams 005D,PL210UW,PL21
+England,South Hams 005D,PL210AX,PL21
+England,Plymouth 020D,PL21PH,PL21
+England,South Hams 002A,PL210JH,PL21
+England,South Hams 008C,PL219NA,PL21
+England,South Hams 008B,PL210TW,PL21
+England,Plymouth 020A,PL21NP,PL21
+England,South Hams 005C,PL210YQ,PL21
+England,South Hams 008B,PL210QR,PL21
+England,South Hams 008B,PL210SR,PL21
+England,South Hams 005D,PL210PP,PL21
+England,Plymouth 026A,PL21SQ,PL21
+England,South Hams 002A,PL219RP,PL21
+England,South Hams 001D,PL219EL,PL21
+England,South Hams 005F,PL219DD,PL21
+England,South Hams 002A,PL219RD,PL21
+England,Plymouth 020E,PL21EY,PL21
+England,South Hams 001D,PL219EJ,PL21
+England,South Hams 008B,PL210RD,PL21
+England,South Hams 008C,PL219NT,PL21
+England,South Hams 005C,PL210BG,PL21
+England,South Hams 005A,PL219DU,PL21
+England,South Hams 002A,PL219SN,PL21
+England,Plymouth 026A,PL21RT,PL21
+England,South Hams 008B,PL219NY,PL21
+England,South Hams 008C,PL219JS,PL21
+England,Plymouth 020A,PL21LP,PL21
+England,South Hams 008B,PL210QU,PL21
+England,South Hams 005A,PL219ZJ,PL21
+England,Plymouth 026A,PL21SG,PL21
+England,South Hams 002C,PL210HN,PL21
+England,South Hams 005B,PL210DG,PL21
+England,South Hams 005A,PL219FN,PL21
+England,South Hams 005A,PL210AG,PL21
+England,South Hams 005A,PL219DP,PL21
+England,Plymouth 020C,PL21HY,PL21
+England,South Hams 008B,PL210SA,PL21
+England,Plymouth 020B,PL21EJ,PL21
+England,South Hams 008C,PL219HL,PL21
+England,South Hams 008C,PL219ND,PL21
+England,South Hams 005A,PL219ES,PL21
+England,South Hams 005A,PL219AX,PL21
+England,Plymouth 020C,PL21LE,PL21
+England,South Hams 005A,PL210BN,PL21
+England,South Hams 005A,PL210AD,PL21
+England,South Hams 002A,PL219RZ,PL21
+England,South Hams 005A,PL219DL,PL21
+England,Plymouth 026A,PL21RF,PL21
+England,South Hams 002C,PL210DS,PL21
+England,South Hams 005F,PL219BJ,PL21
+England,South Hams 008B,PL210RZ,PL21
+England,South Hams 002C,PL210PF,PL21
+England,Plymouth 020E,PL21PT,PL21
+England,South Hams 002C,PL210XL,PL21
+England,South Hams 005C,PL210FB,PL21
+England,South Hams 002C,PL210DP,PL21
+England,South Hams 005B,PL210JU,PL21
+England,South Hams 005F,PL219TJ,PL21
+England,South Hams 008B,PL210QW,PL21
+England,South Hams 005B,PL210BY,PL21
+England,South Hams 008C,PL219NS,PL21
+England,South Hams 005C,PL210YB,PL21
+England,South Hams 005D,PL210BD,PL21
+England,South Hams 005D,PL210YL,PL21
+England,Plymouth 020C,PL21LA,PL21
+England,South Hams 001D,PL219EA,PL21
+England,South Hams 002A,PL219ST,PL21
+England,South Hams 005G,PL219TX,PL21
+England,South Hams 002A,PL219QB,PL21
+England,South Hams 005B,PL210JY,PL21
+England,South Hams 005G,PL219TF,PL21
+England,South Hams 005D,PL210YP,PL21
+England,South Hams 008B,PL210RB,PL21
+England,South Hams 002A,PL219PY,PL21
+England,South Hams 002C,PL210NJ,PL21
+England,South Hams 005E,PL219PD,PL21
+England,South Hams 008C,PL219RL,PL21
+England,South Hams 008C,PL219GL,PL21
+England,Plymouth 020A,PL21LS,PL21
+England,South Hams 002C,PL210HH,PL21
+England,Plymouth 024B,PL21HH,PL21
+England,Plymouth 020C,PL21DQ,PL21
+England,South Hams 002C,PL210EZ,PL21
+England,South Hams 005G,PL219RN,PL21
+England,South Hams 005A,PL219BB,PL21
+England,South Hams 008B,PL210RH,PL21
+England,Plymouth 026A,PL21RU,PL21
+England,South Hams 005A,PL210UJ,PL21
+England,South Hams 005C,PL210XZ,PL21
+England,South Hams 008C,PL219LT,PL21
+England,South Hams 005C,PL210HY,PL21
+England,South Hams 005F,PL219BP,PL21
+England,South Hams 005E,PL219JE,PL21
+England,South Hams 005A,PL219DW,PL21
+England,South Hams 008B,PL210RA,PL21
+England,Plymouth 020E,PL21BQ,PL21
+England,Plymouth 020D,PL21PP,PL21
+England,South Hams 002C,PL210NL,PL21
+England,South Hams 008C,PL219NP,PL21
+England,Plymouth 026A,PL21DE,PL21
+England,South Hams 008C,PL219NF,PL21
+England,South Hams 002C,PL210DW,PL21
+England,South Hams 002A,PL210JF,PL21
+England,Plymouth 020E,PL21EL,PL21
+England,South Hams 008C,PL210LJ,PL21
+England,South Hams 008B,PL210TJ,PL21
+England,South Hams 002C,PL210DZ,PL21
+England,South Hams 002A,PL219QY,PL21
+England,Plymouth 020B,PL21ED,PL21
+England,Plymouth 020C,PL21JN,PL21
+England,South Hams 008B,PL210LX,PL21
+England,South Hams 005G,PL219UE,PL21
+England,South Hams 001D,PL219ED,PL21
+England,South Hams 008C,PL219LA,PL21
+England,Plymouth 020E,PL21BP,PL21
+England,South Hams 008C,PL219EW,PL21
+England,South Hams 002C,PL210NT,PL21
+England,Plymouth 020B,PL21DU,PL21
+England,South Hams 002A,PL219PP,PL21
+England,South Hams 005A,PL210BS,PL21
+England,South Hams 002A,PL210JL,PL21
+England,Plymouth 031A,PL21ZJ,PL21
+England,South Hams 005A,PL219PA,PL21
+England,South Hams 005C,PL210WE,PL21
+England,South Hams 008B,PL210RS,PL21
+England,South Hams 008C,PL219ER,PL21
+England,South Hams 008C,PL210LY,PL21
+England,South Hams 008B,PL210RL,PL21
+England,South Hams 002A,PL219SR,PL21
+England,South Hams 008A,PL210SB,PL21
+England,South Hams 008B,PL210PS,PL21
+England,South Hams 002C,PL210LA,PL21
+England,South Hams 005A,PL211AP,PL21
+England,South Hams 005G,PL219TH,PL21
+England,Plymouth 020C,PL21JA,PL21
+England,South Hams 002A,PL219SQ,PL21
+England,South Hams 002A,PL219QH,PL21
+England,South Hams 005F,PL219BX,PL21
+England,South Hams 008C,PL219HN,PL21
+England,South Hams 008C,PL210LH,PL21
+England,South Hams 001D,PL219EU,PL21
+England,South Hams 005F,PL219HG,PL21
+England,South Hams 002C,PL210LL,PL21
+England,Plymouth 024B,PL21HA,PL21
+England,South Hams 005A,PL219AH,PL21
+England,Plymouth 020E,PL21HW,PL21
+England,Plymouth 020A,PL21NQ,PL21
+England,Plymouth 020C,PL21JE,PL21
+England,Plymouth 020D,PL21QF,PL21
+England,South Hams 002A,PL219RF,PL21
+England,South Hams 002C,PL210XJ,PL21
+England,South Hams 005A,PL219AD,PL21
+England,Plymouth 014B,PL21LG,PL21
+England,South Hams 005C,PL210ND,PL21
+England,South Hams 005F,PL219JG,PL21
+England,South Hams 008B,PL210RJ,PL21
+England,South Hams 008C,PL219GP,PL21
+England,South Hams 005C,PL210YJ,PL21
+England,South Hams 005E,PL219JF,PL21
+England,South Hams 005A,PL210AJ,PL21
+England,Plymouth 020C,PL21JD,PL21
+England,Plymouth 026A,PL21RD,PL21
+England,Plymouth 026B,PL21BD,PL21
+England,Plymouth 020E,PL21BW,PL21
+England,Plymouth 024B,PL21ES,PL21
+England,South Hams 008C,PL219JY,PL21
+England,South Hams 005B,PL210PL,PL21
+England,Plymouth 020C,PL21QB,PL21
+England,Plymouth 024B,PL21ET,PL21
+England,South Hams 005A,PL219AE,PL21
+England,Plymouth 014B,PL21LH,PL21
+England,Plymouth 020C,PL21QQ,PL21
+England,South Hams 008C,PL219GA,PL21
+England,Plymouth 020B,PL21JL,PL21
+England,South Hams 008B,PL210TB,PL21
+England,South Hams 005A,PL219PF,PL21
+England,Plymouth 014C,PL21JR,PL21
+England,South Hams 005F,PL219BH,PL21
+England,South Hams 002A,PL219SP,PL21
+England,Plymouth 020D,PL21PN,PL21
+England,South Hams 002C,PL210PQ,PL21
+England,Plymouth 026A,PL21QZ,PL21
+England,South Hams 005A,PL210TR,PL21
+England,South Hams 002C,PL210DQ,PL21
+England,South Hams 005A,PL219DE,PL21
+England,South Hams 008C,PL219HW,PL21
+England,South Hams 005E,PL219JQ,PL21
+England,South Hams 008B,PL210QQ,PL21
+England,South Hams 005C,PL210GA,PL21
+England,Plymouth 020A,PL21LJ,PL21
+England,Plymouth 026B,PL21DN,PL21
+England,South Hams 008B,PL210SN,PL21
+England,South Hams 002C,PL210EB,PL21
+England,South Hams 005E,PL219TE,PL21
+England,South Hams 002A,PL219RB,PL21
+England,Plymouth 020C,PL21JU,PL21
+England,South Hams 008B,PL210SQ,PL21
+England,Plymouth 026A,PL21SE,PL21
+England,South Hams 002C,PL210NY,PL21
+England,Plymouth 020B,PL21BZ,PL21
+England,Plymouth 020A,PL21NL,PL21
+England,South Hams 008C,PL219UH,PL21
+England,Plymouth 020B,PL21JH,PL21
+England,South Hams 002C,PL210XW,PL21
+England,Plymouth 020A,PL21LN,PL21
+England,Plymouth 026A,PL21SF,PL21
+England,Plymouth 026B,PL21DL,PL21
+England,Plymouth 020C,PL21JG,PL21
+England,South Hams 002A,PL219SW,PL21
+England,South Hams 008B,PL210SP,PL21
+England,South Hams 005E,PL219UT,PL21
+England,South Hams 005G,PL219UA,PL21
+England,Plymouth 020A,PL21JP,PL21
+England,South Hams 008B,PL210SH,PL21
+England,South Hams 005D,PL210PW,PL21
+England,South Hams 005A,PL219DG,PL21
+England,South Hams 002A,PL219RT,PL21
+England,Plymouth 026A,PL21RN,PL21
+England,South Hams 005A,PL219EH,PL21
+England,South Hams 002C,PL210PH,PL21
+England,South Hams 008B,PL210PT,PL21
+England,Plymouth 020E,PL21DW,PL21
+England,South Hams 005G,PL219TU,PL21
+England,South Hams 008B,PL210RF,PL21
+England,South Hams 002C,PL210ER,PL21
+England,Plymouth 020C,PL21JB,PL21
+England,South Hams 002C,PL210PG,PL21
+England,South Hams 008C,PL210LN,PL21
+England,South Hams 005F,PL219HE,PL21
+England,South Hams 005F,PL219JH,PL21
+England,South Hams 005F,PL219HJ,PL21
+England,South Hams 005A,PL219PQ,PL21
+England,Plymouth 020C,PL21JW,PL21
+England,South Hams 005G,PL219UG,PL21
+England,South Hams 005E,PL219DA,PL21
+England,South Hams 005G,PL219TL,PL21
+England,South Hams 005A,PL210BP,PL21
+England,South Hams 005A,PL219AJ,PL21
+England,South Hams 005E,PL219TD,PL21
+England,South Hams 002A,PL210JE,PL21
+England,South Hams 008C,PL219FR,PL21
+England,South Hams 008C,PL219LY,PL21
+England,South Hams 005C,PL210NB,PL21
+England,South Hams 008B,PL210QL,PL21
+England,South Hams 001D,PL219EG,PL21
+England,South Hams 005A,PL219EY,PL21
+England,South Hams 002A,PL219HS,PL21
+England,South Hams 005C,PL210FE,PL21
+England,South Hams 002A,PL219PH,PL21
+England,South Hams 008B,PL210FS,PL21
+England,South Hams 008B,PL210TL,PL21
+England,Plymouth 026A,PL21SB,PL21
+England,South Hams 002C,PL210EE,PL21
+England,South Hams 005E,PL219JD,PL21
+England,Plymouth 020D,PL21DT,PL21
+England,South Hams 005F,PL219DB,PL21
+England,South Hams 008C,PL219LR,PL21
+England,Plymouth 020C,PL21JT,PL21
+England,South Hams 002C,PL210DL,PL21
+England,South Hams 002A,PL219RU,PL21
+England,South Hams 005A,PL210AH,PL21
+England,South Hams 008C,PL219NH,PL21
+England,South Hams 008B,PL210QA,PL21
+England,Plymouth 026A,PL21RQ,PL21
+England,South Hams 002C,PL210DH,PL21
+England,South Hams 005A,PL219AS,PL21
+England,South Hams 002C,PL210HE,PL21
+England,Plymouth 026A,PL21BE,PL21
+England,Plymouth 020A,PL21NF,PL21
+England,South Hams 002C,PL210DX,PL21
+England,South Hams 008B,PL210QX,PL21
+England,South Hams 008C,PL219NR,PL21
+England,South Hams 002A,PL219QA,PL21
+England,South Hams 002C,PL210HD,PL21
+England,South Hams 001D,PL219FL,PL21
+England,South Hams 002A,PL210JQ,PL21
+England,South Hams 005A,PL219DT,PL21
+England,Plymouth 020A,PL21NG,PL21
+England,South Hams 005A,PL210SL,PL21
+England,South Hams 005A,PL219AT,PL21
+England,South Hams 002C,PL210EQ,PL21
+England,South Hams 005G,PL219UN,PL21
+England,Plymouth 020A,PL21NH,PL21
+England,South Hams 005C,PL210WB,PL21
+England,South Hams 001D,PL219DZ,PL21
+England,South Hams 002C,PL210EJ,PL21
+England,South Hams 008A,PL210ST,PL21
+England,South Hams 002C,PL210HW,PL21
+England,Plymouth 020A,PL21PA,PL21
+England,South Hams 005F,PL219HH,PL21
+England,South Hams 005A,PL219DJ,PL21
+England,South Hams 002C,PL210EN,PL21
+England,South Hams 005B,PL210FD,PL21
+England,South Hams 002A,PL219HT,PL21
+England,South Hams 002C,PL210FA,PL21
+England,South Hams 005G,PL219XE,PL21
+England,South Hams 005A,PL219PG,PL21
+England,South Hams 008B,PL210QF,PL21
+England,Plymouth 020A,PL21LU,PL21
+England,South Hams 008A,PL210SE,PL21
+England,South Hams 005D,PL210EY,PL21
+England,South Hams 008C,PL210LZ,PL21
+England,South Hams 005B,PL210HT,PL21
+England,Plymouth 026B,PL21AL,PL21
+England,South Hams 005G,PL219RJ,PL21
+England,Plymouth 020D,PL21PS,PL21
+England,South Hams 002A,PL219ET,PL21
+England,South Hams 002A,PL219PZ,PL21
+England,South Hams 002A,PL219QQ,PL21
+England,Plymouth 020B,PL21RR,PL21
+England,South Hams 008B,PL210TE,PL21
+England,South Hams 001D,PL219EB,PL21
+England,Plymouth 031A,PL21YU,PL21
+England,Plymouth 026A,PL21RH,PL21
+England,South Hams 008B,PL210NU,PL21
+England,South Hams 008B,PL210QP,PL21
+England,South Hams 002C,PL210HQ,PL21
+England,Plymouth 026A,PL21RL,PL21
+England,South Hams 008C,PL219NJ,PL21
+England,South Hams 002C,PL210PA,PL21
+England,South Hams 008C,PL219JN,PL21
+England,South Hams 005F,PL219HQ,PL21
+England,Plymouth 026B,PL21DA,PL21
+England,South Hams 008B,PL210TG,PL21
+England,Plymouth 020E,PL21AE,PL21
+England,Plymouth 026B,PL21DB,PL21
+England,South Hams 002A,PL219QF,PL21
+England,South Hams 008A,PL210SX,PL21
+England,South Hams 008C,PL219GD,PL21
+England,South Hams 008C,PL219PB,PL21
+England,South Hams 002C,PL210LF,PL21
+England,Plymouth 026A,PL21EA,PL21
+England,South Hams 002C,PL210ES,PL21
+England,South Hams 008C,PL219NW,PL21
+England,South Hams 008B,PL210HL,PL21
+England,South Hams 002C,PL210HP,PL21
+England,South Hams 008C,PL219GN,PL21
+England,South Hams 005A,PL219BA,PL21
+England,South Hams 005A,PL210AQ,PL21
+England,South Hams 005F,PL219UB,PL21
+England,South Hams 008B,PL210PR,PL21
+England,South Hams 002A,PL219SJ,PL21
+England,South Hams 002C,PL210NX,PL21
+England,Plymouth 020A,PL21NW,PL21
+England,South Hams 002A,PL219QS,PL21
+England,South Hams 002C,PL210TZ,PL21
+England,Plymouth 020C,PL21JF,PL21
+England,South Hams 008C,PL210LQ,PL21
+England,South Hams 002C,PL210DR,PL21
+England,Plymouth 020B,PL21JQ,PL21
+England,South Hams 005G,PL219TT,PL21
+England,Plymouth 026B,PL21DG,PL21
+England,Plymouth 026B,PL21DF,PL21
+England,South Hams 008B,PL210PX,PL21
+England,Plymouth 020C,PL21DS,PL21
+England,South Hams 005A,PL210UD,PL21
+England,South Hams 002C,PL210XP,PL21
+England,South Hams 005A,PL219AP,PL21
+England,South Hams 002A,PL219QP,PL21
+England,South Hams 008C,PL219NE,PL21
+England,South Hams 005E,PL219UR,PL21
+England,South Hams 005D,PL210PN,PL21
+England,South Hams 005A,PL210UA,PL21
+England,South Hams 002A,PL219RY,PL21
+England,South Hams 002C,PL210EU,PL21
+England,South Hams 005A,PL219BD,PL21
+England,South Hams 002C,PL210LR,PL21
+England,South Hams 008C,PL210LP,PL21
+England,South Hams 008B,PL210RG,PL21
+England,South Hams 002C,PL210XG,PL21
+England,Plymouth 020E,PL21AD,PL21
+England,South Hams 008C,PL219FS,PL21
+England,Plymouth 020E,PL21EW,PL21
+England,Plymouth 020D,PL21PU,PL21
+England,South Hams 002A,PL219PU,PL21
+England,Plymouth 026B,PL21DJ,PL21
+England,Plymouth 020A,PL21LT,PL21
+England,South Hams 005A,PL210UR,PL21
+England,Plymouth 020B,PL21DY,PL21
+England,South Hams 002C,PL210DN,PL21
+England,South Hams 005D,PL210AU,PL21
+England,South Hams 008B,PL210QN,PL21
+England,South Hams 005C,PL210BZ,PL21
+England,South Hams 008B,PL210TA,PL21
+England,South Hams 005D,PL210AT,PL21
+England,Plymouth 020B,PL21BT,PL21
+England,South Hams 005D,PL210AN,PL21
+England,South Hams 005F,PL219BZ,PL21
+England,South Hams 008C,PL219GE,PL21
+England,South Hams 008B,PL210TF,PL21
+England,Plymouth 014B,PL21LQ,PL21
+England,Plymouth 026A,PL21AW,PL21
+England,South Hams 008C,PL219JR,PL21
+England,Plymouth 020B,PL21BU,PL21
+England,Plymouth 014C,PL21PB,PL21
+England,South Hams 008C,PL210LB,PL21
+England,South Hams 005A,PL210BU,PL21
+England,South Hams 002A,PL219RX,PL21
+England,South Hams 005D,PL210JA,PL21
+England,South Hams 005A,PL219AL,PL21
+England,South Hams 008C,PL219GS,PL21
+England,South Hams 008B,PL210RN,PL21
+England,South Hams 002A,PL219QT,PL21
+England,South Hams 005G,PL219UJ,PL21
+England,Plymouth 014C,PL21NX,PL21
+England,South Hams 008B,PL210TU,PL21
+England,South Hams 005C,PL210LT,PL21
+England,Plymouth 020B,PL21EE,PL21
+England,Plymouth 020B,PL21DR,PL21
+England,South Hams 005E,PL219TQ,PL21
+England,South Hams 008C,PL219LU,PL21
+England,South Hams 002C,PL210DJ,PL21
+England,Plymouth 020C,PL21HR,PL21
+England,South Hams 002A,PL219RR,PL21
+England,South Hams 005F,PL219LG,PL21
+England,South Hams 002A,PL219PL,PL21
+England,Plymouth 020E,PL21BS,PL21
+England,South Hams 002A,PL219QU,PL21
+England,South Hams 005A,PL210UQ,PL21
+England,Plymouth 026A,PL21JS,PL21
+England,South Hams 002C,PL210XQ,PL21
+England,South Hams 002A,PL219QW,PL21
+England,South Hams 005A,PL210BE,PL21
+England,South Hams 002C,PL210NR,PL21
+England,South Hams 001D,PL219EQ,PL21
+England,South Hams 002A,PL219SY,PL21
+England,Plymouth 020B,PL21RW,PL21
+England,Plymouth 020A,PL21NR,PL21
+England,South Hams 008C,PL219GB,PL21
+England,South Hams 008C,PL219LD,PL21
+England,Plymouth 026A,PL21RA,PL21
+England,South Hams 002C,PL210LD,PL21
+England,South Hams 005C,PL210AY,PL21
+England,South Hams 005A,PL219DN,PL21
+England,Plymouth 020A,PL21NE,PL21
+England,South Hams 005G,PL219TR,PL21
+England,South Hams 005D,PL210FG,PL21
+England,South Hams 008C,PL219LH,PL21
+England,South Hams 002A,PL219QZ,PL21
+England,South Hams 002C,PL210HR,PL21
+England,South Hams 005D,PL210BL,PL21
+England,South Hams 005G,PL219TN,PL21
+England,South Hams 008B,PL210UT,PL21
+England,Plymouth 020A,PL21NA,PL21
+England,South Hams 005A,PL210UG,PL21
+England,South Hams 005A,PL219AQ,PL21
+England,Plymouth 014C,PL21LX,PL21
+England,Plymouth 020A,PL21LW,PL21
+England,South Hams 002A,PL219QD,PL21
+England,Plymouth 020B,PL21EF,PL21
+England,Plymouth 026A,PL21DH,PL21
+England,South Hams 002C,PL210EP,PL21
+England,Plymouth 020C,PL21JJ,PL21
+England,South Hams 005F,PL219GX,PL21
+England,South Hams 005F,PL219TS,PL21
+England,Plymouth 014C,PL21QS,PL21
+England,South Hams 005A,PL219FE,PL21
+England,South Hams 008C,PL219NX,PL21
+England,South Hams 002C,PL210EF,PL21
+England,South Hams 002C,PL210PD,PL21
+England,South Hams 002C,PL210PE,PL21
+England,South Hams 001D,PL219PJ,PL21
+England,South Hams 005D,PL210UN,PL21
+England,South Hams 005D,PL210BJ,PL21
+England,South Hams 005C,PL210BH,PL21
+England,South Hams 005B,PL210PJ,PL21
+England,Plymouth 026A,PL21RS,PL21
+England,South Hams 008C,PL219NB,PL21
+England,South Hams 005A,PL210RU,PL21
+England,Plymouth 020B,PL21EQ,PL21
+England,South Hams 005A,PL219BE,PL21
+England,South Hams 008C,PL219GG,PL21
+England,South Hams 002A,PL219SH,PL21
+England,Plymouth 020B,PL21DP,PL21
+England,South Hams 002C,PL210EX,PL21
+England,South Hams 005D,PL210AS,PL21
+England,Plymouth 020A,PL21NY,PL21
+England,South Hams 008B,PL210RT,PL21
+England,South Hams 002C,PL210HA,PL21
+England,South Hams 008C,PL219NN,PL21
+England,Plymouth 020B,PL21DZ,PL21
+England,South Hams 002C,PL210XR,PL21
+England,South Hams 005A,PL210UH,PL21
+England,South Hams 008B,PL210QJ,PL21
+England,South Hams 005A,PL210YY,PL21
+England,Plymouth 020B,PL21EH,PL21
+England,South Hams 008B,PL210PU,PL21
+England,South Hams 002A,PL210JG,PL21
+England,South Hams 002C,PL210NE,PL21
+England,South Hams 002A,PL219RQ,PL21
+England,South Hams 008B,PL210NQ,PL21
+England,South Hams 008B,PL210RW,PL21
+England,South Hams 005E,PL219UY,PL21
+England,South Hams 005D,PL210FJ,PL21
+England,South Hams 008C,PL219JW,PL21
+England,South Hams 008B,PL210QH,PL21
+England,Plymouth 020D,PL21HT,PL21
+England,South Hams 005C,PL210YH,PL21
+England,South Hams 002A,PL219SG,PL21
+England,South Hams 002A,PL219PX,PL21
+England,South Hams 005A,PL219AN,PL21
+England,South Hams 005A,PL210DB,PL21
+England,Plymouth 020A,PL21NU,PL21
+England,South Hams 005E,PL219XA,PL21
+England,Plymouth 024B,PL21EU,PL21
+England,South Hams 005A,PL219AG,PL21
+England,Plymouth 026A,PL21RX,PL21
+England,Plymouth 020C,PL21LB,PL21
+England,Plymouth 014C,PL21NN,PL21
+England,South Hams 002C,PL210NP,PL21
+England,Plymouth 020C,PL21JZ,PL21
+England,South Hams 005A,PL211AF,PL21
+England,Plymouth 020B,PL21BB,PL21
+England,South Hams 005C,PL210YF,PL21
+England,South Hams 005A,PL219BL,PL21
+England,South Hams 002C,PL210NG,PL21
+England,Plymouth 020D,PL21HP,PL21
+England,South Hams 005D,PL210LS,PL21
+England,South Hams 005F,PL219HD,PL21
+England,South Hams 008B,PL210QB,PL21
+England,Plymouth 026A,PL21RZ,PL21
+England,South Hams 005B,PL210JN,PL21
+England,South Hams 005A,PL219AB,PL21
+England,Plymouth 020E,PL21AB,PL21
+England,South Hams 005B,PL210JP,PL21
+England,South Hams 005G,PL219JJ,PL21
+England,South Hams 002A,PL210JJ,PL21
+England,South Hams 005A,PL210UE,PL21
+England,South Hams 005B,PL210DF,PL21
+England,South Hams 005A,PL219FF,PL21
+England,South Hams 005A,PL219DF,PL21
+England,Plymouth 020A,PL21NT,PL21
+England,South Hams 002A,PL219HX,PL21
+England,Plymouth 020A,PL21NS,PL21
+England,South Hams 005B,PL210JS,PL21
+England,South Hams 008C,PL219NL,PL21
+England,South Hams 005A,PL219DH,PL21
+England,Plymouth 020D,PL21JY,PL21
+England,South Hams 005F,PL219BU,PL21
+England,South Hams 008B,PL210TH,PL21
+England,Plymouth 020E,PL21AU,PL21
+England,South Hams 002C,PL210NN,PL21
+England,South Hams 005F,PL219BY,PL21
+England,South Hams 005B,PL210HS,PL21
+England,South Hams 008C,PL219NU,PL21
+England,South Hams 005A,PL219AU,PL21
+England,South Hams 002A,PL219HR,PL21
+England,South Hams 005D,PL210FQ,PL21
+England,South Hams 008C,PL219LS,PL21
+England,South Hams 002A,PL219RE,PL21
+England,South Hams 005A,PL210AP,PL21
+England,Plymouth 026A,PL21RB,PL21
+England,South Hams 008B,PL210QG,PL21
+England,Plymouth 020E,PL21EP,PL21
+England,Plymouth 020D,PL21PR,PL21
+England,South Hams 006B,PL210SG,PL21
+England,South Hams 005D,PL210BQ,PL21
+England,South Hams 008B,PL210RE,PL21
+England,South Hams 005C,PL210FH,PL21
+England,South Hams 008B,PL210SJ,PL21
+England,South Hams 002A,PL219QJ,PL21
+England,South Hams 008C,PL219NG,PL21
+England,South Hams 002A,PL219SZ,PL21
+England,South Hams 005B,PL210JR,PL21
+England,South Hams 001D,PL219FJ,PL21
+England,South Hams 005A,PL219BG,PL21
+England,South Hams 008A,PL210SD,PL21
+England,South Hams 002C,PL210PB,PL21
+England,South Hams 005A,PL219PS,PL21
+England,South Hams 002C,PL210DY,PL21
+England,Plymouth 014B,PL21LF,PL21
+England,South Hams 002A,PL219SA,PL21
+England,Plymouth 020D,PL21PJ,PL21
+England,Plymouth 020E,PL21AT,PL21
+England,South Hams 008B,PL210RY,PL21
+England,South Hams 005E,PL219XD,PL21
+England,South Hams 005C,PL210HX,PL21
+England,South Hams 005A,PL210AE,PL21
+England,South Hams 008B,PL210TQ,PL21
+England,South Hams 008D,PL219LB,PL21
+England,South Hams 002A,PL219SD,PL21
+England,South Hams 002A,PL219SF,PL21
+England,South Hams 001D,PL219DY,PL21
+England,South Hams 005D,PL210SW,PL21
+England,Plymouth 026A,PL21RG,PL21
+England,South Hams 002A,PL219SX,PL21
+England,South Hams 008C,PL219JL,PL21
+England,South Hams 005E,PL219PT,PL21
+England,South Hams 001D,PL219EX,PL21
+England,South Hams 008C,PL219EN,PL21
+England,South Hams 002C,PL210ET,PL21
+England,South Hams 005A,PL210XA,PL21
+England,South Hams 008B,PL210QE,PL21
+England,South Hams 005E,PL219UU,PL21
+England,South Hams 002C,PL210DT,PL21
+England,Plymouth 026A,PL21SD,PL21
+England,South Hams 008C,PL219JT,PL21
+England,South Hams 002A,PL219HU,PL21
+England,South Hams 002C,PL210EA,PL21
+England,South Hams 005B,PL210JT,PL21
+England,South Hams 005F,PL219BS,PL21
+England,South Hams 001D,PL219EE,PL21
+England,South Hams 008B,PL210TX,PL21
+England,South Hams 005D,PL210WA,PL21
+England,South Hams 005A,PL210TN,PL21
+England,South Hams 005E,PL219UW,PL21
+England,South Hams 008C,PL219LZ,PL21
+England,South Hams 005C,PL210HZ,PL21
+England,South Hams 005C,PL210FT,PL21
+England,Plymouth 020E,PL21BJ,PL21
+England,Plymouth 024B,PL21BH,PL21
+England,South Hams 005D,PL210AF,PL21
+England,South Hams 008B,PL210TS,PL21
+England,South Hams 008B,PL210RP,PL21
+England,South Hams 008C,PL210LG,PL21
+England,Plymouth 020D,PL21HZ,PL21
+England,Plymouth 020C,PL21QD,PL21
+England,South Hams 008B,PL210SS,PL21
+England,South Hams 002A,PL219SS,PL21
+England,Plymouth 020E,PL21EX,PL21
+England,South Hams 008C,PL219LE,PL21
+England,South Hams 005A,PL210UF,PL21
+England,South Hams 005A,PL210AB,PL21
+England,South Hams 005C,PL210YG,PL21
+England,South Hams 005B,PL210JW,PL21
+England,Plymouth 020D,PL21JX,PL21
+England,Plymouth 020C,PL21LD,PL21
+England,South Hams 005A,PL210SZ,PL21
+England,South Hams 008B,PL210XX,PL21
+England,South Hams 008C,PL219JU,PL21
+England,Plymouth 020C,PL21PZ,PL21
+England,South Hams 005A,PL219AW,PL21
+England,South Hams 008B,PL210QZ,PL21
+England,South Hams 008B,PL210RQ,PL21
+England,South Hams 005C,PL210YW,PL21
+England,South Hams 002A,PL219SE,PL21
+England,Plymouth 020C,PL21HX,PL21
+England,South Hams 005E,PL219UL,PL21
+England,South Hams 005A,PL210BT,PL21
+England,South Hams 005A,PL219BN,PL21
+England,South Hams 005A,PL210YN,PL21
+England,South Hams 002A,PL219RG,PL21
+England,South Hams 005C,PL210AZ,PL21
+England,South Hams 008C,PL219JZ,PL21
+England,South Hams 002C,PL210HB,PL21
+England,South Hams 002A,PL219QG,PL21
+England,Plymouth 020E,PL21EZ,PL21
+England,South Hams 008B,PL210TY,PL21
+England,South Hams 005D,PL210AA,PL21
+England,Plymouth 020D,PL21PL,PL21
+England,South Hams 005B,PL210JZ,PL21
+England,South Hams 001D,PL219FG,PL21
+England,South Hams 005E,PL219RW,PL21
+England,South Hams 002A,PL219RA,PL21
+England,South Hams 002A,PL219SB,PL21
+England,South Hams 005A,PL210SY,PL21
+England,South Hams 008B,PL210QD,PL21
+England,Plymouth 020D,PL21HU,PL21
+England,Plymouth 020D,PL21HS,PL21
+England,Plymouth 020B,PL21AQ,PL21
+England,South Hams 005G,PL219UF,PL21
+England,South Hams 005A,PL211AD,PL21
+England,South Hams 005B,PL210DE,PL21
+England,South Hams 002A,PL219QN,PL21
+England,Plymouth 020E,PL21BG,PL21
+England,South Hams 005A,PL219AF,PL21
+England,South Hams 002C,PL210EG,PL21
+England,Plymouth 020B,PL21BY,PL21
+England,South Hams 008C,PL219JP,PL21
+England,Plymouth 020B,PL21EB,PL21
+England,South Hams 001D,PL219DX,PL21
+England,Plymouth 020B,PL21AZ,PL21
+England,Plymouth 031A,PL21YT,PL21
+England,South Hams 005D,PL210BB,PL21
+England,Plymouth 020C,PL21QH,PL21
+England,South Hams 008C,PL219LN,PL21
+England,Plymouth 020E,PL21AX,PL21
+England,South Hams 005G,PL219XB,PL21
+England,South Hams 002C,PL210HJ,PL21
+England,South Hams 002A,PL219PW,PL21
+England,South Hams 002C,PL210EW,PL21
+England,Plymouth 020E,PL21HL,PL21
+England,South Hams 005B,PL210HU,PL21
+England,South Hams 008A,PL210SU,PL21
+England,South Hams 005D,PL210AW,PL21
+England,South Hams 002A,PL219RH,PL21
+England,South Hams 005A,PL219AR,PL21

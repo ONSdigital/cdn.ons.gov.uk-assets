@@ -1,0 +1,678 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+England,North West Leicestershire 012A,DE127DB,DE12
+England,South Derbyshire 011F,DE126LN,DE12
+England,South Derbyshire 011D,DE126JJ,DE12
+England,Derby 013F,DE12NR,DE12
+England,Derby 016A,DE12JN,DE12
+England,South Derbyshire 011B,DE126PF,DE12
+England,North West Leicestershire 012C,DE127HF,DE12
+England,Derby 013F,DE12NG,DE12
+England,North West Leicestershire 012B,DE127HA,DE12
+England,North West Leicestershire 012A,DE127AW,DE12
+England,North West Leicestershire 008B,DE126EH,DE12
+England,North West Leicestershire 008C,DE126HQ,DE12
+England,North West Leicestershire 012D,DE127GN,DE12
+England,North West Leicestershire 012B,DE127JL,DE12
+England,Derby 016A,DE12JH,DE12
+England,Derby 018G,DE12RU,DE12
+England,Derby 013F,DE12NS,DE12
+England,Derby 013F,DE12DG,DE12
+England,North West Leicestershire 008A,DE126EX,DE12
+England,South Derbyshire 011E,DE128NP,DE12
+England,South Derbyshire 011E,DE128NL,DE12
+England,North West Leicestershire 012D,DE127LF,DE12
+England,North West Leicestershire 008E,DE127PP,DE12
+England,North West Leicestershire 012C,DE127LA,DE12
+England,Derby 018F,DE12RJ,DE12
+England,Derby 013F,DE12AZ,DE12
+England,South Derbyshire 011A,DE128JU,DE12
+England,Derby 018F,DE12LG,DE12
+England,North West Leicestershire 012B,DE127AY,DE12
+England,North West Leicestershire 008B,DE126DJ,DE12
+England,North West Leicestershire 012A,DE127BY,DE12
+England,South Derbyshire 011A,DE128JP,DE12
+England,North West Leicestershire 012C,DE127PA,DE12
+England,North West Leicestershire 012D,DE127GX,DE12
+England,North West Leicestershire 012A,DE127BN,DE12
+England,South Derbyshire 011A,DE126QB,DE12
+England,Derby 018G,DE12SP,DE12
+England,North West Leicestershire 008D,DE127RH,DE12
+England,North West Leicestershire 012B,DE127SB,DE12
+England,North West Leicestershire 012D,DE127NN,DE12
+England,Derby 016A,DE12GT,DE12
+England,South Derbyshire 011F,DE126NR,DE12
+England,Derby 016A,DE12GJ,DE12
+England,Derby 013F,DE12ET,DE12
+England,South Derbyshire 011F,DE126LF,DE12
+England,North West Leicestershire 012B,DE127HL,DE12
+England,South Derbyshire 011E,DE128LW,DE12
+England,North West Leicestershire 008B,DE126BE,DE12
+England,Derby 018G,DE12SQ,DE12
+England,North West Leicestershire 012B,DE127LZ,DE12
+England,South Derbyshire 011D,DE128DD,DE12
+England,North West Leicestershire 008B,DE126BS,DE12
+England,North West Leicestershire 012B,DE127LQ,DE12
+England,South Derbyshire 011A,DE128JB,DE12
+England,South Derbyshire 011E,DE128NG,DE12
+England,South Derbyshire 011C,DE126RD,DE12
+England,North West Leicestershire 012D,DE127HR,DE12
+England,North West Leicestershire 008E,DE127QT,DE12
+England,South Derbyshire 011D,DE126NG,DE12
+England,South Derbyshire 011A,DE128LB,DE12
+England,North West Leicestershire 008B,DE126EA,DE12
+England,Derby 018F,DE12PZ,DE12
+England,Derby 018F,DE12NE,DE12
+England,South Derbyshire 011C,DE126RP,DE12
+England,South Derbyshire 011A,DE126QP,DE12
+England,Derby 018F,DE12RT,DE12
+England,North West Leicestershire 012B,DE127EL,DE12
+England,North West Leicestershire 012D,DE127LJ,DE12
+England,Derby 016A,DE12PA,DE12
+England,North West Leicestershire 012A,DE127BW,DE12
+England,Derby 018F,DE12QE,DE12
+England,North West Leicestershire 012D,DE127GP,DE12
+England,North West Leicestershire 012A,DE127BF,DE12
+England,South Derbyshire 011A,DE128JH,DE12
+England,North West Leicestershire 008E,DE127PN,DE12
+England,North West Leicestershire 012A,DE127AS,DE12
+England,South Derbyshire 011E,DE128HL,DE12
+England,North West Leicestershire 012A,DE127DX,DE12
+England,North West Leicestershire 012B,DE127JJ,DE12
+England,South Derbyshire 011B,DE126PL,DE12
+England,North West Leicestershire 012C,DE127JQ,DE12
+England,North West Leicestershire 012A,DE127AP,DE12
+England,North West Leicestershire 008C,DE126HS,DE12
+England,North West Leicestershire 012A,DE127AJ,DE12
+England,North West Leicestershire 012C,DE127GZ,DE12
+England,Derby 018G,DE12ZL,DE12
+England,South Derbyshire 011F,DE126LB,DE12
+England,Derby 018F,DE12LN,DE12
+England,North West Leicestershire 012A,DE127AR,DE12
+England,Derby 008B,DE12DA,DE12
+England,Derby 016A,DE12JF,DE12
+England,North West Leicestershire 008A,DE126EN,DE12
+England,North West Leicestershire 012B,DE127EG,DE12
+England,South Derbyshire 011E,DE128HF,DE12
+England,South Derbyshire 011B,DE126QD,DE12
+England,South Derbyshire 011F,DE126JH,DE12
+England,Derby 018F,DE12QQ,DE12
+England,South Derbyshire 011F,DE126BN,DE12
+England,Derby 018G,DE12SA,DE12
+England,South Derbyshire 011E,DE128ET,DE12
+England,North West Leicestershire 008A,DE126HP,DE12
+England,South Derbyshire 011D,DE128DA,DE12
+England,South Derbyshire 011E,DE128ND,DE12
+England,South Derbyshire 011F,DE126JL,DE12
+England,Derby 013F,DE12FS,DE12
+England,South Derbyshire 011E,DE128LZ,DE12
+England,Derby 018F,DE12LY,DE12
+England,South Derbyshire 011E,DE128NE,DE12
+England,Derby 018F,DE12QY,DE12
+England,North West Leicestershire 012C,DE127HZ,DE12
+England,North West Leicestershire 008B,DE126DZ,DE12
+England,Derby 018F,DE12FW,DE12
+England,South Derbyshire 011D,DE128BN,DE12
+England,South Derbyshire 011F,DE126LA,DE12
+England,North West Leicestershire 008E,DE128AG,DE12
+England,Derby 016A,DE12HJ,DE12
+England,North West Leicestershire 012B,DE127AZ,DE12
+England,South Derbyshire 011F,DE126NJ,DE12
+England,Derby 008B,DE12BY,DE12
+England,North West Leicestershire 012A,DE127BD,DE12
+England,North West Leicestershire 012A,DE127BZ,DE12
+England,Derby 013F,DE12DQ,DE12
+England,North West Leicestershire 012A,DE127BQ,DE12
+England,South Derbyshire 011D,DE128AT,DE12
+England,Derby 013F,DE12PR,DE12
+England,South Derbyshire 011A,DE126QL,DE12
+England,North West Leicestershire 008E,DE127PT,DE12
+England,North West Leicestershire 012D,DE127JH,DE12
+England,South Derbyshire 011E,DE128LN,DE12
+England,North West Leicestershire 008E,DE127RW,DE12
+England,South Derbyshire 011A,DE126RX,DE12
+England,South Derbyshire 011A,DE126RU,DE12
+England,North West Leicestershire 012B,DE127LL,DE12
+England,Derby 018G,DE12TE,DE12
+England,North West Leicestershire 012D,DE127GH,DE12
+England,North West Leicestershire 008E,DE128AE,DE12
+England,Derby 018F,DE12BP,DE12
+England,North West Leicestershire 012C,DE127ND,DE12
+England,Derby 013F,DE12AU,DE12
+England,South Derbyshire 011B,DE126PA,DE12
+England,South Derbyshire 011F,DE126BL,DE12
+England,North West Leicestershire 008E,DE127PL,DE12
+England,South Derbyshire 011D,DE128EQ,DE12
+England,Derby 018G,DE12TQ,DE12
+England,North West Leicestershire 012B,DE127EF,DE12
+England,North West Leicestershire 012B,DE127LN,DE12
+England,Derby 008B,DE12BU,DE12
+England,South Derbyshire 011E,DE128LY,DE12
+England,South Derbyshire 011B,DE126QG,DE12
+England,Derby 018F,DE12LL,DE12
+England,North West Leicestershire 012B,DE127ER,DE12
+England,Derby 013F,DE12BL,DE12
+England,North West Leicestershire 012D,DE127LG,DE12
+England,North West Leicestershire 012C,DE127JR,DE12
+England,Derby 018G,DE12NT,DE12
+England,South Derbyshire 011D,DE128BW,DE12
+England,North West Leicestershire 008E,DE127QZ,DE12
+England,North West Leicestershire 008D,DE127RX,DE12
+England,North West Leicestershire 008D,DE127PX,DE12
+England,North West Leicestershire 008E,DE127PF,DE12
+England,South Derbyshire 011A,DE128JF,DE12
+England,Derby 018F,DE12RE,DE12
+England,North West Leicestershire 008E,DE127RT,DE12
+England,North West Leicestershire 008B,DE126DQ,DE12
+England,Derby 016A,DE12NZ,DE12
+England,North West Leicestershire 008D,DE127QA,DE12
+England,Derby 018F,DE12LQ,DE12
+England,North West Leicestershire 012B,DE127EW,DE12
+England,North West Leicestershire 008D,DE127RA,DE12
+England,North West Leicestershire 008B,DE126EF,DE12
+England,North West Leicestershire 008A,DE126HD,DE12
+England,Derby 018G,DE12SX,DE12
+England,North West Leicestershire 008B,DE126AN,DE12
+England,South Derbyshire 011A,DE128JW,DE12
+England,North West Leicestershire 012D,DE127HT,DE12
+England,North West Leicestershire 008B,DE126BP,DE12
+England,South Derbyshire 011E,DE128DG,DE12
+England,North West Leicestershire 008B,DE126HZ,DE12
+England,South Derbyshire 011B,DE126QX,DE12
+England,North West Leicestershire 008D,DE127QQ,DE12
+England,South Derbyshire 011D,DE128BU,DE12
+England,South Derbyshire 011D,DE128BY,DE12
+England,Derby 018F,DE12NA,DE12
+England,South Derbyshire 011D,DE128BL,DE12
+England,Derby 018G,DE12RR,DE12
+England,North West Leicestershire 008B,DE126BA,DE12
+England,North West Leicestershire 008B,DE126EG,DE12
+England,South Derbyshire 011B,DE126PN,DE12
+England,South Derbyshire 011E,DE128ER,DE12
+England,South Derbyshire 011B,DE126PD,DE12
+England,North West Leicestershire 008E,DE127RS,DE12
+England,South Derbyshire 011D,DE128EG,DE12
+England,South Derbyshire 011A,DE126RL,DE12
+England,Derby 013F,DE12PG,DE12
+England,North West Leicestershire 008B,DE126AP,DE12
+England,North West Leicestershire 008B,DE126BX,DE12
+England,Derby 018F,DE12ND,DE12
+England,North West Leicestershire 008B,DE126DY,DE12
+England,South Derbyshire 011D,DE128BD,DE12
+England,North West Leicestershire 008A,DE126EY,DE12
+England,North West Leicestershire 012A,DE128DJ,DE12
+England,North West Leicestershire 012D,DE127JD,DE12
+England,North West Leicestershire 012C,DE127NE,DE12
+England,North West Leicestershire 012B,DE127NA,DE12
+England,North West Leicestershire 008B,DE126DD,DE12
+England,Derby 013F,DE12ZG,DE12
+England,South Derbyshire 011E,DE128NW,DE12
+England,North West Leicestershire 008B,DE126EB,DE12
+England,Derby 018F,DE12LH,DE12
+England,South Derbyshire 011D,DE128EE,DE12
+England,North West Leicestershire 008E,DE127RN,DE12
+England,North West Leicestershire 008B,DE126DU,DE12
+England,South Derbyshire 011D,DE128DF,DE12
+England,Derby 016A,DE12GF,DE12
+England,South Derbyshire 011E,DE128LL,DE12
+England,South Derbyshire 011E,DE128DZ,DE12
+England,North West Leicestershire 012D,DE127LX,DE12
+England,Derby 013F,DE12DS,DE12
+England,South Derbyshire 011D,DE126NF,DE12
+England,South Derbyshire 011A,DE128JL,DE12
+England,North West Leicestershire 008A,DE126ES,DE12
+England,South Derbyshire 011D,DE128BP,DE12
+England,North West Leicestershire 012A,DE127DD,DE12
+England,Derby 018F,DE12QS,DE12
+England,Derby 013F,DE12XJ,DE12
+England,North West Leicestershire 008A,DE126ER,DE12
+England,Derby 018G,DE12FY,DE12
+England,South Derbyshire 011B,DE126PS,DE12
+England,Derby 013F,DE12FT,DE12
+England,South Derbyshire 011D,DE126NL,DE12
+England,North West Leicestershire 012C,DE127JT,DE12
+England,North West Leicestershire 012B,DE127EZ,DE12
+England,South Derbyshire 011B,DE126PE,DE12
+England,Derby 018F,DE12LW,DE12
+England,North West Leicestershire 012A,DE127AU,DE12
+England,South Derbyshire 011E,DE128HJ,DE12
+England,Derby 013F,DE12ED,DE12
+England,North West Leicestershire 012D,DE127HX,DE12
+England,North West Leicestershire 012A,DE128AD,DE12
+England,Derby 018G,DE12SR,DE12
+England,North West Leicestershire 008B,DE126BW,DE12
+England,North West Leicestershire 012B,DE127HH,DE12
+England,North West Leicestershire 012D,DE127NH,DE12
+England,Hinckley and Bosworth 004C,DE127DE,DE12
+England,North West Leicestershire 012A,DE127HS,DE12
+England,North West Leicestershire 008E,DE128AX,DE12
+England,South Derbyshire 011F,DE126GZ,DE12
+England,Derby 018G,DE12XX,DE12
+England,South Derbyshire 011A,DE126PZ,DE12
+England,North West Leicestershire 008D,DE127RJ,DE12
+England,North West Leicestershire 012A,DE127AT,DE12
+England,South Derbyshire 011F,DE126HX,DE12
+England,North West Leicestershire 012A,DE128DP,DE12
+England,Derby 018F,DE12LD,DE12
+England,South Derbyshire 011D,DE128AS,DE12
+England,North West Leicestershire 008E,DE128AH,DE12
+England,Derby 018F,DE12NL,DE12
+England,South Derbyshire 011B,DE126QE,DE12
+England,Derby 018F,DE12TL,DE12
+England,North West Leicestershire 008A,DE126NA,DE12
+England,North West Leicestershire 012A,DE127AL,DE12
+England,South Derbyshire 011D,DE128ED,DE12
+England,North West Leicestershire 008B,DE126AA,DE12
+England,Derby 018G,DE12NB,DE12
+England,South Derbyshire 011F,DE126LD,DE12
+England,South Derbyshire 011A,DE126RJ,DE12
+England,Derby 016A,DE12JA,DE12
+England,North West Leicestershire 008B,DE126AZ,DE12
+England,Derby 016A,DE12JR,DE12
+England,Derby 013F,DE12DP,DE12
+England,Derby 018G,DE12QZ,DE12
+England,South Derbyshire 011C,DE126RE,DE12
+England,North West Leicestershire 008B,DE126DB,DE12
+England,Derby 018F,DE12LZ,DE12
+England,South Derbyshire 011C,DE126RQ,DE12
+England,North West Leicestershire 008D,DE127QB,DE12
+England,South Derbyshire 011F,DE126JR,DE12
+England,Derby 013F,DE12FE,DE12
+England,North West Leicestershire 008B,DE126DW,DE12
+England,North West Leicestershire 008C,DE126HG,DE12
+England,Derby 013F,DE12AE,DE12
+England,South Derbyshire 011A,DE128JX,DE12
+England,North West Leicestershire 012C,DE127JY,DE12
+England,North West Leicestershire 008C,DE126HH,DE12
+England,South Derbyshire 011E,DE128HR,DE12
+England,South Derbyshire 011A,DE128JR,DE12
+England,Derby 013F,DE12ER,DE12
+England,North West Leicestershire 012D,DE127GE,DE12
+England,North West Leicestershire 012C,DE127JF,DE12
+England,South Derbyshire 011E,DE128EW,DE12
+England,Derby 018G,DE12ST,DE12
+England,Derby 013F,DE12EW,DE12
+England,North West Leicestershire 012A,DE127AX,DE12
+England,South Derbyshire 011D,DE126LW,DE12
+England,South Derbyshire 011F,DE126JP,DE12
+England,Derby 013F,DE12DB,DE12
+England,North West Leicestershire 012B,DE127HN,DE12
+England,Derby 018F,DE12QW,DE12
+England,South Derbyshire 011A,DE128JN,DE12
+England,Derby 016A,DE12GH,DE12
+England,North West Leicestershire 008E,DE127QH,DE12
+England,North West Leicestershire 012A,DE127AD,DE12
+England,South Derbyshire 011A,DE128JD,DE12
+England,North West Leicestershire 008A,DE126NE,DE12
+England,North West Leicestershire 008B,DE126HU,DE12
+England,Derby 013F,DE12BB,DE12
+England,North West Leicestershire 012A,DE127BL,DE12
+England,Derby 018F,DE12GD,DE12
+England,North West Leicestershire 008A,DE126EW,DE12
+England,Derby 013F,DE12AB,DE12
+England,Derby 013F,DE12JZ,DE12
+England,North West Leicestershire 008A,DE126HR,DE12
+England,Derby 018G,DE12RX,DE12
+England,Derby 013F,DE12AF,DE12
+England,South Derbyshire 011D,DE128EF,DE12
+England,North West Leicestershire 008E,DE127RL,DE12
+England,North West Leicestershire 008B,DE126DP,DE12
+England,Derby 016A,DE12JD,DE12
+England,South Derbyshire 011A,DE128JA,DE12
+England,Derby 018F,DE12PY,DE12
+England,South Derbyshire 009B,DE126ZP,DE12
+England,North West Leicestershire 008E,DE127QL,DE12
+England,South Derbyshire 011A,DE128HN,DE12
+England,Derby 016A,DE12HH,DE12
+England,South Derbyshire 011F,DE126JS,DE12
+England,North West Leicestershire 012D,DE127GG,DE12
+England,Derby 008B,DE12BW,DE12
+England,South Derbyshire 011A,DE126QA,DE12
+England,North West Leicestershire 012C,DE127PE,DE12
+England,South Derbyshire 011E,DE128HD,DE12
+England,North West Leicestershire 008A,DE126GA,DE12
+England,North West Leicestershire 012D,DE127PH,DE12
+England,North West Leicestershire 012C,DE127JU,DE12
+England,Derby 018F,DE12RQ,DE12
+England,Derby 018G,DE12TD,DE12
+England,North West Leicestershire 008B,DE126DA,DE12
+England,North West Leicestershire 008A,DE126HW,DE12
+England,Derby 016A,DE12GX,DE12
+England,North West Leicestershire 012B,DE127HQ,DE12
+England,South Derbyshire 011F,DE126NN,DE12
+England,South Derbyshire 011E,DE128EA,DE12
+England,South Derbyshire 011F,DE126HY,DE12
+England,North West Leicestershire 008E,DE127QS,DE12
+England,North West Leicestershire 008A,DE126HJ,DE12
+England,Derby 018F,DE12LJ,DE12
+England,Derby 018G,DE12TT,DE12
+England,North West Leicestershire 008B,DE126BJ,DE12
+England,South Derbyshire 011F,DE126JG,DE12
+England,North West Leicestershire 012C,DE127NB,DE12
+England,South Derbyshire 011F,DE126NB,DE12
+England,North West Leicestershire 012D,DE127GF,DE12
+England,North West Leicestershire 012C,DE127LE,DE12
+England,North West Leicestershire 008B,DE126LP,DE12
+England,North West Leicestershire 012D,DE127LT,DE12
+England,North West Leicestershire 012A,DE127DA,DE12
+England,South Derbyshire 011D,DE128DR,DE12
+England,North West Leicestershire 012C,DE127JN,DE12
+England,South Derbyshire 011F,DE126JF,DE12
+England,North West Leicestershire 008E,DE127QR,DE12
+England,Derby 018F,DE12RF,DE12
+England,North West Leicestershire 012B,DE127EE,DE12
+England,South Derbyshire 011F,DE126JB,DE12
+England,South Derbyshire 011D,DE128EJ,DE12
+England,North West Leicestershire 008A,DE126BD,DE12
+England,North West Leicestershire 012A,DE127AA,DE12
+England,Derby 016A,DE12HE,DE12
+England,North West Leicestershire 012B,DE127EN,DE12
+England,South Derbyshire 011A,DE126QW,DE12
+England,Derby 013F,DE12DU,DE12
+England,Derby 013F,DE12NQ,DE12
+England,North West Leicestershire 008D,DE127RF,DE12
+England,North West Leicestershire 008B,DE126EU,DE12
+England,North West Leicestershire 008B,DE126BG,DE12
+England,South Derbyshire 011C,DE126RB,DE12
+England,Derby 018F,DE12QR,DE12
+England,North West Leicestershire 012C,DE127NF,DE12
+England,South Derbyshire 011F,DE126NP,DE12
+England,North West Leicestershire 008E,DE127QN,DE12
+England,South Derbyshire 011D,DE128BE,DE12
+England,North West Leicestershire 008B,DE126DX,DE12
+England,North West Leicestershire 012B,DE127EY,DE12
+England,North West Leicestershire 008D,DE127PY,DE12
+England,Derby 016A,DE12QB,DE12
+England,Derby 016A,DE12GY,DE12
+England,North West Leicestershire 012C,DE127JW,DE12
+England,South Derbyshire 011F,DE126LT,DE12
+England,North West Leicestershire 012C,DE127HD,DE12
+England,North West Leicestershire 012C,DE127JS,DE12
+England,North West Leicestershire 008B,DE126BH,DE12
+England,North West Leicestershire 008B,DE126AG,DE12
+England,Derby 008B,DE12LF,DE12
+England,Derby 013F,DE12FD,DE12
+England,North West Leicestershire 012C,DE127JX,DE12
+England,South Derbyshire 011E,DE128LP,DE12
+England,South Derbyshire 011E,DE128ES,DE12
+England,Derby 016A,DE12GW,DE12
+England,South Derbyshire 011E,DE128EP,DE12
+England,North West Leicestershire 008E,DE127SA,DE12
+England,North West Leicestershire 008E,DE127QW,DE12
+England,South Derbyshire 011A,DE126RN,DE12
+England,South Derbyshire 011E,DE128NA,DE12
+England,South Derbyshire 011A,DE128JY,DE12
+England,Derby 016A,DE12HD,DE12
+England,South Derbyshire 011F,DE126JN,DE12
+England,South Derbyshire 011A,DE128JE,DE12
+England,South Derbyshire 011A,DE128JQ,DE12
+England,North West Leicestershire 012D,DE127DS,DE12
+England,North West Leicestershire 012D,DE127LW,DE12
+England,North West Leicestershire 012A,DE127BJ,DE12
+England,South Derbyshire 011F,DE126LL,DE12
+England,North West Leicestershire 008E,DE127RP,DE12
+England,North West Leicestershire 008E,DE127PW,DE12
+England,North West Leicestershire 008E,DE127RB,DE12
+England,Derby 018G,DE12ZZ,DE12
+England,South Derbyshire 009B,DE126ZY,DE12
+England,North West Leicestershire 012D,DE127JA,DE12
+England,Derby 013F,DE12EQ,DE12
+England,North West Leicestershire 012A,DE127AB,DE12
+England,North West Leicestershire 012B,DE127EQ,DE12
+England,South Derbyshire 011E,DE128LR,DE12
+England,South Derbyshire 011B,DE126QQ,DE12
+England,South Derbyshire 011E,DE128NB,DE12
+England,North West Leicestershire 008E,DE128AQ,DE12
+England,South Derbyshire 011F,DE126LH,DE12
+England,South Derbyshire 011D,DE128BX,DE12
+England,North West Leicestershire 012A,DE127BH,DE12
+England,Derby 016A,DE12HU,DE12
+England,Derby 013F,DE12EU,DE12
+England,North West Leicestershire 012D,DE127LR,DE12
+England,Derby 016A,DE12JT,DE12
+England,North West Leicestershire 008E,DE127RR,DE12
+England,North West Leicestershire 012A,DE127AQ,DE12
+England,North West Leicestershire 008B,DE126EE,DE12
+England,North West Leicestershire 008B,DE126DG,DE12
+England,South Derbyshire 011F,DE126LG,DE12
+England,Derby 018F,DE12QG,DE12
+England,South Derbyshire 011E,DE128HB,DE12
+England,South Derbyshire 011F,DE126JE,DE12
+England,South Derbyshire 011F,DE126LZ,DE12
+England,Derby 013F,DE12AY,DE12
+England,South Derbyshire 011E,DE128EX,DE12
+England,South Derbyshire 011F,DE126JD,DE12
+England,North West Leicestershire 008B,DE126ED,DE12
+England,Derby 008B,DE12BZ,DE12
+England,North West Leicestershire 008B,DE126AL,DE12
+England,North West Leicestershire 012C,DE127JB,DE12
+England,North West Leicestershire 008B,DE126EQ,DE12
+England,North West Leicestershire 008B,DE126AT,DE12
+England,North West Leicestershire 012D,DE127LH,DE12
+England,South Derbyshire 011B,DE126PJ,DE12
+England,North West Leicestershire 008B,DE126EP,DE12
+England,South Derbyshire 011A,DE126RA,DE12
+England,North West Leicestershire 012A,DE128DQ,DE12
+England,Derby 013F,DE12NP,DE12
+England,Derby 013F,DE12AW,DE12
+England,Derby 016A,DE12HL,DE12
+England,North West Leicestershire 012A,DE128DH,DE12
+England,North West Leicestershire 012D,DE127HB,DE12
+England,North West Leicestershire 008D,DE127QF,DE12
+England,South Derbyshire 011B,DE126QJ,DE12
+England,South Derbyshire 011A,DE126RT,DE12
+England,North West Leicestershire 012A,DE127BB,DE12
+England,North West Leicestershire 012D,DE127NY,DE12
+England,North West Leicestershire 008A,DE126ET,DE12
+England,South Derbyshire 011D,DE128DW,DE12
+England,South Derbyshire 011B,DE126PP,DE12
+England,North West Leicestershire 012D,DE127GD,DE12
+England,North West Leicestershire 008B,DE126AB,DE12
+England,North West Leicestershire 012D,DE127GL,DE12
+England,South Derbyshire 011D,DE128AR,DE12
+England,North West Leicestershire 012C,DE127PD,DE12
+England,South Derbyshire 011E,DE128EU,DE12
+England,Derby 013F,DE12BA,DE12
+England,South Derbyshire 011A,DE128HZ,DE12
+England,Derby 018G,DE12SU,DE12
+England,North West Leicestershire 012B,DE127LY,DE12
+England,Derby 016A,DE12JW,DE12
+England,North West Leicestershire 008A,DE126EZ,DE12
+England,South Derbyshire 011A,DE126RR,DE12
+England,Derby 018G,DE12QN,DE12
+England,North West Leicestershire 012C,DE127LB,DE12
+England,South Derbyshire 011F,DE126JY,DE12
+England,North West Leicestershire 012D,DE127GB,DE12
+England,North West Leicestershire 008A,DE126HL,DE12
+England,Derby 018G,DE12NW,DE12
+England,South Derbyshire 011E,DE128NJ,DE12
+England,Derby 018F,DE12LU,DE12
+England,South Derbyshire 011D,DE128BT,DE12
+England,North West Leicestershire 012A,DE128DN,DE12
+England,North West Leicestershire 012D,DE127HU,DE12
+England,South Derbyshire 011D,DE128BJ,DE12
+England,North West Leicestershire 008A,DE126HF,DE12
+England,South Derbyshire 011B,DE126QF,DE12
+England,South Derbyshire 011F,DE126LR,DE12
+England,Derby 018F,DE12PU,DE12
+England,South Derbyshire 011F,DE126LX,DE12
+England,Derby 018F,DE12LT,DE12
+England,South Derbyshire 011F,DE126LY,DE12
+England,North West Leicestershire 008E,DE127QJ,DE12
+England,North West Leicestershire 012A,DE128AF,DE12
+England,Derby 016A,DE12LS,DE12
+England,Derby 013F,DE12PL,DE12
+England,South Derbyshire 011D,DE128DE,DE12
+England,South Derbyshire 011E,DE128HA,DE12
+England,Derby 018G,DE12SN,DE12
+England,North West Leicestershire 008D,DE127RQ,DE12
+England,North West Leicestershire 012A,DE127DU,DE12
+England,North West Leicestershire 008B,DE126BB,DE12
+England,Derby 018F,DE12RW,DE12
+England,North West Leicestershire 012C,DE127PB,DE12
+England,South Derbyshire 011E,DE128NF,DE12
+England,South Derbyshire 011B,DE126QH,DE12
+England,South Derbyshire 011E,DE128EZ,DE12
+England,North West Leicestershire 008D,DE127QG,DE12
+England,South Derbyshire 011E,DE128HG,DE12
+England,North West Leicestershire 008E,DE127DT,DE12
+England,North West Leicestershire 012A,DE127AF,DE12
+England,Derby 013F,DE12FP,DE12
+England,Derby 016A,DE12RD,DE12
+England,North West Leicestershire 012B,DE127JG,DE12
+England,North West Leicestershire 008E,DE127PZ,DE12
+England,North West Leicestershire 012A,DE127AG,DE12
+England,South Derbyshire 011F,DE126JX,DE12
+England,South Derbyshire 011C,DE126RF,DE12
+England,South Derbyshire 011E,DE128NQ,DE12
+England,North West Leicestershire 012C,DE127JP,DE12
+England,North West Leicestershire 012A,DE127AE,DE12
+England,South Derbyshire 011A,DE128JG,DE12
+England,North West Leicestershire 008B,DE126DS,DE12
+England,South Derbyshire 011D,DE128DB,DE12
+England,Derby 018G,DE12SL,DE12
+England,North West Leicestershire 008B,DE126EJ,DE12
+England,North West Leicestershire 008D,DE127RE,DE12
+England,North West Leicestershire 012B,DE127GY,DE12
+England,North West Leicestershire 012A,DE127BS,DE12
+England,North West Leicestershire 008B,DE126AS,DE12
+England,North West Leicestershire 012B,DE127EJ,DE12
+England,South Derbyshire 011F,DE126JW,DE12
+England,South Derbyshire 011D,DE126LQ,DE12
+England,Derby 013F,DE12AT,DE12
+England,North West Leicestershire 012C,DE127LD,DE12
+England,North West Leicestershire 012B,DE127ES,DE12
+England,South Derbyshire 011D,DE128BS,DE12
+England,North West Leicestershire 008E,DE127PQ,DE12
+England,North West Leicestershire 012A,DE128DS,DE12
+England,North West Leicestershire 008D,DE127PU,DE12
+England,South Derbyshire 011B,DE126PW,DE12
+England,Derby 018F,DE12LX,DE12
+England,Derby 018G,DE12SW,DE12
+England,South Derbyshire 011E,DE128NH,DE12
+England,North West Leicestershire 008E,DE127QY,DE12
+England,South Derbyshire 011D,DE128BH,DE12
+England,South Derbyshire 011E,DE128EY,DE12
+England,North West Leicestershire 008D,DE127QD,DE12
+England,Derby 013F,DE12YH,DE12
+England,Derby 013F,DE12AA,DE12
+England,South Derbyshire 011D,DE128EH,DE12
+England,Derby 013F,DE12NF,DE12
+England,South Derbyshire 011F,DE126LE,DE12
+England,Derby 013F,DE12PP,DE12
+England,North West Leicestershire 012B,DE127SE,DE12
+England,Derby 016A,DE12HF,DE12
+England,North West Leicestershire 008E,DE128AL,DE12
+England,North West Leicestershire 012B,DE127EA,DE12
+England,North West Leicestershire 012D,DE127GJ,DE12
+England,Derby 018G,DE12XR,DE12
+England,South Derbyshire 011A,DE128HY,DE12
+England,South Derbyshire 011D,DE128BZ,DE12
+England,North West Leicestershire 012D,DE127NP,DE12
+England,North West Leicestershire 012B,DE127EU,DE12
+England,North West Leicestershire 008B,DE126AF,DE12
+England,North West Leicestershire 012C,DE127EB,DE12
+England,South Derbyshire 011A,DE126RS,DE12
+England,North West Leicestershire 008A,DE126EL,DE12
+England,South Derbyshire 011A,DE126RH,DE12
+England,North West Leicestershire 012D,DE127NL,DE12
+England,South Derbyshire 011F,DE126LJ,DE12
+England,Derby 016A,DE12HZ,DE12
+England,North West Leicestershire 008A,DE126HE,DE12
+England,North West Leicestershire 012C,DE127GW,DE12
+England,North West Leicestershire 012A,DE128DL,DE12
+England,Derby 016A,DE12HR,DE12
+England,North West Leicestershire 008E,DE127RU,DE12
+England,Derby 018F,DE12FX,DE12
+England,Derby 016A,DE12JJ,DE12
+England,North West Leicestershire 012B,DE127EH,DE12
+England,Derby 018G,DE12NH,DE12
+England,Derby 018F,DE12QD,DE12
+England,South Derbyshire 011D,DE128BG,DE12
+England,North West Leicestershire 012B,DE127HE,DE12
+England,Derby 013F,DE12DT,DE12
+England,North West Leicestershire 008B,DE126AJ,DE12
+England,Derby 016A,DE12GR,DE12
+England,North West Leicestershire 012A,DE127DQ,DE12
+England,North West Leicestershire 008D,DE127BA,DE12
+England,Derby 018G,DE12TU,DE12
+England,Derby 016A,DE12JX,DE12
+England,South Derbyshire 011B,DE126QS,DE12
+England,North West Leicestershire 012C,DE127HP,DE12
+England,North West Leicestershire 012A,DE128AB,DE12
+England,North West Leicestershire 012A,DE127BE,DE12
+England,Derby 016A,DE12GG,DE12
+England,North West Leicestershire 012C,DE127LU,DE12
+England,North West Leicestershire 012B,DE127EP,DE12
+England,North West Leicestershire 008B,DE126HT,DE12
+England,North West Leicestershire 008B,DE126DL,DE12
+England,South Derbyshire 011B,DE126QN,DE12
+England,North West Leicestershire 008E,DE127PG,DE12
+England,Derby 013F,DE12XE,DE12
+England,North West Leicestershire 012D,DE127NQ,DE12
+England,North West Leicestershire 012D,DE127GA,DE12
+England,Derby 018F,DE12LA,DE12
+England,South Derbyshire 011E,DE128NR,DE12
+England,North West Leicestershire 008E,DE128AJ,DE12
+England,North West Leicestershire 012C,DE127JZ,DE12
+England,South Derbyshire 011F,DE126JT,DE12
+England,North West Leicestershire 012D,DE127LP,DE12
+England,North West Leicestershire 012A,DE127AH,DE12
+England,North West Leicestershire 008A,DE126HA,DE12
+England,North West Leicestershire 008A,DE126DH,DE12
+England,North West Leicestershire 008D,DE127RG,DE12
+England,North West Leicestershire 008E,DE127PJ,DE12
+England,North West Leicestershire 008E,DE127RD,DE12
+England,North West Leicestershire 012B,DE127ET,DE12
+England,South Derbyshire 011E,DE128HE,DE12
+England,Derby 018F,DE12PW,DE12
+England,Derby 013F,DE12AL,DE12
+England,South Derbyshire 011F,DE126LS,DE12
+England,South Derbyshire 011D,DE128AP,DE12
+England,Derby 018G,DE12TA,DE12
+England,South Derbyshire 011A,DE128DY,DE12
+England,North West Leicestershire 012A,DE128AA,DE12
+England,South Derbyshire 011E,DE128NN,DE12
+England,North West Leicestershire 012A,DE128DU,DE12
+England,South Derbyshire 011B,DE126PY,DE12
+England,North West Leicestershire 012A,DE127DG,DE12
+England,North West Leicestershire 012D,DE127HW,DE12
+England,Derby 016A,DE12GE,DE12
+England,Derby 016A,DE12GU,DE12
+England,North West Leicestershire 008B,DE126DN,DE12
+England,North West Leicestershire 008E,DE127QX,DE12
+England,South Derbyshire 011A,DE126RY,DE12
+England,North West Leicestershire 012C,DE127NZ,DE12
+England,Derby 013F,DE12AD,DE12
+England,North West Leicestershire 008E,DE127PS,DE12
+England,North West Leicestershire 008B,DE126DT,DE12
+England,North West Leicestershire 008E,DE127QU,DE12
+England,North West Leicestershire 008D,DE127QE,DE12
+England,South Derbyshire 011B,DE126PB,DE12
+England,Derby 013F,DE12AH,DE12
+England,South Derbyshire 011F,DE126LU,DE12
+England,Derby 013F,DE12FH,DE12
+England,South Derbyshire 011D,DE126NW,DE12
+England,North West Leicestershire 012B,DE127EX,DE12
+England,North West Leicestershire 008E,DE127PR,DE12
+England,Derby 013F,DE12BH,DE12
+England,North West Leicestershire 012A,DE127AN,DE12
+England,Derby 018G,DE12SY,DE12
+England,South Derbyshire 011B,DE126PR,DE12
+England,North West Leicestershire 008A,DE126ND,DE12
+England,North West Leicestershire 012C,DE127NG,DE12
+England,Derby 016A,DE12LR,DE12
+England,North West Leicestershire 012B,DE127SD,DE12
+England,Derby 013F,DE12BJ,DE12
+England,North West Leicestershire 012D,DE127LS,DE12
+England,South Derbyshire 011B,DE126PH,DE12
+England,North West Leicestershire 012B,DE127HJ,DE12
+England,North West Leicestershire 012C,DE127JE,DE12
+England,South Derbyshire 011B,DE126PG,DE12
+England,South Derbyshire 011C,DE126RG,DE12
+England,North West Leicestershire 012D,DE127DY,DE12
+England,Derby 016A,DE12LP,DE12
+England,North West Leicestershire 012A,DE127BG,DE12
+England,Derby 013F,DE12PQ,DE12
+England,North West Leicestershire 012D,DE127NW,DE12
+England,North West Leicestershire 008E,DE128AW,DE12
+England,Derby 013F,DE12EB,DE12

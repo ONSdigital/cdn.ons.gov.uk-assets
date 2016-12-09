@@ -1,0 +1,721 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+Wales,Swansea 026A,SA13UE,SA13
+Wales,Swansea 025B,SA13PE,SA13
+Wales,Neath Port Talbot 018A,SA131DQ,SA13
+Wales,Neath Port Talbot 018B,SA131BX,SA13
+Wales,Neath Port Talbot 018C,SA131NT,SA13
+Wales,Swansea 014D,SA13AL,SA13
+Wales,Neath Port Talbot 011D,SA133UR,SA13
+Wales,Neath Port Talbot 018C,SA139DB,SA13
+Wales,Neath Port Talbot 018E,SA132UB,SA13
+Wales,Swansea 025F,SA13AN,SA13
+Wales,Neath Port Talbot 019B,SA132SR,SA13
+Wales,Neath Port Talbot 018E,SA131TB,SA13
+Wales,Neath Port Talbot 018A,SA132HE,SA13
+Wales,Neath Port Talbot 019C,SA131TT,SA13
+Wales,Neath Port Talbot 011C,SA133AD,SA13
+Wales,Neath Port Talbot 018B,SA131UU,SA13
+Wales,Neath Port Talbot 018E,SA131UF,SA13
+Wales,Neath Port Talbot 014A,SA132RU,SA13
+Wales,Neath Port Talbot 018B,SA131PF,SA13
+Wales,Swansea 025F,SA13LZ,SA13
+Wales,Neath Port Talbot 018C,SA131DE,SA13
+Wales,Neath Port Talbot 011C,SA133AH,SA13
+Wales,Neath Port Talbot 018B,SA131NY,SA13
+Wales,Swansea 025F,SA13LE,SA13
+Wales,Neath Port Talbot 011C,SA133AG,SA13
+Wales,Neath Port Talbot 011B,SA133PP,SA13
+Wales,Swansea 025G,SA13XH,SA13
+Wales,Neath Port Talbot 018B,SA131AT,SA13
+Wales,Swansea 025F,SA13QX,SA13
+Wales,Neath Port Talbot 019C,SA132HU,SA13
+Wales,Neath Port Talbot 018E,SA131TU,SA13
+Wales,Neath Port Talbot 018D,SA131SW,SA13
+Wales,Neath Port Talbot 017A,SA131PJ,SA13
+Wales,Swansea 025B,SA13HH,SA13
+Wales,Neath Port Talbot 018C,SA131EB,SA13
+Wales,Neath Port Talbot 018C,SA131ZU,SA13
+Wales,Neath Port Talbot 019A,SA132DB,SA13
+Wales,Neath Port Talbot 018C,SA131SF,SA13
+Wales,Neath Port Talbot 018C,SA131DT,SA13
+Wales,Neath Port Talbot 011C,SA133BL,SA13
+Wales,Neath Port Talbot 011B,SA133RB,SA13
+Wales,Neath Port Talbot 018B,SA131BL,SA13
+Wales,Neath Port Talbot 019C,SA132LZ,SA13
+Wales,Swansea 026A,SA13TS,SA13
+Wales,Neath Port Talbot 018B,SA131YN,SA13
+Wales,Swansea 025B,SA13EP,SA13
+Wales,Swansea 026A,SA13US,SA13
+Wales,Swansea 025B,SA13BE,SA13
+Wales,Neath Port Talbot 018C,SA131LJ,SA13
+Wales,Neath Port Talbot 018B,SA131AU,SA13
+Wales,Neath Port Talbot 019D,SA132BA,SA13
+Wales,Neath Port Talbot 011B,SA133RW,SA13
+Wales,Neath Port Talbot 018C,SA131NG,SA13
+Wales,Neath Port Talbot 011A,SA133LP,SA13
+Wales,Neath Port Talbot 019D,SA132LT,SA13
+Wales,Neath Port Talbot 019B,SA132ND,SA13
+Wales,Swansea 025F,SA13DF,SA13
+Wales,Neath Port Talbot 019C,SA132HT,SA13
+Wales,Swansea 026A,SA13UT,SA13
+Wales,Neath Port Talbot 018B,SA131AX,SA13
+Wales,Neath Port Talbot 018C,SA131BT,SA13
+Wales,Neath Port Talbot 019B,SA132NU,SA13
+Wales,Swansea 025B,SA13BP,SA13
+Wales,Neath Port Talbot 018C,SA139AA,SA13
+Wales,Neath Port Talbot 011C,SA133DD,SA13
+Wales,Swansea 025G,SA13QR,SA13
+Wales,Neath Port Talbot 018B,SA131DS,SA13
+Wales,Neath Port Talbot 011D,SA133UT,SA13
+Wales,Neath Port Talbot 011B,SA133SA,SA13
+Wales,Neath Port Talbot 019B,SA132TR,SA13
+Wales,Neath Port Talbot 011B,SA133PB,SA13
+Wales,Neath Port Talbot 019A,SA132DS,SA13
+Wales,Swansea 026A,SA13UA,SA13
+Wales,Neath Port Talbot 018D,SA131ET,SA13
+Wales,Neath Port Talbot 019B,SA132PH,SA13
+Wales,Neath Port Talbot 018E,SA131TW,SA13
+Wales,Neath Port Talbot 019B,SA132NG,SA13
+Wales,Neath Port Talbot 018C,SA131EF,SA13
+Wales,Swansea 026A,SA13UJ,SA13
+Wales,Neath Port Talbot 019C,SA132HW,SA13
+Wales,Neath Port Talbot 018E,SA132UE,SA13
+Wales,Neath Port Talbot 018C,SA139AB,SA13
+Wales,Neath Port Talbot 014A,SA132SF,SA13
+Wales,Neath Port Talbot 019B,SA132AP,SA13
+Wales,Neath Port Talbot 019B,SA132TW,SA13
+Wales,Neath Port Talbot 019B,SA132UP,SA13
+Wales,Neath Port Talbot 018B,SA131PA,SA13
+Wales,Neath Port Talbot 018C,SA131JS,SA13
+Wales,Neath Port Talbot 018C,SA131LX,SA13
+Wales,Swansea 025F,SA13LP,SA13
+Wales,Neath Port Talbot 019B,SA132PS,SA13
+Wales,Neath Port Talbot 018B,SA131BQ,SA13
+Wales,Neath Port Talbot 019B,SA132PU,SA13
+Wales,Neath Port Talbot 018D,SA131EY,SA13
+Wales,Neath Port Talbot 019B,SA132TP,SA13
+Wales,Neath Port Talbot 018C,SA139BH,SA13
+Wales,Neath Port Talbot 011C,SA133DS,SA13
+Wales,Neath Port Talbot 011A,SA133LE,SA13
+Wales,Neath Port Talbot 011B,SA133SN,SA13
+Wales,Neath Port Talbot 019B,SA132TF,SA13
+Wales,Neath Port Talbot 019D,SA132LA,SA13
+Wales,Swansea 025G,SA13TA,SA13
+Wales,Neath Port Talbot 011C,SA133DF,SA13
+Wales,Neath Port Talbot 019A,SA131RS,SA13
+Wales,Swansea 025B,SA13TD,SA13
+Wales,Neath Port Talbot 018E,SA131TP,SA13
+Wales,Neath Port Talbot 019B,SA132PD,SA13
+Wales,Neath Port Talbot 011C,SA133DA,SA13
+Wales,Neath Port Talbot 011B,SA133SF,SA13
+Wales,Neath Port Talbot 019B,SA132AL,SA13
+Wales,Swansea 025B,SA13AB,SA13
+Wales,Swansea 025B,SA13BQ,SA13
+Wales,Neath Port Talbot 019A,SA132AF,SA13
+Wales,Swansea 025F,SA13BS,SA13
+Wales,Neath Port Talbot 018E,SA132YE,SA13
+Wales,Swansea 025B,SA13TQ,SA13
+Wales,Neath Port Talbot 011A,SA133NA,SA13
+Wales,Neath Port Talbot 011B,SA133SP,SA13
+Wales,Neath Port Talbot 018B,SA131US,SA13
+Wales,Neath Port Talbot 019B,SA132NS,SA13
+Wales,Swansea 025G,SA13XG,SA13
+Wales,Neath Port Talbot 018C,SA131AP,SA13
+Wales,Neath Port Talbot 018E,SA132YP,SA13
+Wales,Neath Port Talbot 011C,SA133DE,SA13
+Wales,Neath Port Talbot 018C,SA132ZW,SA13
+Wales,Swansea 025B,SA13HE,SA13
+Wales,Neath Port Talbot 018C,SA131JZ,SA13
+Wales,Neath Port Talbot 018D,SA131SP,SA13
+Wales,Neath Port Talbot 011B,SA133PE,SA13
+Wales,Swansea 025F,SA13QY,SA13
+Wales,Neath Port Talbot 018C,SA131BS,SA13
+Wales,Neath Port Talbot 018C,SA131AA,SA13
+Wales,Neath Port Talbot 018C,SA131AD,SA13
+Wales,Neath Port Talbot 011B,SA133PR,SA13
+Wales,Neath Port Talbot 019D,SA132BG,SA13
+Wales,Swansea 025B,SA13PQ,SA13
+Wales,Neath Port Talbot 011D,SA133TW,SA13
+Wales,Neath Port Talbot 019B,SA132XY,SA13
+Wales,Neath Port Talbot 019D,SA132LW,SA13
+Wales,Neath Port Talbot 011B,SA133EP,SA13
+Wales,Neath Port Talbot 019A,SA132NE,SA13
+Wales,Neath Port Talbot 018A,SA132EL,SA13
+Wales,Swansea 025B,SA13JN,SA13
+Wales,Neath Port Talbot 019C,SA132BN,SA13
+Wales,Neath Port Talbot 011C,SA133BT,SA13
+Wales,Neath Port Talbot 018C,SA131LZ,SA13
+Wales,Neath Port Talbot 011A,SA133LH,SA13
+Wales,Swansea 025E,SA13XA,SA13
+Wales,Neath Port Talbot 019B,SA132TG,SA13
+Wales,Neath Port Talbot 011C,SA133AB,SA13
+Wales,Neath Port Talbot 011B,SA133PY,SA13
+Wales,Neath Port Talbot 018A,SA132UU,SA13
+Wales,Neath Port Talbot 018E,SA132YR,SA13
+Wales,Neath Port Talbot 018E,SA132UH,SA13
+Wales,Neath Port Talbot 018A,SA131YP,SA13
+Wales,Neath Port Talbot 011D,SA133YL,SA13
+Wales,Neath Port Talbot 011A,SA133EY,SA13
+Wales,Neath Port Talbot 018C,SA131EX,SA13
+Wales,Neath Port Talbot 011B,SA133PA,SA13
+Wales,Neath Port Talbot 018C,SA131EA,SA13
+Wales,Swansea 025B,SA13DJ,SA13
+Wales,Neath Port Talbot 011D,SA133UL,SA13
+Wales,Swansea 025B,SA13EE,SA13
+Wales,Neath Port Talbot 011B,SA133RR,SA13
+Wales,Neath Port Talbot 011B,SA133SD,SA13
+Wales,Neath Port Talbot 011B,SA133PL,SA13
+Wales,Neath Port Talbot 011A,SA133EF,SA13
+Wales,Neath Port Talbot 018E,SA131TE,SA13
+Wales,Neath Port Talbot 018E,SA132TT,SA13
+Wales,Neath Port Talbot 011C,SA133DP,SA13
+Wales,Neath Port Talbot 018C,SA131DY,SA13
+Wales,Neath Port Talbot 019D,SA132BD,SA13
+Wales,Neath Port Talbot 018C,SA131WR,SA13
+Wales,Neath Port Talbot 011C,SA133BJ,SA13
+Wales,Neath Port Talbot 019D,SA132AR,SA13
+Wales,Neath Port Talbot 011A,SA133NR,SA13
+Wales,Neath Port Talbot 011A,SA133HR,SA13
+Wales,Neath Port Talbot 011A,SA133ED,SA13
+Wales,Neath Port Talbot 019B,SA132DH,SA13
+Wales,Neath Port Talbot 019D,SA132LD,SA13
+Wales,Neath Port Talbot 018C,SA131AN,SA13
+Wales,Neath Port Talbot 019D,SA132AA,SA13
+Wales,Neath Port Talbot 018D,SA131LB,SA13
+Wales,Swansea 025E,SA13RD,SA13
+Wales,Neath Port Talbot 018B,SA131BG,SA13
+Wales,Neath Port Talbot 019B,SA132PQ,SA13
+Wales,Neath Port Talbot 018C,SA131RD,SA13
+Wales,Neath Port Talbot 011B,SA133RH,SA13
+Wales,Swansea 025G,SA13XF,SA13
+Wales,Swansea 025F,SA13LG,SA13
+Wales,Swansea 025B,SA13DN,SA13
+Wales,Neath Port Talbot 019C,SA131TD,SA13
+Wales,Neath Port Talbot 019B,SA132UA,SA13
+Wales,Neath Port Talbot 019C,SA132BW,SA13
+Wales,Neath Port Talbot 011B,SA133PQ,SA13
+Wales,Neath Port Talbot 011C,SA133BG,SA13
+Wales,Swansea 026A,SA13UD,SA13
+Wales,Neath Port Talbot 011A,SA133LJ,SA13
+Wales,Neath Port Talbot 011D,SA133SY,SA13
+Wales,Neath Port Talbot 019B,SA132PE,SA13
+Wales,Neath Port Talbot 011C,SA133AL,SA13
+Wales,Neath Port Talbot 011D,SA133TA,SA13
+Wales,Neath Port Talbot 018C,SA131AF,SA13
+Wales,Neath Port Talbot 019C,SA132HN,SA13
+Wales,Swansea 025F,SA13ND,SA13
+Wales,Neath Port Talbot 018A,SA132ES,SA13
+Wales,Swansea 025F,SA13BB,SA13
+Wales,Neath Port Talbot 011A,SA133ND,SA13
+Wales,Neath Port Talbot 018E,SA131TR,SA13
+Wales,Neath Port Talbot 019A,SA132DT,SA13
+Wales,Neath Port Talbot 018C,SA131DH,SA13
+Wales,Neath Port Talbot 018E,SA132TU,SA13
+Wales,Neath Port Talbot 019B,SA132NF,SA13
+Wales,Neath Port Talbot 011D,SA133YT,SA13
+Wales,Neath Port Talbot 019A,SA132DU,SA13
+Wales,Neath Port Talbot 018D,SA131PS,SA13
+Wales,Swansea 025B,SA13BJ,SA13
+Wales,Neath Port Talbot 019B,SA132UZ,SA13
+Wales,Neath Port Talbot 018B,SA131AS,SA13
+Wales,Swansea 025G,SA13RB,SA13
+Wales,Neath Port Talbot 019D,SA132BY,SA13
+Wales,Neath Port Talbot 019C,SA131NE,SA13
+Wales,Neath Port Talbot 019A,SA132AD,SA13
+Wales,Swansea 026A,SA13UB,SA13
+Wales,Neath Port Talbot 019C,SA131LT,SA13
+Wales,Swansea 025F,SA13QP,SA13
+Wales,Neath Port Talbot 011C,SA133BN,SA13
+Wales,Neath Port Talbot 011D,SA133TF,SA13
+Wales,Swansea 025G,SA13RA,SA13
+Wales,Neath Port Talbot 019B,SA132NY,SA13
+Wales,Neath Port Talbot 019A,SA131RB,SA13
+Wales,Neath Port Talbot 018B,SA131YB,SA13
+Wales,Neath Port Talbot 011B,SA133NS,SA13
+Wales,Swansea 025G,SA13UX,SA13
+Wales,Swansea 025B,SA13JG,SA13
+Wales,Neath Port Talbot 018C,SA139DS,SA13
+Wales,Neath Port Talbot 011B,SA133RE,SA13
+Wales,Neath Port Talbot 019D,SA132BS,SA13
+Wales,Neath Port Talbot 011C,SA133DG,SA13
+Wales,Swansea 025F,SA13LQ,SA13
+Wales,Swansea 025B,SA13JF,SA13
+Wales,Neath Port Talbot 018E,SA131TS,SA13
+Wales,Neath Port Talbot 019A,SA132EA,SA13
+Wales,Neath Port Talbot 018D,SA131LD,SA13
+Wales,Neath Port Talbot 011D,SA133YH,SA13
+Wales,Neath Port Talbot 018C,SA131PQ,SA13
+Wales,Neath Port Talbot 011B,SA133SR,SA13
+Wales,Neath Port Talbot 018C,SA131NR,SA13
+Wales,Neath Port Talbot 014A,SA132PY,SA13
+Wales,Neath Port Talbot 011D,SA133TS,SA13
+Wales,Neath Port Talbot 019C,SA131LR,SA13
+Wales,Swansea 025G,SA13QT,SA13
+Wales,Neath Port Talbot 018B,SA131YF,SA13
+Wales,Neath Port Talbot 011C,SA133BP,SA13
+Wales,Neath Port Talbot 018B,SA131AJ,SA13
+Wales,Neath Port Talbot 018A,SA132UR,SA13
+Wales,Neath Port Talbot 011D,SA133YD,SA13
+Wales,Neath Port Talbot 014A,SA132RH,SA13
+Wales,Neath Port Talbot 019B,SA132TB,SA13
+Wales,Neath Port Talbot 011B,SA133NU,SA13
+Wales,Neath Port Talbot 011C,SA133DR,SA13
+Wales,Swansea 025F,SA13NE,SA13
+Wales,Neath Port Talbot 018C,SA131HU,SA13
+Wales,Neath Port Talbot 018E,SA131SU,SA13
+Wales,Neath Port Talbot 018C,SA131JR,SA13
+Wales,Neath Port Talbot 018C,SA131ED,SA13
+Wales,Neath Port Talbot 019B,SA132ST,SA13
+Wales,Neath Port Talbot 018C,SA131DR,SA13
+Wales,Neath Port Talbot 018A,SA132ER,SA13
+Wales,Neath Port Talbot 011A,SA133HA,SA13
+Wales,Swansea 025B,SA13EY,SA13
+Wales,Swansea 025B,SA13EW,SA13
+Wales,Neath Port Talbot 018E,SA132YF,SA13
+Wales,Neath Port Talbot 018A,SA132YA,SA13
+Wales,Neath Port Talbot 018E,SA131TN,SA13
+Wales,Neath Port Talbot 019D,SA132AQ,SA13
+Wales,Neath Port Talbot 011B,SA133PG,SA13
+Wales,Neath Port Talbot 018B,SA131BB,SA13
+Wales,Neath Port Talbot 018E,SA131UD,SA13
+Wales,Neath Port Talbot 019B,SA132TH,SA13
+Wales,Swansea 026A,SA13JP,SA13
+Wales,Neath Port Talbot 011C,SA133BU,SA13
+Wales,Swansea 026A,SA13TX,SA13
+Wales,Neath Port Talbot 018C,SA131FA,SA13
+Wales,Neath Port Talbot 019B,SA132AG,SA13
+Wales,Neath Port Talbot 018A,SA132EH,SA13
+Wales,Neath Port Talbot 018C,SA131EE,SA13
+Wales,Neath Port Talbot 019C,SA131NL,SA13
+Wales,Neath Port Talbot 018D,SA131PP,SA13
+Wales,Neath Port Talbot 019D,SA132AS,SA13
+Wales,Swansea 025F,SA13AD,SA13
+Wales,Neath Port Talbot 019C,SA132LU,SA13
+Wales,Neath Port Talbot 018A,SA132HA,SA13
+Wales,Neath Port Talbot 018A,SA131YS,SA13
+Wales,Neath Port Talbot 011D,SA133TL,SA13
+Wales,Neath Port Talbot 019B,SA132UX,SA13
+Wales,Neath Port Talbot 011C,SA133AU,SA13
+Wales,Neath Port Talbot 018E,SA131UA,SA13
+Wales,Neath Port Talbot 019B,SA132TS,SA13
+Wales,Neath Port Talbot 019C,SA131TG,SA13
+Wales,Neath Port Talbot 011A,SA133NP,SA13
+Wales,Neath Port Talbot 017A,SA131PB,SA13
+Wales,Neath Port Talbot 019D,SA132AT,SA13
+Wales,Neath Port Talbot 018D,SA131EH,SA13
+Wales,Neath Port Talbot 019D,SA132LG,SA13
+Wales,Neath Port Talbot 019B,SA132PB,SA13
+Wales,Neath Port Talbot 014A,SA132RF,SA13
+Wales,Neath Port Talbot 018A,SA131DX,SA13
+Wales,Neath Port Talbot 014A,SA132SH,SA13
+Wales,Neath Port Talbot 018D,SA131PU,SA13
+Wales,Neath Port Talbot 011B,SA133RG,SA13
+Wales,Neath Port Talbot 011A,SA133LR,SA13
+Wales,Neath Port Talbot 019D,SA132LJ,SA13
+Wales,Neath Port Talbot 019A,SA131SB,SA13
+Wales,Neath Port Talbot 018C,SA131EJ,SA13
+Wales,Neath Port Talbot 019B,SA132TX,SA13
+Wales,Neath Port Talbot 019D,SA132LS,SA13
+Wales,Swansea 025F,SA13ET,SA13
+Wales,Neath Port Talbot 018E,SA131UB,SA13
+Wales,Neath Port Talbot 019A,SA132DL,SA13
+Wales,Neath Port Talbot 017A,SA131ZP,SA13
+Wales,Neath Port Talbot 019D,SA132LB,SA13
+Wales,Swansea 026A,SA13UW,SA13
+Wales,Neath Port Talbot 011C,SA133BE,SA13
+Wales,Neath Port Talbot 011D,SA133TU,SA13
+Wales,Neath Port Talbot 011D,SA133AJ,SA13
+Wales,Swansea 025F,SA13AY,SA13
+Wales,Neath Port Talbot 018C,SA131PH,SA13
+Wales,Swansea 014D,SA13YN,SA13
+Wales,Neath Port Talbot 018B,SA131BR,SA13
+Wales,Neath Port Talbot 018A,SA132EN,SA13
+Wales,Swansea 025E,SA13ST,SA13
+Wales,Neath Port Talbot 018A,SA132EX,SA13
+Wales,Neath Port Talbot 018D,SA131PY,SA13
+Wales,Swansea 025B,SA13HZ,SA13
+Wales,Neath Port Talbot 011D,SA133TN,SA13
+Wales,Neath Port Talbot 014A,SA132SG,SA13
+Wales,Neath Port Talbot 018C,SA131HN,SA13
+Wales,Neath Port Talbot 011B,SA133HS,SA13
+Wales,Neath Port Talbot 018D,SA131HB,SA13
+Wales,Neath Port Talbot 011D,SA133TQ,SA13
+Wales,Neath Port Talbot 011D,SA133YE,SA13
+Wales,Neath Port Talbot 018C,SA131AR,SA13
+Wales,Neath Port Talbot 019B,SA132TL,SA13
+Wales,Neath Port Talbot 011C,SA133AF,SA13
+Wales,Neath Port Talbot 019C,SA131LP,SA13
+Wales,Neath Port Talbot 017A,SA139SA,SA13
+Wales,Neath Port Talbot 018C,SA131EW,SA13
+Wales,Neath Port Talbot 018E,SA132UL,SA13
+Wales,Neath Port Talbot 018C,SA131EL,SA13
+Wales,Neath Port Talbot 018B,SA131BJ,SA13
+Wales,Neath Port Talbot 018C,SA131AB,SA13
+Wales,Swansea 025B,SA13DW,SA13
+Wales,Neath Port Talbot 011A,SA133HY,SA13
+Wales,Neath Port Talbot 018A,SA132EP,SA13
+Wales,Neath Port Talbot 019B,SA132PA,SA13
+Wales,Neath Port Talbot 019C,SA131ND,SA13
+Wales,Neath Port Talbot 018D,SA131PR,SA13
+Wales,Neath Port Talbot 014A,SA132RP,SA13
+Wales,Neath Port Talbot 014A,SA132SE,SA13
+Wales,Neath Port Talbot 018E,SA131SY,SA13
+Wales,Neath Port Talbot 011A,SA133LT,SA13
+Wales,Swansea 014D,SA13YU,SA13
+Wales,Swansea 025F,SA13AZ,SA13
+Wales,Neath Port Talbot 018C,SA131DF,SA13
+Wales,Swansea 025G,SA13SH,SA13
+Wales,Swansea 025B,SA13JA,SA13
+Wales,Swansea 025F,SA13AR,SA13
+Wales,Neath Port Talbot 018B,SA131BH,SA13
+Wales,Neath Port Talbot 011C,SA133BS,SA13
+Wales,Swansea 025B,SA13HY,SA13
+Wales,Neath Port Talbot 019B,SA132TN,SA13
+Wales,Swansea 025B,SA13JY,SA13
+Wales,Swansea 025F,SA13QZ,SA13
+Wales,Neath Port Talbot 017A,SA139SB,SA13
+Wales,Neath Port Talbot 011C,SA133BB,SA13
+Wales,Neath Port Talbot 018C,SA139EG,SA13
+Wales,Neath Port Talbot 019A,SA131RF,SA13
+Wales,Neath Port Talbot 011A,SA133LW,SA13
+Wales,Neath Port Talbot 011B,SA133RP,SA13
+Wales,Neath Port Talbot 018C,SA131NH,SA13
+Wales,Swansea 025G,SA13XD,SA13
+Wales,Swansea 026A,SA13JW,SA13
+Wales,Neath Port Talbot 019B,SA132UQ,SA13
+Wales,Neath Port Talbot 019B,SA132NR,SA13
+Wales,Swansea 014D,SA13ZT,SA13
+Wales,Neath Port Talbot 018B,SA131BD,SA13
+Wales,Neath Port Talbot 018D,SA131ST,SA13
+Wales,Neath Port Talbot 019A,SA131RU,SA13
+Wales,Neath Port Talbot 019D,SA132BT,SA13
+Wales,Neath Port Talbot 011C,SA133AY,SA13
+Wales,Neath Port Talbot 011B,SA133NY,SA13
+Wales,Neath Port Talbot 014A,SA132RY,SA13
+Wales,Neath Port Talbot 018C,SA131ZB,SA13
+Wales,Neath Port Talbot 018C,SA131HX,SA13
+Wales,Neath Port Talbot 011B,SA133SW,SA13
+Wales,Neath Port Talbot 011D,SA133UN,SA13
+Wales,Neath Port Talbot 018C,SA131HW,SA13
+Wales,Neath Port Talbot 019B,SA132TE,SA13
+Wales,Neath Port Talbot 018A,SA132EB,SA13
+Wales,Swansea 025B,SA13HJ,SA13
+Wales,Neath Port Talbot 018C,SA131AH,SA13
+Wales,Neath Port Talbot 019B,SA132TD,SA13
+Wales,Neath Port Talbot 018C,SA131DL,SA13
+Wales,Neath Port Talbot 011B,SA133PF,SA13
+Wales,Neath Port Talbot 011A,SA133HH,SA13
+Wales,Swansea 026A,SA13JS,SA13
+Wales,Swansea 025F,SA13LW,SA13
+Wales,Neath Port Talbot 011D,SA133TR,SA13
+Wales,Swansea 026A,SA13UN,SA13
+Wales,Swansea 025F,SA13QN,SA13
+Wales,Neath Port Talbot 014A,SA132RS,SA13
+Wales,Swansea 025G,SA13RY,SA13
+Wales,Swansea 025B,SA13HA,SA13
+Wales,Neath Port Talbot 019C,SA131LN,SA13
+Wales,Swansea 025G,SA13XE,SA13
+Wales,Neath Port Talbot 018E,SA132YB,SA13
+Wales,Swansea 025G,SA13SA,SA13
+Wales,Neath Port Talbot 018A,SA131YR,SA13
+Wales,Swansea 025B,SA13JE,SA13
+Wales,Neath Port Talbot 011C,SA133DB,SA13
+Wales,Neath Port Talbot 019A,SA132DP,SA13
+Wales,Neath Port Talbot 019C,SA132HY,SA13
+Wales,Neath Port Talbot 018E,SA131TF,SA13
+Wales,Neath Port Talbot 018E,SA131TL,SA13
+Wales,Neath Port Talbot 018A,SA132EW,SA13
+Wales,Neath Port Talbot 014A,SA132SL,SA13
+Wales,Neath Port Talbot 019B,SA132PL,SA13
+Wales,Neath Port Talbot 014A,SA132RA,SA13
+Wales,Neath Port Talbot 019A,SA132DX,SA13
+Wales,Neath Port Talbot 011D,SA133YY,SA13
+Wales,Swansea 025B,SA13HT,SA13
+Wales,Neath Port Talbot 011A,SA133HL,SA13
+Wales,Neath Port Talbot 019D,SA132BR,SA13
+Wales,Neath Port Talbot 014A,SA132RL,SA13
+Wales,Neath Port Talbot 018E,SA132UG,SA13
+Wales,Neath Port Talbot 019B,SA132SP,SA13
+Wales,Neath Port Talbot 019C,SA132BL,SA13
+Wales,Swansea 014D,SA13YJ,SA13
+Wales,Neath Port Talbot 019B,SA132XX,SA13
+Wales,Neath Port Talbot 019A,SA132BZ,SA13
+Wales,Neath Port Talbot 011B,SA133RN,SA13
+Wales,Neath Port Talbot 011A,SA133NB,SA13
+Wales,Swansea 025B,SA13BN,SA13
+Wales,Neath Port Talbot 011C,SA133AE,SA13
+Wales,Neath Port Talbot 011B,SA133PH,SA13
+Wales,Neath Port Talbot 019D,SA132AY,SA13
+Wales,Neath Port Talbot 011A,SA133EE,SA13
+Wales,Neath Port Talbot 019A,SA131RH,SA13
+Wales,Neath Port Talbot 011D,SA133TP,SA13
+Wales,Neath Port Talbot 011B,SA133EL,SA13
+Wales,Neath Port Talbot 019C,SA131LQ,SA13
+Wales,Swansea 025H,SA13XL,SA13
+Wales,Swansea 025F,SA13QG,SA13
+Wales,Neath Port Talbot 018D,SA131SH,SA13
+Wales,Neath Port Talbot 018B,SA131AY,SA13
+Wales,Neath Port Talbot 018B,SA131XW,SA13
+Wales,Neath Port Talbot 014A,SA132RN,SA13
+Wales,Neath Port Talbot 011A,SA133LD,SA13
+Wales,Neath Port Talbot 018D,SA131HA,SA13
+Wales,Neath Port Talbot 018A,SA132ET,SA13
+Wales,Neath Port Talbot 018E,SA132TY,SA13
+Wales,Neath Port Talbot 011C,SA133BY,SA13
+Wales,Neath Port Talbot 018C,SA131SG,SA13
+Wales,Neath Port Talbot 014A,SA132RZ,SA13
+Wales,Neath Port Talbot 011C,SA133EA,SA13
+Wales,Neath Port Talbot 019A,SA132DN,SA13
+Wales,Swansea 025E,SA13SS,SA13
+Wales,Swansea 025B,SA13PF,SA13
+Wales,Neath Port Talbot 018C,SA139EH,SA13
+Wales,Neath Port Talbot 019D,SA132LR,SA13
+Wales,Neath Port Talbot 011D,SA133UY,SA13
+Wales,Neath Port Talbot 018E,SA132YH,SA13
+Wales,Neath Port Talbot 019A,SA131RA,SA13
+Wales,Swansea 025B,SA13AE,SA13
+Wales,Swansea 025B,SA13BL,SA13
+Wales,Neath Port Talbot 014A,SA132SB,SA13
+Wales,Neath Port Talbot 011A,SA133NL,SA13
+Wales,Neath Port Talbot 018C,SA131EP,SA13
+Wales,Neath Port Talbot 019B,SA132AN,SA13
+Wales,Neath Port Talbot 011A,SA133HF,SA13
+Wales,Neath Port Talbot 018E,SA131UE,SA13
+Wales,Swansea 025B,SA13EH,SA13
+Wales,Neath Port Talbot 018B,SA131YH,SA13
+Wales,Neath Port Talbot 011C,SA133BA,SA13
+Wales,Neath Port Talbot 018A,SA131YW,SA13
+Wales,Neath Port Talbot 018B,SA131BP,SA13
+Wales,Neath Port Talbot 018C,SA139DE,SA13
+Wales,Neath Port Talbot 011D,SA133TY,SA13
+Wales,Neath Port Talbot 018B,SA131YE,SA13
+Wales,Neath Port Talbot 011B,SA133RS,SA13
+Wales,Neath Port Talbot 014A,SA132RT,SA13
+Wales,Neath Port Talbot 018C,SA131LA,SA13
+Wales,Neath Port Talbot 018E,SA131TA,SA13
+Wales,Neath Port Talbot 014A,SA132RD,SA13
+Wales,Neath Port Talbot 011C,SA133AA,SA13
+Wales,Swansea 026A,SA13UH,SA13
+Wales,Swansea 025B,SA13JX,SA13
+Wales,Swansea 025B,SA13QE,SA13
+Wales,Neath Port Talbot 018C,SA131JJ,SA13
+Wales,Neath Port Talbot 019D,SA132AB,SA13
+Wales,Swansea 025B,SA13JZ,SA13
+Wales,Neath Port Talbot 018B,SA131YD,SA13
+Wales,Swansea 026A,SA13JJ,SA13
+Wales,Swansea 026A,SA13UQ,SA13
+Wales,Neath Port Talbot 019D,SA132LX,SA13
+Wales,Neath Port Talbot 019C,SA132HR,SA13
+Wales,Neath Port Talbot 018D,SA131EU,SA13
+Wales,Swansea 025F,SA13NG,SA13
+Wales,Neath Port Talbot 018B,SA131AQ,SA13
+Wales,Neath Port Talbot 011A,SA133HG,SA13
+Wales,Swansea 025G,SA13SB,SA13
+Wales,Swansea 026A,SA13TU,SA13
+Wales,Swansea 025E,SA13XB,SA13
+Wales,Neath Port Talbot 019D,SA132AU,SA13
+Wales,Swansea 025B,SA13EU,SA13
+Wales,Neath Port Talbot 018E,SA131DP,SA13
+Wales,Swansea 025B,SA13DH,SA13
+Wales,Neath Port Talbot 019D,SA132DA,SA13
+Wales,Neath Port Talbot 019C,SA132HS,SA13
+Wales,Neath Port Talbot 018C,SA131HY,SA13
+Wales,Neath Port Talbot 018B,SA131YU,SA13
+Wales,Neath Port Talbot 019D,SA132AZ,SA13
+Wales,Swansea 025G,SA13RX,SA13
+Wales,Neath Port Talbot 011B,SA133SE,SA13
+Wales,Neath Port Talbot 014A,SA132SA,SA13
+Wales,Neath Port Talbot 019A,SA131SA,SA13
+Wales,Swansea 025B,SA13BG,SA13
+Wales,Neath Port Talbot 014A,SA132RE,SA13
+Wales,Neath Port Talbot 019C,SA131LW,SA13
+Wales,Neath Port Talbot 019A,SA132AW,SA13
+Wales,Neath Port Talbot 011A,SA133LN,SA13
+Wales,Neath Port Talbot 018E,SA132YG,SA13
+Wales,Neath Port Talbot 011A,SA133LL,SA13
+Wales,Neath Port Talbot 019C,SA131NB,SA13
+Wales,Neath Port Talbot 017A,SA139ZZ,SA13
+Wales,Swansea 025B,SA13AA,SA13
+Wales,Neath Port Talbot 011D,SA133YS,SA13
+Wales,Neath Port Talbot 011D,SA133YA,SA13
+Wales,Swansea 025F,SA13QW,SA13
+Wales,Neath Port Talbot 019B,SA132BH,SA13
+Wales,Neath Port Talbot 019B,SA132AJ,SA13
+Wales,Swansea 025F,SA13LH,SA13
+Wales,Swansea 025B,SA13JD,SA13
+Wales,Neath Port Talbot 019B,SA132NP,SA13
+Wales,Neath Port Talbot 018C,SA131BW,SA13
+Wales,Swansea 026A,SA13UP,SA13
+Wales,Neath Port Talbot 018C,SA131AW,SA13
+Wales,Neath Port Talbot 014A,SA132SS,SA13
+Wales,Neath Port Talbot 011A,SA133LU,SA13
+Wales,Swansea 025F,SA13RT,SA13
+Wales,Neath Port Talbot 018C,SA131AL,SA13
+Wales,Neath Port Talbot 011C,SA133BD,SA13
+Wales,Neath Port Talbot 019B,SA132NW,SA13
+Wales,Neath Port Talbot 011A,SA133EG,SA13
+Wales,Swansea 025G,SA13RW,SA13
+Wales,Neath Port Talbot 011B,SA133RT,SA13
+Wales,Neath Port Talbot 019A,SA132DY,SA13
+Wales,Swansea 025B,SA13AG,SA13
+Wales,Neath Port Talbot 018D,SA131HD,SA13
+Wales,Neath Port Talbot 018C,SA131NW,SA13
+Wales,Neath Port Talbot 019D,SA132LN,SA13
+Wales,Neath Port Talbot 019A,SA132DD,SA13
+Wales,Neath Port Talbot 018E,SA132YD,SA13
+Wales,Neath Port Talbot 018A,SA132EY,SA13
+Wales,Neath Port Talbot 019A,SA132AH,SA13
+Wales,Neath Port Talbot 019D,SA132BE,SA13
+Wales,Neath Port Talbot 019A,SA132DG,SA13
+Wales,Neath Port Talbot 011B,SA133RA,SA13
+Wales,Neath Port Talbot 011C,SA133AT,SA13
+Wales,Neath Port Talbot 014A,SA132RB,SA13
+Wales,Neath Port Talbot 018B,SA131YT,SA13
+Wales,Swansea 025B,SA13AQ,SA13
+Wales,Neath Port Talbot 018C,SA131HQ,SA13
+Wales,Neath Port Talbot 019D,SA132DJ,SA13
+Wales,Neath Port Talbot 014C,SA132RX,SA13
+Wales,Neath Port Talbot 011A,SA133NN,SA13
+Wales,Neath Port Talbot 018C,SA131XN,SA13
+Wales,Neath Port Talbot 011B,SA133RU,SA13
+Wales,Neath Port Talbot 019A,SA132DR,SA13
+Wales,Neath Port Talbot 011A,SA133EU,SA13
+Wales,Neath Port Talbot 019D,SA132LH,SA13
+Wales,Swansea 025B,SA13QQ,SA13
+Wales,Neath Port Talbot 018B,SA131PG,SA13
+Wales,Neath Port Talbot 014A,SA132RR,SA13
+Wales,Neath Port Talbot 011D,SA133TD,SA13
+Wales,Neath Port Talbot 011C,SA133DH,SA13
+Wales,Neath Port Talbot 018A,SA132US,SA13
+Wales,Neath Port Talbot 018C,SA131AE,SA13
+Wales,Neath Port Talbot 019B,SA132DE,SA13
+Wales,Neath Port Talbot 011D,SA133YU,SA13
+Wales,Neath Port Talbot 011B,SA133RD,SA13
+Wales,Neath Port Talbot 019B,SA132TA,SA13
+Wales,Neath Port Talbot 018C,SA139BF,SA13
+Wales,Neath Port Talbot 018B,SA131YL,SA13
+Wales,Neath Port Talbot 018C,SA131NU,SA13
+Wales,Neath Port Talbot 011D,SA133TG,SA13
+Wales,Neath Port Talbot 019C,SA132HL,SA13
+Wales,Neath Port Talbot 011A,SA133HD,SA13
+Wales,Neath Port Talbot 018E,SA132UD,SA13
+Wales,Neath Port Talbot 018A,SA132EU,SA13
+Wales,Neath Port Talbot 014A,SA132RG,SA13
+Wales,Neath Port Talbot 018A,SA132UT,SA13
+Wales,Neath Port Talbot 019C,SA131NA,SA13
+Wales,Neath Port Talbot 014A,SA132RJ,SA13
+Wales,Swansea 025B,SA13EZ,SA13
+Wales,Neath Port Talbot 018D,SA131PT,SA13
+Wales,Neath Port Talbot 011C,SA133DT,SA13
+Wales,Neath Port Talbot 011D,SA133YN,SA13
+Wales,Neath Port Talbot 011B,SA133RL,SA13
+Wales,Neath Port Talbot 011D,SA133TH,SA13
+Wales,Neath Port Talbot 018D,SA131SN,SA13
+Wales,Swansea 025G,SA13QS,SA13
+Wales,Neath Port Talbot 011A,SA133LY,SA13
+Wales,Neath Port Talbot 011A,SA133EW,SA13
+Wales,Swansea 026A,SA13TZ,SA13
+Wales,Neath Port Talbot 019A,SA131RE,SA13
+Wales,Swansea 025G,SA13TE,SA13
+Wales,Neath Port Talbot 019B,SA132SY,SA13
+Wales,Neath Port Talbot 018A,SA132EG,SA13
+Wales,Neath Port Talbot 011A,SA133HE,SA13
+Wales,Neath Port Talbot 011A,SA133HT,SA13
+Wales,Neath Port Talbot 018C,SA131EZ,SA13
+Wales,Swansea 025F,SA13QJ,SA13
+Wales,Neath Port Talbot 011D,SA133YF,SA13
+Wales,Neath Port Talbot 018C,SA131SL,SA13
+Wales,Neath Port Talbot 018D,SA132UY,SA13
+Wales,Swansea 025G,SA13SY,SA13
+Wales,Neath Port Talbot 019B,SA132TJ,SA13
+Wales,Neath Port Talbot 011D,SA133TT,SA13
+Wales,Neath Port Talbot 011D,SA133UB,SA13
+Wales,Neath Port Talbot 011B,SA133SB,SA13
+Wales,Swansea 025B,SA13EF,SA13
+Wales,Neath Port Talbot 011A,SA133EN,SA13
+Wales,Neath Port Talbot 019B,SA132PP,SA13
+Wales,Neath Port Talbot 019C,SA131LU,SA13
+Wales,Swansea 025B,SA13EQ,SA13
+Wales,Swansea 025B,SA13AF,SA13
+Wales,Neath Port Talbot 011C,SA133AN,SA13
+Wales,Neath Port Talbot 018B,SA131AZ,SA13
+Wales,Neath Port Talbot 019D,SA132LF,SA13
+Wales,Neath Port Talbot 011B,SA133RF,SA13
+Wales,Swansea 025F,SA13PP,SA13
+Wales,Swansea 025G,SA13SQ,SA13
+Wales,Swansea 025B,SA13EN,SA13
+Wales,Neath Port Talbot 018C,SA139BD,SA13
+Wales,Neath Port Talbot 019B,SA132TZ,SA13
+Wales,Swansea 025B,SA13BH,SA13
+Wales,Neath Port Talbot 019A,SA132AE,SA13
+Wales,Swansea 025B,SA13DZ,SA13
+Wales,Neath Port Talbot 019C,SA132HP,SA13
+Wales,Neath Port Talbot 018C,SA131JB,SA13
+Wales,Neath Port Talbot 019C,SA131PZ,SA13
+Wales,Neath Port Talbot 019C,SA131LG,SA13
+Wales,Neath Port Talbot 018E,SA132UW,SA13
+Wales,Neath Port Talbot 018D,SA131EN,SA13
+Wales,Neath Port Talbot 019D,SA132BB,SA13
+Wales,Neath Port Talbot 018B,SA131YG,SA13
+Wales,Neath Port Talbot 019B,SA132PN,SA13
+Wales,Neath Port Talbot 011A,SA133HB,SA13
+Wales,Neath Port Talbot 011D,SA133YP,SA13
+Wales,Swansea 025G,SA13SR,SA13
+Wales,Neath Port Talbot 019B,SA132PW,SA13
+Wales,Neath Port Talbot 014A,SA132RW,SA13
+Wales,Neath Port Talbot 014A,SA132RQ,SA13
+Wales,Swansea 026A,SA13UL,SA13
+Wales,Neath Port Talbot 018C,SA131AG,SA13
+Wales,Swansea 026A,SA13UR,SA13
+Wales,Swansea 025B,SA13BR,SA13
+Wales,Neath Port Talbot 018C,SA139BJ,SA13
+Wales,Neath Port Talbot 011D,SA133YR,SA13
+Wales,Neath Port Talbot 018E,SA132UF,SA13
+Wales,Neath Port Talbot 018B,SA131BZ,SA13
+Wales,Neath Port Talbot 011B,SA133NT,SA13
+Wales,Neath Port Talbot 019D,SA132AX,SA13
+Wales,Neath Port Talbot 018C,SA139DD,SA13
+Wales,Neath Port Talbot 019D,SA132LE,SA13
+Wales,Swansea 025B,SA13TB,SA13
+Wales,Swansea 026A,SA13TY,SA13
+Wales,Neath Port Talbot 018A,SA131DZ,SA13
+Wales,Neath Port Talbot 018D,SA131ES,SA13
+Wales,Neath Port Talbot 019D,SA132LP,SA13
+Wales,Neath Port Talbot 019C,SA131TH,SA13
+Wales,Neath Port Talbot 018C,SA139AP,SA13
+Wales,Neath Port Talbot 019B,SA132SZ,SA13
+Wales,Neath Port Talbot 014A,SA132SD,SA13
+Wales,Neath Port Talbot 019B,SA132TQ,SA13
+Wales,Swansea 025B,SA13JB,SA13
+Wales,Swansea 025E,SA13SN,SA13
+Wales,Neath Port Talbot 018C,SA131XA,SA13
+Wales,Neath Port Talbot 019B,SA132SU,SA13
+Wales,Swansea 026A,SA13JU,SA13
+Wales,Neath Port Talbot 019A,SA132DW,SA13
+Wales,Neath Port Talbot 018B,SA131YA,SA13
+Wales,Neath Port Talbot 011D,SA133UU,SA13
+Wales,Neath Port Talbot 019D,SA132BU,SA13
+Wales,Neath Port Talbot 011D,SA133TE,SA13
+Wales,Neath Port Talbot 011C,SA133BW,SA13
+Wales,Neath Port Talbot 011A,SA133ET,SA13
+Wales,Neath Port Talbot 018C,SA131BE,SA13
+Wales,Neath Port Talbot 018C,SA131NN,SA13
+Wales,Neath Port Talbot 019C,SA131TZ,SA13
+Wales,Swansea 026A,SA13TT,SA13
+Wales,Neath Port Talbot 018D,SA131EG,SA13
+Wales,Neath Port Talbot 018E,SA132YN,SA13
+Wales,Neath Port Talbot 018E,SA132YL,SA13
+Wales,Neath Port Talbot 018C,SA131ER,SA13
+Wales,Neath Port Talbot 011D,SA133YW,SA13
+Wales,Neath Port Talbot 011D,SA133TB,SA13
+Wales,Neath Port Talbot 011A,SA133HU,SA13
+Wales,Swansea 025B,SA13ES,SA13
+Wales,Neath Port Talbot 018D,SA131LE,SA13
+Wales,Neath Port Talbot 018B,SA131YY,SA13
+Wales,Neath Port Talbot 018E,SA132XZ,SA13
+Wales,Swansea 014D,SA13WY,SA13
+Wales,Neath Port Talbot 019A,SA132PT,SA13
+Wales,Neath Port Talbot 019A,SA132DF,SA13
+Wales,Neath Port Talbot 018E,SA132UN,SA13
+Wales,Neath Port Talbot 011A,SA133ES,SA13
+Wales,Neath Port Talbot 018C,SA139AY,SA13

@@ -1,0 +1,846 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+England,Breckland 014D,IP222FA,IP22
+England,South Norfolk 015B,IP224DS,IP22
+England,South Norfolk 015G,IP224GB,IP22
+England,South Norfolk 015F,IP225SL,IP22
+England,South Norfolk 015G,IP224DA,IP22
+England,Mid Suffolk 002D,IP221HG,IP22
+England,South Norfolk 014A,IP222AW,IP22
+England,South Norfolk 015E,IP225RS,IP22
+England,South Norfolk 015D,IP224AD,IP22
+England,Breckland 014D,IP222LS,IP22
+England,South Norfolk 015G,IP224GT,IP22
+England,South Norfolk 015H,IP224YD,IP22
+England,South Norfolk 015H,IP224HJ,IP22
+England,South Norfolk 015F,IP225QR,IP22
+England,South Norfolk 015G,IP224YT,IP22
+England,South Norfolk 014B,IP222DX,IP22
+England,South Norfolk 015F,IP225QY,IP22
+England,Breckland 014D,IP222JS,IP22
+England,St Edmundsbury 001C,IP222RG,IP22
+England,South Norfolk 015H,IP224ET,IP22
+England,South Norfolk 015H,IP224JX,IP22
+England,South Norfolk 015D,IP224NX,IP22
+England,Mid Suffolk 002E,IP221SG,IP22
+England,South Norfolk 015D,IP224ND,IP22
+England,South Norfolk 015H,IP224JA,IP22
+England,Mid Suffolk 002B,IP221RB,IP22
+England,South Norfolk 015B,IP224QS,IP22
+England,South Norfolk 015E,IP225XR,IP22
+England,Mid Suffolk 002D,IP221EF,IP22
+England,South Norfolk 014B,IP225TZ,IP22
+England,Mid Suffolk 002F,IP221HL,IP22
+England,Mid Suffolk 001C,IP221BD,IP22
+England,South Norfolk 015F,IP225QT,IP22
+England,Mid Suffolk 002B,IP221QE,IP22
+England,St Edmundsbury 001C,IP222QQ,IP22
+England,Mid Suffolk 002E,IP221LX,IP22
+England,South Norfolk 014A,IP222AU,IP22
+England,Breckland 014C,IP222SB,IP22
+England,South Norfolk 015F,IP224ED,IP22
+England,Breckland 014C,IP222SX,IP22
+England,South Norfolk 015D,IP224AH,IP22
+England,South Norfolk 015A,IP224NT,IP22
+England,South Norfolk 015A,IP224PH,IP22
+England,Breckland 014D,IP222JU,IP22
+England,South Norfolk 015D,IP224BA,IP22
+England,South Norfolk 015A,IP229AF,IP22
+England,South Norfolk 014B,IP225TY,IP22
+England,South Norfolk 015G,IP224AY,IP22
+England,Breckland 014D,IP222LG,IP22
+England,South Norfolk 015A,IP224PT,IP22
+England,Breckland 014C,IP222RZ,IP22
+England,South Norfolk 015F,IP225QW,IP22
+England,Mid Suffolk 002D,IP221DR,IP22
+England,Mid Suffolk 002B,IP221QP,IP22
+England,Breckland 014C,IP222QG,IP22
+England,Breckland 014C,IP222QP,IP22
+England,Mid Suffolk 002D,IP221BL,IP22
+England,South Norfolk 015D,IP224BB,IP22
+England,Breckland 014D,IP222HL,IP22
+England,South Norfolk 015D,IP224AU,IP22
+England,South Norfolk 015F,IP225SG,IP22
+England,South Norfolk 014A,IP222AD,IP22
+England,Breckland 014C,IP222SA,IP22
+England,South Norfolk 014A,IP222AP,IP22
+England,South Norfolk 015H,IP224JP,IP22
+England,St Edmundsbury 001C,IP222QS,IP22
+England,Mid Suffolk 002E,IP221SE,IP22
+England,Mid Suffolk 002B,IP221SL,IP22
+England,St Edmundsbury 001B,IP222PL,IP22
+England,South Norfolk 015D,IP224LG,IP22
+England,South Norfolk 014A,IP222DQ,IP22
+England,Breckland 014D,IP222LT,IP22
+England,Mid Suffolk 002F,IP221PB,IP22
+England,South Norfolk 015A,IP229BS,IP22
+England,South Norfolk 014B,IP225TA,IP22
+England,South Norfolk 015D,IP224YP,IP22
+England,Mid Suffolk 002E,IP221SF,IP22
+England,South Norfolk 015A,IP224NZ,IP22
+England,Mid Suffolk 002B,IP221PL,IP22
+England,South Norfolk 015B,IP224EF,IP22
+England,St Edmundsbury 001B,IP222QE,IP22
+England,South Norfolk 015G,IP224HT,IP22
+England,South Norfolk 015F,IP224QN,IP22
+England,South Norfolk 014B,IP222DZ,IP22
+England,South Norfolk 014A,IP222BE,IP22
+England,South Norfolk 015D,IP224JU,IP22
+England,South Norfolk 014B,IP225UT,IP22
+England,South Norfolk 015D,IP224AB,IP22
+England,Breckland 014D,IP222NR,IP22
+England,South Norfolk 014A,IP222HD,IP22
+England,South Norfolk 015E,IP225RT,IP22
+England,South Norfolk 015A,IP224QE,IP22
+England,Mid Suffolk 002B,IP221LR,IP22
+England,Mid Suffolk 001C,IP221AP,IP22
+England,South Norfolk 015A,IP225ST,IP22
+England,South Norfolk 015G,IP224GN,IP22
+England,Mid Suffolk 001C,IP221TH,IP22
+England,South Norfolk 015B,IP224LT,IP22
+England,Mid Suffolk 002D,IP221HN,IP22
+England,South Norfolk 014A,IP222DR,IP22
+England,South Norfolk 014B,IP225UD,IP22
+England,South Norfolk 015D,IP224WN,IP22
+England,South Norfolk 015G,IP224WW,IP22
+England,South Norfolk 014A,IP222DU,IP22
+England,South Norfolk 014A,IP222DG,IP22
+England,South Norfolk 015H,IP224YB,IP22
+England,Mid Suffolk 002D,IP221HW,IP22
+England,Mid Suffolk 002E,IP221TB,IP22
+England,South Norfolk 014B,IP225UY,IP22
+England,South Norfolk 014B,IP225UF,IP22
+England,Mid Suffolk 002D,IP221HU,IP22
+England,Breckland 014D,IP222JT,IP22
+England,South Norfolk 015B,IP224LR,IP22
+England,South Norfolk 015A,IP224NN,IP22
+England,South Norfolk 015G,IP224ZD,IP22
+England,South Norfolk 015D,IP224AE,IP22
+England,Breckland 014C,IP222SU,IP22
+England,South Norfolk 015A,IP221ZQ,IP22
+England,South Norfolk 015G,IP224ER,IP22
+England,South Norfolk 015B,IP224DT,IP22
+England,Mid Suffolk 002B,IP221PZ,IP22
+England,South Norfolk 015D,IP224AQ,IP22
+England,St Edmundsbury 001B,IP221JN,IP22
+England,South Norfolk 014B,IP224XX,IP22
+England,Mid Suffolk 002D,IP221EL,IP22
+England,Mid Suffolk 002D,IP221HT,IP22
+England,Breckland 014D,IP222NL,IP22
+England,South Norfolk 015E,IP225XP,IP22
+England,South Norfolk 015H,IP224RD,IP22
+England,South Norfolk 014B,IP225TG,IP22
+England,South Norfolk 015G,IP224HG,IP22
+England,South Norfolk 015H,IP224JQ,IP22
+England,South Norfolk 015E,IP225RQ,IP22
+England,South Norfolk 015G,IP224PD,IP22
+England,South Norfolk 014A,IP222DW,IP22
+England,South Norfolk 015F,IP224GJ,IP22
+England,St Edmundsbury 001C,IP222RF,IP22
+England,Mid Suffolk 002D,IP221DB,IP22
+England,Mid Suffolk 001C,IP221BG,IP22
+England,Mid Suffolk 002E,IP221ES,IP22
+England,Mid Suffolk 002D,IP221LE,IP22
+England,South Norfolk 014B,IP225TT,IP22
+England,South Norfolk 015E,IP225RG,IP22
+England,South Norfolk 015A,IP224PA,IP22
+England,St Edmundsbury 001C,IP222TG,IP22
+England,Mid Suffolk 002E,IP221DY,IP22
+England,South Norfolk 015E,IP225RB,IP22
+England,Mid Suffolk 001C,IP221AU,IP22
+England,St Edmundsbury 001C,IP222PD,IP22
+England,South Norfolk 015A,IP229AW,IP22
+England,South Norfolk 015G,IP224YQ,IP22
+England,St Edmundsbury 001B,IP221LD,IP22
+England,Mid Suffolk 002E,IP221LW,IP22
+England,South Norfolk 014A,IP222EQ,IP22
+England,Mid Suffolk 002E,IP221SA,IP22
+England,Breckland 014D,IP222HN,IP22
+England,Mid Suffolk 002D,IP221HA,IP22
+England,South Norfolk 015A,IP229AY,IP22
+England,South Norfolk 015A,IP224QQ,IP22
+England,South Norfolk 015D,IP224YR,IP22
+England,Mid Suffolk 002D,IP221EG,IP22
+England,Breckland 014D,IP222LA,IP22
+England,South Norfolk 015E,IP225RZ,IP22
+England,South Norfolk 014B,IP225TQ,IP22
+England,Breckland 014D,IP222JD,IP22
+England,Mid Suffolk 001C,IP221SW,IP22
+England,South Norfolk 015A,IP229BJ,IP22
+England,South Norfolk 014B,IP225UZ,IP22
+England,Breckland 014C,IP222RN,IP22
+England,Breckland 014D,IP222JB,IP22
+England,St Edmundsbury 001B,IP221JH,IP22
+England,South Norfolk 015B,IP224EJ,IP22
+England,Mid Suffolk 002B,IP221QL,IP22
+England,Mid Suffolk 002E,IP221EX,IP22
+England,Mid Suffolk 002E,IP221EH,IP22
+England,South Norfolk 015D,IP224NA,IP22
+England,South Norfolk 015G,IP224GY,IP22
+England,Mid Suffolk 002E,IP221HJ,IP22
+England,Breckland 014C,IP222SY,IP22
+England,St Edmundsbury 001B,IP221JG,IP22
+England,South Norfolk 015D,IP224AP,IP22
+England,South Norfolk 015G,IP224XW,IP22
+England,South Norfolk 015A,IP225SR,IP22
+England,St Edmundsbury 001C,IP222NU,IP22
+England,South Norfolk 014A,IP222DP,IP22
+England,South Norfolk 014B,IP222EP,IP22
+England,Breckland 014D,IP222NB,IP22
+England,Breckland 014C,IP222SJ,IP22
+England,South Norfolk 014A,IP222AB,IP22
+England,Mid Suffolk 002D,IP221RY,IP22
+England,Mid Suffolk 002D,IP221DA,IP22
+England,Mid Suffolk 002F,IP221FW,IP22
+England,Breckland 014C,IP222RL,IP22
+England,South Norfolk 015H,IP224YF,IP22
+England,South Norfolk 014A,IP222AF,IP22
+England,South Norfolk 015F,IP225SW,IP22
+England,South Norfolk 015G,IP225SS,IP22
+England,South Norfolk 014B,IP225TX,IP22
+England,St Edmundsbury 001C,IP222PA,IP22
+England,South Norfolk 015D,IP224QA,IP22
+England,South Norfolk 015G,IP224HX,IP22
+England,Mid Suffolk 002F,IP221NL,IP22
+England,Mid Suffolk 001C,IP221WH,IP22
+England,South Norfolk 015F,IP224EQ,IP22
+England,South Norfolk 014B,IP222EB,IP22
+England,South Norfolk 014B,IP225TB,IP22
+England,South Norfolk 014B,IP225UL,IP22
+England,Breckland 014D,IP222JW,IP22
+England,St Edmundsbury 001B,IP222PZ,IP22
+England,South Norfolk 014B,IP225XA,IP22
+England,South Norfolk 015E,IP225RF,IP22
+England,South Norfolk 015D,IP224LQ,IP22
+England,St Edmundsbury 001C,IP222RB,IP22
+England,St Edmundsbury 001B,IP222QA,IP22
+England,South Norfolk 015F,IP225SP,IP22
+England,South Norfolk 015E,IP225FY,IP22
+England,South Norfolk 015H,IP224FY,IP22
+England,Mid Suffolk 002D,IP221RP,IP22
+England,South Norfolk 015A,IP229BL,IP22
+England,South Norfolk 015B,IP224YN,IP22
+England,Breckland 014D,IP222JJ,IP22
+England,Mid Suffolk 002B,IP221PY,IP22
+England,Mid Suffolk 002E,IP221EN,IP22
+England,Mid Suffolk 002D,IP221PD,IP22
+England,South Norfolk 015B,IP224DP,IP22
+England,South Norfolk 015G,IP224JE,IP22
+England,Mid Suffolk 002F,IP221NY,IP22
+England,St Edmundsbury 001B,IP222PT,IP22
+England,Mid Suffolk 001C,IP221TQ,IP22
+England,Breckland 014D,IP222JP,IP22
+England,St Edmundsbury 001C,IP222QU,IP22
+England,South Norfolk 014A,IP222FF,IP22
+England,St Edmundsbury 001C,IP222PG,IP22
+England,Mid Suffolk 001C,IP221AZ,IP22
+England,Breckland 014D,IP222NN,IP22
+England,South Norfolk 014A,IP222DH,IP22
+England,South Norfolk 015D,IP224AS,IP22
+England,South Norfolk 015A,IP224JT,IP22
+England,Mid Suffolk 002E,IP221EA,IP22
+England,Breckland 014D,IP222LH,IP22
+England,South Norfolk 015D,IP224BW,IP22
+England,South Norfolk 015F,IP225BA,IP22
+England,Mid Suffolk 002B,IP221PT,IP22
+England,South Norfolk 014B,IP224XY,IP22
+England,Mid Suffolk 002E,IP221RJ,IP22
+England,Mid Suffolk 002E,IP221DS,IP22
+England,South Norfolk 015E,IP225XL,IP22
+England,South Norfolk 015E,IP225SE,IP22
+England,South Norfolk 014B,IP222ER,IP22
+England,St Edmundsbury 001B,IP221JQ,IP22
+England,Breckland 014C,IP222SG,IP22
+England,Mid Suffolk 002D,IP221BZ,IP22
+England,South Norfolk 014A,IP222BG,IP22
+England,Breckland 014C,IP222TP,IP22
+England,Mid Suffolk 002B,IP221RD,IP22
+England,St Edmundsbury 001C,IP222PE,IP22
+England,South Norfolk 014B,IP225TS,IP22
+England,Breckland 014D,IP222JL,IP22
+England,South Norfolk 015A,IP224NU,IP22
+England,South Norfolk 015E,IP225SJ,IP22
+England,South Norfolk 015A,IP224AX,IP22
+England,Mid Suffolk 001C,IP221AW,IP22
+England,Breckland 014D,IP222FE,IP22
+England,Mid Suffolk 002B,IP221SJ,IP22
+England,Mid Suffolk 002F,IP221NQ,IP22
+England,South Norfolk 014A,IP222AS,IP22
+England,Mid Suffolk 002B,IP221QB,IP22
+England,South Norfolk 015E,IP225ZF,IP22
+England,South Norfolk 015D,IP224WP,IP22
+England,South Norfolk 014B,IP225TJ,IP22
+England,South Norfolk 015A,IP229BT,IP22
+England,Breckland 014C,IP222RR,IP22
+England,South Norfolk 015B,IP224YW,IP22
+England,South Norfolk 015F,IP225XT,IP22
+England,Mid Suffolk 001C,IP221AA,IP22
+England,Mid Suffolk 002D,IP221LY,IP22
+England,Mid Suffolk 002B,IP221QH,IP22
+England,South Norfolk 015F,IP225QU,IP22
+England,South Norfolk 015A,IP221WR,IP22
+England,South Norfolk 014B,IP225UJ,IP22
+England,Breckland 014C,IP222TA,IP22
+England,South Norfolk 014B,IP225TR,IP22
+England,Mid Suffolk 002E,IP221EU,IP22
+England,South Norfolk 014B,IP225TH,IP22
+England,Mid Suffolk 002F,IP221NW,IP22
+England,South Norfolk 015D,IP224YX,IP22
+England,South Norfolk 014A,IP222AT,IP22
+England,Breckland 014C,IP222TD,IP22
+England,South Norfolk 015B,IP224YJ,IP22
+England,Mid Suffolk 002F,IP221PA,IP22
+England,St Edmundsbury 001C,IP222QX,IP22
+England,St Edmundsbury 001B,IP222BX,IP22
+England,Mid Suffolk 002D,IP221DF,IP22
+England,South Norfolk 015D,IP224DG,IP22
+England,South Norfolk 015A,IP224NP,IP22
+England,Mid Suffolk 002F,IP221NS,IP22
+England,Mid Suffolk 002F,IP221NU,IP22
+England,South Norfolk 014B,IP224XU,IP22
+England,South Norfolk 015G,IP224PQ,IP22
+England,Mid Suffolk 002D,IP221HB,IP22
+England,South Norfolk 015D,IP224BN,IP22
+England,Breckland 014D,IP222NJ,IP22
+England,South Norfolk 014B,IP225UN,IP22
+England,Mid Suffolk 002D,IP221RQ,IP22
+England,Breckland 014C,IP222SP,IP22
+England,South Norfolk 014A,IP222HB,IP22
+England,Mid Suffolk 002E,IP221DL,IP22
+England,South Norfolk 015E,IP225SQ,IP22
+England,South Norfolk 014B,IP225UH,IP22
+England,South Norfolk 015F,IP224QZ,IP22
+England,St Edmundsbury 001B,IP222PN,IP22
+England,South Norfolk 014A,IP222DF,IP22
+England,South Norfolk 014A,IP222AJ,IP22
+England,South Norfolk 015E,IP225SB,IP22
+England,Mid Suffolk 002E,IP221LH,IP22
+England,South Norfolk 015G,IP224YE,IP22
+England,South Norfolk 014B,IP222EE,IP22
+England,Mid Suffolk 002E,IP221ER,IP22
+England,Mid Suffolk 001C,IP221AS,IP22
+England,South Norfolk 015B,IP224SY,IP22
+England,South Norfolk 015A,IP224QH,IP22
+England,South Norfolk 014A,IP222DB,IP22
+England,Breckland 014D,IP222JG,IP22
+England,Mid Suffolk 002D,IP221ED,IP22
+England,Breckland 014D,IP222LX,IP22
+England,South Norfolk 015A,IP224PB,IP22
+England,South Norfolk 015B,IP224EA,IP22
+England,South Norfolk 015E,IP225SN,IP22
+England,Mid Suffolk 001C,IP221AH,IP22
+England,Mid Suffolk 002B,IP221QD,IP22
+England,South Norfolk 015H,IP224JB,IP22
+England,Mid Suffolk 002D,IP221HD,IP22
+England,Mid Suffolk 002F,IP221NR,IP22
+England,South Norfolk 014B,IP222EH,IP22
+England,South Norfolk 015G,IP224XZ,IP22
+England,South Norfolk 014B,IP225UP,IP22
+England,South Norfolk 014B,IP225TL,IP22
+England,South Norfolk 014B,IP222EN,IP22
+England,South Norfolk 015D,IP224NQ,IP22
+England,South Norfolk 015B,IP224EN,IP22
+England,Mid Suffolk 002D,IP221BH,IP22
+England,South Norfolk 014B,IP225UW,IP22
+England,South Norfolk 014B,IP222ET,IP22
+England,South Norfolk 015B,IP224DW,IP22
+England,South Norfolk 015B,IP224YL,IP22
+England,Mid Suffolk 002E,IP221EB,IP22
+England,South Norfolk 015D,IP224LB,IP22
+England,South Norfolk 015A,IP229BR,IP22
+England,South Norfolk 014B,IP222EY,IP22
+England,Mid Suffolk 002D,IP221DD,IP22
+England,South Norfolk 015G,IP224RG,IP22
+England,South Norfolk 015D,IP224EZ,IP22
+England,South Norfolk 015B,IP224LZ,IP22
+England,St Edmundsbury 001B,IP221JL,IP22
+England,Breckland 014D,IP222LN,IP22
+England,South Norfolk 014B,IP225TD,IP22
+England,Breckland 014D,IP222HP,IP22
+England,South Norfolk 015G,IP224HU,IP22
+England,South Norfolk 014A,IP222AA,IP22
+England,South Norfolk 015B,IP224DL,IP22
+England,South Norfolk 015A,IP224DH,IP22
+England,South Norfolk 015D,IP224BD,IP22
+England,Breckland 014C,IP222RY,IP22
+England,Breckland 014C,IP222TB,IP22
+England,South Norfolk 015H,IP224JH,IP22
+England,Mid Suffolk 002D,IP221RH,IP22
+England,Mid Suffolk 002B,IP221ST,IP22
+England,South Norfolk 014A,IP222AN,IP22
+England,Breckland 014D,IP222LR,IP22
+England,South Norfolk 015G,IP224HW,IP22
+England,South Norfolk 014B,IP222ED,IP22
+England,Mid Suffolk 002E,IP221DG,IP22
+England,South Norfolk 014A,IP222EG,IP22
+England,South Norfolk 015D,IP224BG,IP22
+England,South Norfolk 014A,IP222BN,IP22
+England,South Norfolk 014A,IP222HG,IP22
+England,South Norfolk 015A,IP225WY,IP22
+England,South Norfolk 015D,IP224AZ,IP22
+England,Mid Suffolk 002D,IP221RX,IP22
+England,South Norfolk 014B,IP222EL,IP22
+England,Mid Suffolk 002F,IP221NG,IP22
+England,Mid Suffolk 002D,IP221BX,IP22
+England,St Edmundsbury 001C,IP222RD,IP22
+England,Mid Suffolk 002E,IP221BS,IP22
+England,Mid Suffolk 002E,IP221LP,IP22
+England,Mid Suffolk 002F,IP221LF,IP22
+England,St Edmundsbury 001B,IP222PY,IP22
+England,South Norfolk 014B,IP225UX,IP22
+England,South Norfolk 015B,IP224EL,IP22
+England,South Norfolk 015E,IP225RL,IP22
+England,South Norfolk 015D,IP224RH,IP22
+England,South Norfolk 015D,IP224WZ,IP22
+England,South Norfolk 015G,IP224UG,IP22
+England,St Edmundsbury 001B,IP222PU,IP22
+England,Breckland 014C,IP222SD,IP22
+England,St Edmundsbury 001C,IP222QY,IP22
+England,Mid Suffolk 002B,IP221SS,IP22
+England,St Edmundsbury 001C,IP222QR,IP22
+England,Mid Suffolk 002D,IP221RT,IP22
+England,Breckland 014D,IP222HX,IP22
+England,South Norfolk 014B,IP225TW,IP22
+England,South Norfolk 014B,IP222EA,IP22
+England,South Norfolk 015A,IP229AA,IP22
+England,St Edmundsbury 001B,IP221JY,IP22
+England,Mid Suffolk 002E,IP221BU,IP22
+England,Mid Suffolk 002D,IP221HY,IP22
+England,Mid Suffolk 001C,IP221AQ,IP22
+England,South Norfolk 015A,IP222LQ,IP22
+England,St Edmundsbury 001C,IP222PH,IP22
+England,Breckland 014C,IP222SH,IP22
+England,South Norfolk 015D,IP224BP,IP22
+England,South Norfolk 015G,IP224PG,IP22
+England,South Norfolk 014B,IP225UB,IP22
+England,Mid Suffolk 002D,IP221BN,IP22
+England,South Norfolk 015D,IP224BX,IP22
+England,South Norfolk 015B,IP224NE,IP22
+England,South Norfolk 015G,IP224UD,IP22
+England,Mid Suffolk 001C,IP221AB,IP22
+England,South Norfolk 015D,IP224LE,IP22
+England,St Edmundsbury 001B,IP222PP,IP22
+England,Breckland 014D,IP222NQ,IP22
+England,Mid Suffolk 002D,IP221DN,IP22
+England,South Norfolk 015E,IP225RU,IP22
+England,South Norfolk 015D,IP224JJ,IP22
+England,South Norfolk 015F,IP224EG,IP22
+England,South Norfolk 015D,IP224NJ,IP22
+England,Mid Suffolk 001C,IP221AX,IP22
+England,Mid Suffolk 002D,IP221JA,IP22
+England,Breckland 014D,IP222NG,IP22
+England,South Norfolk 015B,IP224LY,IP22
+England,South Norfolk 015G,IP224JS,IP22
+England,Mid Suffolk 002E,IP221LN,IP22
+England,St Edmundsbury 001B,IP221JP,IP22
+England,South Norfolk 015E,IP225SD,IP22
+England,South Norfolk 015G,IP224HS,IP22
+England,Breckland 014D,IP222NP,IP22
+England,South Norfolk 015H,IP224LA,IP22
+England,South Norfolk 015F,IP225XJ,IP22
+England,St Edmundsbury 001B,IP222PJ,IP22
+England,South Norfolk 015E,IP225RD,IP22
+England,South Norfolk 014B,IP225UA,IP22
+England,Breckland 014C,IP222RH,IP22
+England,St Edmundsbury 001C,IP222QT,IP22
+England,Mid Suffolk 001C,IP221AJ,IP22
+England,Breckland 014D,IP222JE,IP22
+England,St Edmundsbury 001C,IP222PB,IP22
+England,South Norfolk 015F,IP224BH,IP22
+England,Mid Suffolk 002B,IP221QJ,IP22
+England,Mid Suffolk 002D,IP221EW,IP22
+England,South Norfolk 015B,IP224QU,IP22
+England,St Edmundsbury 001C,IP222NZ,IP22
+England,South Norfolk 015G,IP224HY,IP22
+England,South Norfolk 014A,IP222BQ,IP22
+England,South Norfolk 015D,IP224XF,IP22
+England,Mid Suffolk 001C,IP221AE,IP22
+England,South Norfolk 015D,IP224HA,IP22
+England,Mid Suffolk 002E,IP221DP,IP22
+England,Mid Suffolk 002D,IP221HQ,IP22
+England,South Norfolk 014B,IP225UE,IP22
+England,South Norfolk 015G,IP224ZA,IP22
+England,South Norfolk 015G,IP224EW,IP22
+England,Mid Suffolk 002D,IP221NE,IP22
+England,South Norfolk 015F,IP224FL,IP22
+England,Breckland 014D,IP222JF,IP22
+England,Mid Suffolk 001C,IP221AN,IP22
+England,St Edmundsbury 001C,IP222NT,IP22
+England,South Norfolk 015B,IP224EP,IP22
+England,Mid Suffolk 002E,IP221AY,IP22
+England,St Edmundsbury 001B,IP221JE,IP22
+England,South Norfolk 015A,IP224WG,IP22
+England,Mid Suffolk 002D,IP221ND,IP22
+England,South Norfolk 014A,IP222AG,IP22
+England,Mid Suffolk 002E,IP221SD,IP22
+England,South Norfolk 014A,IP222FB,IP22
+England,Mid Suffolk 002E,IP221LT,IP22
+England,Breckland 014D,IP222JA,IP22
+England,St Edmundsbury 001B,IP221JR,IP22
+England,Mid Suffolk 001C,IP221PF,IP22
+England,St Edmundsbury 001C,IP222QL,IP22
+England,South Norfolk 014B,IP222HA,IP22
+England,South Norfolk 015H,IP224PZ,IP22
+England,Mid Suffolk 002B,IP221PW,IP22
+England,Mid Suffolk 002D,IP221RW,IP22
+England,Mid Suffolk 002D,IP221HP,IP22
+England,Mid Suffolk 002D,IP221HE,IP22
+England,Mid Suffolk 002E,IP221LL,IP22
+England,Breckland 014C,IP222QJ,IP22
+England,Breckland 014C,IP222ST,IP22
+England,South Norfolk 015E,IP221SU,IP22
+England,Breckland 014D,IP222NH,IP22
+England,South Norfolk 015D,IP224BY,IP22
+England,Mid Suffolk 002B,IP221PX,IP22
+England,St Edmundsbury 001B,IP222QF,IP22
+England,South Norfolk 014B,IP225TN,IP22
+England,Breckland 014C,IP222SR,IP22
+England,Mid Suffolk 001C,IP221SN,IP22
+England,South Norfolk 015G,IP224WY,IP22
+England,South Norfolk 015E,IP225RW,IP22
+England,South Norfolk 015G,IP224HN,IP22
+England,South Norfolk 015E,IP225RE,IP22
+England,South Norfolk 014A,IP222AX,IP22
+England,South Norfolk 015G,IP224JR,IP22
+England,South Norfolk 014A,IP222AR,IP22
+England,St Edmundsbury 001B,IP222PW,IP22
+England,St Edmundsbury 001C,IP222NX,IP22
+England,Mid Suffolk 001C,IP221AL,IP22
+England,South Norfolk 014B,IP225XE,IP22
+England,South Norfolk 014B,IP222ES,IP22
+England,South Norfolk 014B,IP225TF,IP22
+England,Mid Suffolk 002E,IP221LQ,IP22
+England,St Edmundsbury 001B,IP221JJ,IP22
+England,Mid Suffolk 002D,IP221HS,IP22
+England,Breckland 014D,IP222JN,IP22
+England,South Norfolk 015D,IP224RE,IP22
+England,South Norfolk 015D,IP224AL,IP22
+England,South Norfolk 015E,IP225SA,IP22
+England,Mid Suffolk 002B,IP221SH,IP22
+England,South Norfolk 015A,IP229BQ,IP22
+England,Mid Suffolk 002F,IP221NZ,IP22
+England,Mid Suffolk 002D,IP221HH,IP22
+England,Mid Suffolk 002D,IP221RS,IP22
+England,Breckland 014D,IP222HZ,IP22
+England,South Norfolk 015A,IP224PU,IP22
+England,South Norfolk 015D,IP224JY,IP22
+England,South Norfolk 014A,IP222LE,IP22
+England,South Norfolk 015G,IP224HD,IP22
+England,South Norfolk 015H,IP224RL,IP22
+England,South Norfolk 015E,IP225RX,IP22
+England,St Edmundsbury 001C,IP222PQ,IP22
+England,St Edmundsbury 001B,IP221JS,IP22
+England,Mid Suffolk 002D,IP221DT,IP22
+England,South Norfolk 015F,IP224EE,IP22
+England,South Norfolk 015A,IP224NW,IP22
+England,South Norfolk 015D,IP224EX,IP22
+England,South Norfolk 015G,IP224NG,IP22
+England,South Norfolk 015G,IP224GP,IP22
+England,South Norfolk 014A,IP222BP,IP22
+England,St Edmundsbury 001B,IP221JW,IP22
+England,South Norfolk 015D,IP224LN,IP22
+England,South Norfolk 014B,IP222EX,IP22
+England,South Norfolk 014B,IP222EU,IP22
+England,Breckland 014C,IP222QW,IP22
+England,St Edmundsbury 001C,IP222TQ,IP22
+England,Mid Suffolk 002E,IP221DZ,IP22
+England,South Norfolk 015D,IP224AF,IP22
+England,South Norfolk 015F,IP225RY,IP22
+England,South Norfolk 015H,IP224YG,IP22
+England,South Norfolk 014A,IP222LF,IP22
+England,Mid Suffolk 002F,IP221EP,IP22
+England,Mid Suffolk 002E,IP221DH,IP22
+England,Breckland 014C,IP222SE,IP22
+England,South Norfolk 015A,IP224QD,IP22
+England,South Norfolk 015B,IP224LX,IP22
+England,South Norfolk 015B,IP224NF,IP22
+England,South Norfolk 015G,IP224HQ,IP22
+England,Mid Suffolk 002D,IP221RZ,IP22
+England,Breckland 014D,IP222JQ,IP22
+England,St Edmundsbury 001C,IP222RA,IP22
+England,Mid Suffolk 002F,IP221NF,IP22
+England,South Norfolk 015D,IP224AJ,IP22
+England,South Norfolk 015D,IP224WT,IP22
+England,South Norfolk 014B,IP225XB,IP22
+England,South Norfolk 015F,IP224DY,IP22
+England,South Norfolk 015D,IP224AN,IP22
+England,South Norfolk 014A,IP222DE,IP22
+England,Mid Suffolk 002B,IP221QN,IP22
+England,South Norfolk 015A,IP224QB,IP22
+England,Mid Suffolk 002B,IP221PQ,IP22
+England,Breckland 014D,IP222LU,IP22
+England,Mid Suffolk 002D,IP221DJ,IP22
+England,Mid Suffolk 001C,IP221AT,IP22
+England,Mid Suffolk 002B,IP221SP,IP22
+England,South Norfolk 014B,IP225UQ,IP22
+England,South Norfolk 015B,IP224EH,IP22
+England,South Norfolk 015F,IP225BD,IP22
+England,St Edmundsbury 001B,IP222QD,IP22
+England,Mid Suffolk 002B,IP221QQ,IP22
+England,South Norfolk 014B,IP225UG,IP22
+England,Mid Suffolk 002F,IP221NP,IP22
+England,St Edmundsbury 001C,IP222RP,IP22
+England,Mid Suffolk 002F,IP221NT,IP22
+England,Mid Suffolk 001C,IP221BE,IP22
+England,South Norfolk 015A,IP229BB,IP22
+England,Mid Suffolk 002F,IP221NX,IP22
+England,Mid Suffolk 002B,IP221QG,IP22
+England,South Norfolk 015B,IP224LS,IP22
+England,Mid Suffolk 002E,IP221EQ,IP22
+England,Breckland 014D,IP222LP,IP22
+England,South Norfolk 014A,IP222BD,IP22
+England,Mid Suffolk 002D,IP221RN,IP22
+England,South Norfolk 014A,IP222FD,IP22
+England,South Norfolk 014B,IP222DY,IP22
+England,South Norfolk 015G,IP224YS,IP22
+England,South Norfolk 015E,IP225RR,IP22
+England,South Norfolk 015F,IP225BJ,IP22
+England,South Norfolk 015B,IP224DX,IP22
+England,South Norfolk 015A,IP224DB,IP22
+England,Breckland 014D,IP222NF,IP22
+England,South Norfolk 015A,IP224DE,IP22
+England,Mid Suffolk 002B,IP221PS,IP22
+England,South Norfolk 015D,IP224BS,IP22
+England,South Norfolk 015D,IP224AG,IP22
+England,Breckland 014D,IP222HW,IP22
+England,South Norfolk 015D,IP224BE,IP22
+England,South Norfolk 015D,IP224GE,IP22
+England,Mid Suffolk 002E,IP221BT,IP22
+England,Mid Suffolk 002E,IP221EZ,IP22
+England,South Norfolk 015D,IP224QW,IP22
+England,Breckland 014D,IP222JR,IP22
+England,South Norfolk 014B,IP222EW,IP22
+England,South Norfolk 015A,IP224PN,IP22
+England,South Norfolk 015A,IP229BH,IP22
+England,Mid Suffolk 002D,IP221DU,IP22
+England,South Norfolk 015G,IP224ZB,IP22
+England,South Norfolk 014B,IP225XD,IP22
+England,South Norfolk 015A,IP224DD,IP22
+England,Mid Suffolk 002D,IP221LZ,IP22
+England,South Norfolk 015F,IP224FJ,IP22
+England,Mid Suffolk 002B,IP221SQ,IP22
+England,Mid Suffolk 002D,IP221RU,IP22
+England,Mid Suffolk 002B,IP221SY,IP22
+England,South Norfolk 014A,IP222BA,IP22
+England,St Edmundsbury 001C,IP222TH,IP22
+England,Mid Suffolk 002B,IP221RF,IP22
+England,South Norfolk 015B,IP224LU,IP22
+England,South Norfolk 015D,IP224BQ,IP22
+England,Breckland 014D,IP222LL,IP22
+England,Breckland 014C,IP222TE,IP22
+England,South Norfolk 015D,IP224WX,IP22
+England,South Norfolk 015F,IP225BE,IP22
+England,South Norfolk 015F,IP224EB,IP22
+England,South Norfolk 015A,IP224QG,IP22
+England,South Norfolk 015E,IP225SH,IP22
+England,Mid Suffolk 001C,IP221TG,IP22
+England,Mid Suffolk 002E,IP221ET,IP22
+England,Mid Suffolk 002B,IP221QF,IP22
+England,South Norfolk 015H,IP224NR,IP22
+England,St Edmundsbury 001B,IP221NN,IP22
+England,South Norfolk 015B,IP224QP,IP22
+England,Breckland 014D,IP222HS,IP22
+England,Mid Suffolk 002B,IP221SR,IP22
+England,South Norfolk 014B,IP222EJ,IP22
+England,South Norfolk 015A,IP225US,IP22
+England,South Norfolk 015E,IP225RH,IP22
+England,South Norfolk 015A,IP225SU,IP22
+England,Mid Suffolk 001C,IP221BB,IP22
+England,South Norfolk 015G,IP224UA,IP22
+England,South Norfolk 015F,IP224DZ,IP22
+England,Mid Suffolk 002B,IP221QR,IP22
+England,St Edmundsbury 001B,IP222PS,IP22
+England,Breckland 014D,IP222HR,IP22
+England,Breckland 014C,IP222SW,IP22
+England,St Edmundsbury 001B,IP221JX,IP22
+England,South Norfolk 015G,IP224YU,IP22
+England,South Norfolk 015D,IP224LF,IP22
+England,Breckland 014D,IP222JZ,IP22
+England,Mid Suffolk 002E,IP221DX,IP22
+England,St Edmundsbury 001B,IP222PR,IP22
+England,South Norfolk 014A,IP222BW,IP22
+England,South Norfolk 015D,IP224EY,IP22
+England,South Norfolk 015A,IP224DQ,IP22
+England,South Norfolk 015H,IP224AR,IP22
+England,Breckland 014C,IP222SQ,IP22
+England,South Norfolk 014B,IP225PF,IP22
+England,Breckland 014D,IP222LW,IP22
+England,South Norfolk 014B,IP225RP,IP22
+England,South Norfolk 015F,IP224QL,IP22
+England,South Norfolk 014B,IP225TP,IP22
+England,South Norfolk 015F,IP225QX,IP22
+England,St Edmundsbury 001B,IP222QB,IP22
+England,South Norfolk 014A,IP222AH,IP22
+England,South Norfolk 014B,IP222EZ,IP22
+England,Mid Suffolk 002B,IP221PP,IP22
+England,South Norfolk 014A,IP222DD,IP22
+England,Breckland 014C,IP222SL,IP22
+England,South Norfolk 015B,IP224LW,IP22
+England,South Norfolk 015A,IP221WT,IP22
+England,Mid Suffolk 001C,IP221FJ,IP22
+England,Mid Suffolk 002D,IP221RR,IP22
+England,St Edmundsbury 001B,IP222PX,IP22
+England,St Edmundsbury 001B,IP221JT,IP22
+England,Mid Suffolk 002D,IP221RL,IP22
+England,Mid Suffolk 002D,IP221EJ,IP22
+England,South Norfolk 014A,IP222DL,IP22
+England,Breckland 014C,IP222QN,IP22
+England,South Norfolk 015D,IP224HB,IP22
+England,South Norfolk 015G,IP224JW,IP22
+England,Mid Suffolk 002D,IP221HZ,IP22
+England,Breckland 014C,IP222SS,IP22
+England,Mid Suffolk 001C,IP221AG,IP22
+England,Mid Suffolk 002E,IP221LU,IP22
+England,South Norfolk 015F,IP225SF,IP22
+England,South Norfolk 015H,IP224RJ,IP22
+England,South Norfolk 015G,IP224WR,IP22
+England,South Norfolk 014A,IP225XN,IP22
+England,South Norfolk 014A,IP222BH,IP22
+England,Mid Suffolk 002D,IP221HF,IP22
+England,South Norfolk 015A,IP224NL,IP22
+England,Breckland 014C,IP222RJ,IP22
+England,South Norfolk 014A,IP222BL,IP22
+England,South Norfolk 014A,IP222DJ,IP22
+England,South Norfolk 015A,IP224PW,IP22
+England,South Norfolk 015F,IP224TL,IP22
+England,South Norfolk 015B,IP224DJ,IP22
+England,Mid Suffolk 002E,IP221DW,IP22
+England,South Norfolk 014A,IP225XW,IP22
+England,St Edmundsbury 001C,IP222TJ,IP22
+England,Breckland 014C,IP222TL,IP22
+England,Breckland 014D,IP222JY,IP22
+England,Mid Suffolk 002B,IP221LJ,IP22
+England,South Norfolk 015B,IP224NH,IP22
+England,South Norfolk 014A,IP222AZ,IP22
+England,St Edmundsbury 001C,IP222QH,IP22
+England,South Norfolk 015A,IP229AT,IP22
+England,Breckland 014D,IP222JH,IP22
+England,South Norfolk 015H,IP224PS,IP22
+England,Mid Suffolk 002E,IP221LS,IP22
+England,St Edmundsbury 001C,IP222QZ,IP22
+England,South Norfolk 015G,IP224HZ,IP22
+England,South Norfolk 015B,IP224YY,IP22
+England,Mid Suffolk 002E,IP221BP,IP22
+England,South Norfolk 015H,IP224PY,IP22
+England,Mid Suffolk 002B,IP221RE,IP22
+England,Mid Suffolk 002D,IP221NA,IP22
+England,St Edmundsbury 001C,IP222RE,IP22
+England,Breckland 014C,IP222SZ,IP22
+England,South Norfolk 015G,IP224GS,IP22
+England,South Norfolk 015D,IP224WJ,IP22
+England,Mid Suffolk 002F,IP221NH,IP22
+England,Breckland 014D,IP222LY,IP22
+England,South Norfolk 014B,IP225SZ,IP22
+England,South Norfolk 015A,IP229BA,IP22
+England,South Norfolk 015D,IP224PP,IP22
+England,Mid Suffolk 002B,IP221PN,IP22
+England,Mid Suffolk 002D,IP221HX,IP22
+England,South Norfolk 015H,IP224GQ,IP22
+England,South Norfolk 015A,IP224DR,IP22
+England,South Norfolk 015D,IP224JN,IP22
+England,South Norfolk 015F,IP224FH,IP22
+England,Mid Suffolk 001C,IP221BF,IP22
+England,Mid Suffolk 002B,IP221PU,IP22
+England,South Norfolk 015F,IP225BB,IP22
+England,South Norfolk 015B,IP224LP,IP22
+England,South Norfolk 015D,IP224XS,IP22
+England,South Norfolk 015A,IP229AZ,IP22
+England,South Norfolk 014A,IP222DN,IP22
+England,Mid Suffolk 002D,IP221DE,IP22
+England,St Edmundsbury 001B,IP221QU,IP22
+England,South Norfolk 015D,IP224XQ,IP22
+England,South Norfolk 015F,IP224BL,IP22
+England,Breckland 014C,IP222SN,IP22
+England,South Norfolk 015G,IP224YH,IP22
+England,South Norfolk 015G,IP224BF,IP22
+England,Breckland 014D,IP222NE,IP22
+England,Breckland 014D,IP222ND,IP22
+England,Mid Suffolk 002B,IP221PR,IP22
+England,Breckland 014D,IP222HQ,IP22
+England,South Norfolk 014B,IP225SX,IP22
+England,South Norfolk 015A,IP224AA,IP22
+England,South Norfolk 015H,IP224HL,IP22
+England,South Norfolk 015G,IP224GA,IP22
+England,Breckland 014C,IP222SF,IP22
+England,South Norfolk 014A,IP222AQ,IP22
+England,South Norfolk 015G,IP224UF,IP22
+England,South Norfolk 015F,IP224BZ,IP22
+England,South Norfolk 015G,IP224GG,IP22
+England,South Norfolk 015B,IP224DN,IP22
+England,South Norfolk 015A,IP229BP,IP22
+England,St Edmundsbury 001C,IP222PF,IP22
+England,South Norfolk 015G,IP224UB,IP22
+England,South Norfolk 014A,IP222AL,IP22
+England,South Norfolk 015G,IP224GL,IP22
+England,Breckland 014D,IP222HU,IP22
+England,Mid Suffolk 002F,IP221PJ,IP22
+England,Mid Suffolk 001C,IP221TD,IP22
+England,South Norfolk 015D,IP224JZ,IP22
+England,St Edmundsbury 001B,IP221JF,IP22
+England,St Edmundsbury 001B,IP221JZ,IP22
+England,South Norfolk 015D,IP224LL,IP22
+England,Mid Suffolk 002D,IP221BQ,IP22
+England,Mid Suffolk 001C,IP221AD,IP22
+England,Mid Suffolk 002F,IP221NJ,IP22
+England,South Norfolk 015E,IP225RJ,IP22
+England,South Norfolk 014B,IP225TE,IP22
+England,South Norfolk 014A,IP222AY,IP22
+England,Breckland 014C,IP222TW,IP22
+England,South Norfolk 014B,IP222EF,IP22
+England,Breckland 014D,IP222LJ,IP22
+England,South Norfolk 015G,IP224UE,IP22
+England,St Edmundsbury 001B,IP222HF,IP22
+England,South Norfolk 015D,IP224BT,IP22
+England,South Norfolk 015E,IP225RN,IP22
+England,South Norfolk 015G,IP224JL,IP22
+England,South Norfolk 014B,IP225UR,IP22
+England,South Norfolk 014B,IP225UU,IP22
+England,Breckland 014C,IP222RQ,IP22
+England,South Norfolk 015G,IP224PJ,IP22
+England,Mid Suffolk 002D,IP221HR,IP22
+England,Mid Suffolk 001C,IP221AR,IP22
+England,South Norfolk 015F,IP225QS,IP22
+England,Mid Suffolk 002D,IP221BY,IP22
+England,South Norfolk 015H,IP224JG,IP22
+England,Mid Suffolk 001C,IP221BA,IP22
+England,South Norfolk 014A,IP222BZ,IP22
+England,South Norfolk 015H,IP224HE,IP22
+England,Breckland 014D,IP222HT,IP22
+England,South Norfolk 015A,IP224PL,IP22
+England,South Norfolk 015A,IP224DF,IP22
+England,Mid Suffolk 001C,IP221SX,IP22
+England,South Norfolk 015D,IP224BU,IP22
+England,Mid Suffolk 002E,IP221LG,IP22
+England,South Norfolk 015G,IP224EU,IP22
+England,South Norfolk 014B,IP222BF,IP22
+England,Mid Suffolk 002B,IP221RA,IP22
+England,South Norfolk 015G,IP224PE,IP22
+England,Breckland 014C,IP222TN,IP22
+England,Breckland 014D,IP222LZ,IP22
+England,South Norfolk 015D,IP224AW,IP22
+England,Mid Suffolk 002D,IP221NB,IP22
+England,Mid Suffolk 002E,IP221BW,IP22
+England,St Edmundsbury 001B,IP221JU,IP22
+England,South Norfolk 015A,IP221WW,IP22
+England,Breckland 014D,IP222GA,IP22
+England,South Norfolk 015H,IP224JF,IP22
+England,South Norfolk 014B,IP225SY,IP22
+England,South Norfolk 015D,IP224NB,IP22
+England,South Norfolk 015H,IP224PX,IP22
+England,South Norfolk 015H,IP224RA,IP22
+England,South Norfolk 015G,IP224HR,IP22
+England,South Norfolk 014A,IP222DS,IP22
+England,Breckland 014D,IP222JX,IP22
+England,South Norfolk 015A,IP224PR,IP22
+England,South Norfolk 014A,IP222BB,IP22
+England,South Norfolk 015G,IP224GX,IP22
+England,Mid Suffolk 002B,IP221RG,IP22
+England,Mid Suffolk 002B,IP221QA,IP22
+England,South Norfolk 014A,IP222BJ,IP22
+England,Breckland 014D,IP222NA,IP22
+England,South Norfolk 014B,IP225TU,IP22
+England,South Norfolk 014A,IP222AE,IP22
+England,South Norfolk 015A,IP224QF,IP22
+England,South Norfolk 015A,IP229BN,IP22
+England,South Norfolk 015A,IP229BD,IP22
+England,Mid Suffolk 002D,IP221QX,IP22
+England,South Norfolk 015D,IP224NY,IP22

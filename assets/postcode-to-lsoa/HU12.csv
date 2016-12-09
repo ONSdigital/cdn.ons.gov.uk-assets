@@ -1,0 +1,884 @@
+Country_Name,Lower_Super_Output_Area_Name,pcd_comp,Split_by
+England,East Riding of Yorkshire 031E,HU129TL,HU12
+England,Kingston upon Hull 029E,HU12LS,HU12
+England,East Riding of Yorkshire 031A,HU129AF,HU12
+England,East Riding of Yorkshire 031E,HU129TZ,HU12
+England,East Riding of Yorkshire 031C,HU129RS,HU12
+England,East Riding of Yorkshire 033B,HU128GU,HU12
+England,East Riding of Yorkshire 033D,HU129LY,HU12
+England,East Riding of Yorkshire 033A,HU129EE,HU12
+England,Kingston upon Hull 029A,HU12RB,HU12
+England,East Riding of Yorkshire 033D,HU129UJ,HU12
+England,East Riding of Yorkshire 031B,HU120LP,HU12
+England,East Riding of Yorkshire 039F,HU120UP,HU12
+England,East Riding of Yorkshire 031C,HU120AG,HU12
+England,East Riding of Yorkshire 039E,HU120QG,HU12
+England,East Riding of Yorkshire 033D,HU129NF,HU12
+England,East Riding of Yorkshire 033E,HU129LT,HU12
+England,East Riding of Yorkshire 033B,HU128QS,HU12
+England,East Riding of Yorkshire 033D,HU129LJ,HU12
+England,Kingston upon Hull 029C,HU12BX,HU12
+England,East Riding of Yorkshire 033D,HU129FF,HU12
+England,East Riding of Yorkshire 033A,HU129JH,HU12
+England,East Riding of Yorkshire 029B,HU128EW,HU12
+England,East Riding of Yorkshire 033D,HU129JP,HU12
+England,East Riding of Yorkshire 039F,HU120UE,HU12
+England,East Riding of Yorkshire 039F,HU120UU,HU12
+England,Kingston upon Hull 029E,HU12NP,HU12
+England,East Riding of Yorkshire 033C,HU129JU,HU12
+England,East Riding of Yorkshire 031C,HU120QW,HU12
+England,East Riding of Yorkshire 029A,HU128LE,HU12
+England,East Riding of Yorkshire 033B,HU128PE,HU12
+England,East Riding of Yorkshire 039A,HU120NG,HU12
+England,East Riding of Yorkshire 031E,HU129TH,HU12
+England,Kingston upon Hull 029C,HU12RZ,HU12
+England,East Riding of Yorkshire 029B,HU128EL,HU12
+England,East Riding of Yorkshire 031B,HU120HU,HU12
+England,East Riding of Yorkshire 033D,HU129PE,HU12
+England,East Riding of Yorkshire 033A,HU129ES,HU12
+England,Kingston upon Hull 029E,HU12PS,HU12
+England,East Riding of Yorkshire 031C,HU120AN,HU12
+England,East Riding of Yorkshire 031C,HU129SN,HU12
+England,East Riding of Yorkshire 031E,HU129SZ,HU12
+England,East Riding of Yorkshire 033B,HU128ND,HU12
+England,East Riding of Yorkshire 031E,HU129RD,HU12
+England,East Riding of Yorkshire 033A,HU129EN,HU12
+England,East Riding of Yorkshire 029A,HU128UU,HU12
+England,East Riding of Yorkshire 031A,HU128SW,HU12
+England,East Riding of Yorkshire 031C,HU120AP,HU12
+England,East Riding of Yorkshire 031B,HU120LL,HU12
+England,East Riding of Yorkshire 033E,HU129GD,HU12
+England,East Riding of Yorkshire 029B,HU128HE,HU12
+England,East Riding of Yorkshire 031A,HU129BU,HU12
+England,East Riding of Yorkshire 039F,HU120UT,HU12
+England,East Riding of Yorkshire 031A,HU129DA,HU12
+England,East Riding of Yorkshire 039F,HU120RZ,HU12
+England,East Riding of Yorkshire 031C,HU120AE,HU12
+England,East Riding of Yorkshire 029E,HU128XG,HU12
+England,East Riding of Yorkshire 031E,HU129TQ,HU12
+England,Kingston upon Hull 029E,HU12PL,HU12
+England,East Riding of Yorkshire 029C,HU128FL,HU12
+England,East Riding of Yorkshire 029B,HU128JT,HU12
+England,East Riding of Yorkshire 029A,HU128XA,HU12
+England,East Riding of Yorkshire 029E,HU128SD,HU12
+England,East Riding of Yorkshire 031E,HU129TA,HU12
+England,East Riding of Yorkshire 031E,HU129TN,HU12
+England,East Riding of Yorkshire 031B,HU120DE,HU12
+England,East Riding of Yorkshire 033D,HU129PN,HU12
+England,East Riding of Yorkshire 033B,HU128GJ,HU12
+England,East Riding of Yorkshire 039E,HU120PS,HU12
+England,East Riding of Yorkshire 031D,HU120NR,HU12
+England,Kingston upon Hull 029E,HU12EZ,HU12
+England,East Riding of Yorkshire 031A,HU129BA,HU12
+England,East Riding of Yorkshire 031E,HU129SP,HU12
+England,East Riding of Yorkshire 031A,HU129HA,HU12
+England,Kingston upon Hull 026E,HU12AB,HU12
+England,East Riding of Yorkshire 039F,HU120UR,HU12
+England,East Riding of Yorkshire 029A,HU128LS,HU12
+England,East Riding of Yorkshire 031B,HU120HL,HU12
+England,East Riding of Yorkshire 033D,HU129UH,HU12
+England,Kingston upon Hull 029C,HU12SA,HU12
+England,East Riding of Yorkshire 031B,HU120HG,HU12
+England,East Riding of Yorkshire 031A,HU129AA,HU12
+England,Kingston upon Hull 029C,HU12PQ,HU12
+England,East Riding of Yorkshire 029A,HU128TD,HU12
+England,Kingston upon Hull 029E,HU12NB,HU12
+England,East Riding of Yorkshire 031E,HU129TW,HU12
+England,East Riding of Yorkshire 039E,HU120RE,HU12
+England,East Riding of Yorkshire 033A,HU129HS,HU12
+England,East Riding of Yorkshire 033B,HU128PA,HU12
+England,Kingston upon Hull 029E,HU12AJ,HU12
+England,East Riding of Yorkshire 029C,HU128XJ,HU12
+England,East Riding of Yorkshire 031E,HU129RA,HU12
+England,East Riding of Yorkshire 033A,HU129FB,HU12
+England,East Riding of Yorkshire 039F,HU120SA,HU12
+England,East Riding of Yorkshire 029E,HU128XF,HU12
+England,East Riding of Yorkshire 029D,HU128DP,HU12
+England,East Riding of Yorkshire 039E,HU120RD,HU12
+England,East Riding of Yorkshire 033B,HU128GP,HU12
+England,East Riding of Yorkshire 039E,HU120BA,HU12
+England,East Riding of Yorkshire 029A,HU128NW,HU12
+England,Kingston upon Hull 029E,HU12BH,HU12
+England,East Riding of Yorkshire 039A,HU120NY,HU12
+England,East Riding of Yorkshire 033B,HU128GQ,HU12
+England,East Riding of Yorkshire 039F,HU120TF,HU12
+England,East Riding of Yorkshire 029C,HU128RJ,HU12
+England,East Riding of Yorkshire 029E,HU128XE,HU12
+England,East Riding of Yorkshire 029C,HU128RN,HU12
+England,East Riding of Yorkshire 031B,HU120HE,HU12
+England,East Riding of Yorkshire 031C,HU120QT,HU12
+England,East Riding of Yorkshire 033C,HU128BG,HU12
+England,East Riding of Yorkshire 029D,HU128RF,HU12
+England,East Riding of Yorkshire 033E,HU129LD,HU12
+England,East Riding of Yorkshire 033C,HU128AP,HU12
+England,East Riding of Yorkshire 033D,HU129JS,HU12
+England,East Riding of Yorkshire 033B,HU128NL,HU12
+England,East Riding of Yorkshire 029C,HU128BT,HU12
+England,East Riding of Yorkshire 031C,HU129SH,HU12
+England,East Riding of Yorkshire 029B,HU128JP,HU12
+England,Kingston upon Hull 029E,HU12AA,HU12
+England,East Riding of Yorkshire 029A,HU128JX,HU12
+England,East Riding of Yorkshire 039E,HU120YU,HU12
+England,East Riding of Yorkshire 033C,HU128FH,HU12
+England,East Riding of Yorkshire 033A,HU129HW,HU12
+England,East Riding of Yorkshire 039F,HU120US,HU12
+England,East Riding of Yorkshire 029B,HU128NH,HU12
+England,Kingston upon Hull 029E,HU12NE,HU12
+England,East Riding of Yorkshire 029B,HU128JS,HU12
+England,Kingston upon Hull 029E,HU12LZ,HU12
+England,East Riding of Yorkshire 029C,HU128JQ,HU12
+England,East Riding of Yorkshire 033D,HU129LZ,HU12
+England,East Riding of Yorkshire 031E,HU129SW,HU12
+England,East Riding of Yorkshire 029A,HU128UT,HU12
+England,East Riding of Yorkshire 021A,HU129BJ,HU12
+England,East Riding of Yorkshire 033A,HU129EU,HU12
+England,East Riding of Yorkshire 033B,HU128HJ,HU12
+England,East Riding of Yorkshire 029C,HU128TG,HU12
+England,East Riding of Yorkshire 033E,HU129LX,HU12
+England,East Riding of Yorkshire 029E,HU128TB,HU12
+England,East Riding of Yorkshire 029E,HU128UP,HU12
+England,Kingston upon Hull 029C,HU12ES,HU12
+England,East Riding of Yorkshire 039F,HU120UZ,HU12
+England,East Riding of Yorkshire 033B,HU128PG,HU12
+England,East Riding of Yorkshire 033E,HU129QD,HU12
+England,East Riding of Yorkshire 033A,HU129ET,HU12
+England,East Riding of Yorkshire 031E,HU129RR,HU12
+England,East Riding of Yorkshire 033C,HU128QF,HU12
+England,East Riding of Yorkshire 031B,HU120BX,HU12
+England,East Riding of Yorkshire 031E,HU129RQ,HU12
+England,East Riding of Yorkshire 029D,HU128NG,HU12
+England,East Riding of Yorkshire 031E,HU129SA,HU12
+England,East Riding of Yorkshire 033A,HU129EJ,HU12
+England,East Riding of Yorkshire 033B,HU128LN,HU12
+England,East Riding of Yorkshire 033D,HU129NX,HU12
+England,East Riding of Yorkshire 033E,HU129NR,HU12
+England,Kingston upon Hull 029E,HU12JD,HU12
+England,East Riding of Yorkshire 033A,HU129JA,HU12
+England,East Riding of Yorkshire 031B,HU120JA,HU12
+England,East Riding of Yorkshire 039A,HU120NZ,HU12
+England,Kingston upon Hull 029C,HU12BE,HU12
+England,East Riding of Yorkshire 029B,HU128GH,HU12
+England,East Riding of Yorkshire 029E,HU128XH,HU12
+England,East Riding of Yorkshire 031E,HU129RE,HU12
+England,East Riding of Yorkshire 029C,HU128TH,HU12
+England,East Riding of Yorkshire 029A,HU128LA,HU12
+England,Kingston upon Hull 029C,HU12EH,HU12
+England,East Riding of Yorkshire 039F,HU120TP,HU12
+England,East Riding of Yorkshire 029E,HU128UB,HU12
+England,East Riding of Yorkshire 033B,HU128QB,HU12
+England,Kingston upon Hull 029E,HU12AS,HU12
+England,East Riding of Yorkshire 029C,HU128DB,HU12
+England,East Riding of Yorkshire 031E,HU129RL,HU12
+England,East Riding of Yorkshire 029B,HU128QP,HU12
+England,East Riding of Yorkshire 029C,HU128TL,HU12
+England,East Riding of Yorkshire 029C,HU128DL,HU12
+England,East Riding of Yorkshire 031C,HU129RX,HU12
+England,East Riding of Yorkshire 039E,HU120PA,HU12
+England,Kingston upon Hull 029E,HU12ED,HU12
+England,East Riding of Yorkshire 031B,HU120LH,HU12
+England,East Riding of Yorkshire 039A,HU120NH,HU12
+England,Kingston upon Hull 026E,HU128WD,HU12
+England,East Riding of Yorkshire 033C,HU128AW,HU12
+England,East Riding of Yorkshire 039F,HU120SU,HU12
+England,East Riding of Yorkshire 029B,HU128JJ,HU12
+England,Kingston upon Hull 029E,HU12NA,HU12
+England,East Riding of Yorkshire 039F,HU120AR,HU12
+England,East Riding of Yorkshire 039F,HU120SX,HU12
+England,East Riding of Yorkshire 039F,HU120TG,HU12
+England,East Riding of Yorkshire 031A,HU129AY,HU12
+England,East Riding of Yorkshire 031E,HU129RN,HU12
+England,East Riding of Yorkshire 039E,HU120QA,HU12
+England,East Riding of Yorkshire 033E,HU129PA,HU12
+England,East Riding of Yorkshire 029D,HU128NQ,HU12
+England,East Riding of Yorkshire 029E,HU128RA,HU12
+England,Kingston upon Hull 029C,HU12BD,HU12
+England,East Riding of Yorkshire 031B,HU120HT,HU12
+England,Kingston upon Hull 029C,HU12EJ,HU12
+England,East Riding of Yorkshire 029C,HU128TQ,HU12
+England,East Riding of Yorkshire 029E,HU128SZ,HU12
+England,East Riding of Yorkshire 033B,HU128QE,HU12
+England,Kingston upon Hull 029C,HU12DA,HU12
+England,East Riding of Yorkshire 031A,HU129DD,HU12
+England,East Riding of Yorkshire 039E,HU120RT,HU12
+England,East Riding of Yorkshire 031E,HU129RW,HU12
+England,East Riding of Yorkshire 031B,HU120LQ,HU12
+England,East Riding of Yorkshire 029C,HU128QR,HU12
+England,Kingston upon Hull 029C,HU12EL,HU12
+England,East Riding of Yorkshire 029D,HU128NX,HU12
+England,East Riding of Yorkshire 031A,HU129AS,HU12
+England,East Riding of Yorkshire 031A,HU129HD,HU12
+England,East Riding of Yorkshire 029B,HU128JU,HU12
+England,East Riding of Yorkshire 029E,HU128RX,HU12
+England,Kingston upon Hull 029C,HU12RA,HU12
+England,East Riding of Yorkshire 031B,HU129AG,HU12
+England,Kingston upon Hull 029C,HU12QW,HU12
+England,East Riding of Yorkshire 031C,HU120DX,HU12
+England,East Riding of Yorkshire 029A,HU128HS,HU12
+England,East Riding of Yorkshire 039E,HU120RA,HU12
+England,Kingston upon Hull 029C,HU12QL,HU12
+England,East Riding of Yorkshire 031B,HU120JF,HU12
+England,East Riding of Yorkshire 039A,HU120PD,HU12
+England,East Riding of Yorkshire 029D,HU128NP,HU12
+England,East Riding of Yorkshire 029B,HU128EP,HU12
+England,East Riding of Yorkshire 033C,HU128AZ,HU12
+England,East Riding of Yorkshire 033C,HU128AJ,HU12
+England,East Riding of Yorkshire 031A,HU129BH,HU12
+England,East Riding of Yorkshire 031A,HU129AN,HU12
+England,East Riding of Yorkshire 029C,HU128QT,HU12
+England,East Riding of Yorkshire 033E,HU129PD,HU12
+England,East Riding of Yorkshire 039A,HU120NL,HU12
+England,East Riding of Yorkshire 033E,HU129PP,HU12
+England,East Riding of Yorkshire 031C,HU120BE,HU12
+England,East Riding of Yorkshire 031B,HU120DQ,HU12
+England,East Riding of Yorkshire 031C,HU120AB,HU12
+England,East Riding of Yorkshire 031B,HU120HJ,HU12
+England,East Riding of Yorkshire 031A,HU129HE,HU12
+England,East Riding of Yorkshire 033C,HU128EQ,HU12
+England,East Riding of Yorkshire 029D,HU128PD,HU12
+England,East Riding of Yorkshire 039E,HU120RS,HU12
+England,East Riding of Yorkshire 029E,HU128SF,HU12
+England,East Riding of Yorkshire 033A,HU129EA,HU12
+England,East Riding of Yorkshire 039F,HU120UX,HU12
+England,East Riding of Yorkshire 039E,HU120RF,HU12
+England,Kingston upon Hull 029E,HU12LJ,HU12
+England,East Riding of Yorkshire 039F,HU120TQ,HU12
+England,East Riding of Yorkshire 031B,HU120HR,HU12
+England,East Riding of Yorkshire 031A,HU129AW,HU12
+England,East Riding of Yorkshire 029C,HU128QN,HU12
+England,Kingston upon Hull 029E,HU12HL,HU12
+England,East Riding of Yorkshire 033B,HU128PZ,HU12
+England,East Riding of Yorkshire 029C,HU128DF,HU12
+England,East Riding of Yorkshire 029C,HU128QW,HU12
+England,East Riding of Yorkshire 021A,HU129AJ,HU12
+England,East Riding of Yorkshire 029C,HU128BX,HU12
+England,East Riding of Yorkshire 039E,HU120RL,HU12
+England,Kingston upon Hull 029E,HU12PN,HU12
+England,East Riding of Yorkshire 033C,HU128FP,HU12
+England,East Riding of Yorkshire 029E,HU128TX,HU12
+England,Kingston upon Hull 029E,HU12AP,HU12
+England,East Riding of Yorkshire 033D,HU129NJ,HU12
+England,Kingston upon Hull 026E,HU129WG,HU12
+England,East Riding of Yorkshire 039E,HU120RH,HU12
+England,East Riding of Yorkshire 033B,HU128GE,HU12
+England,East Riding of Yorkshire 031A,HU129HP,HU12
+England,East Riding of Yorkshire 031A,HU129EW,HU12
+England,Kingston upon Hull 029E,HU12JP,HU12
+England,East Riding of Yorkshire 029C,HU128PP,HU12
+England,East Riding of Yorkshire 033D,HU129QA,HU12
+England,East Riding of Yorkshire 031E,HU129RF,HU12
+England,East Riding of Yorkshire 039F,HU120TN,HU12
+England,East Riding of Yorkshire 029D,HU128PJ,HU12
+England,East Riding of Yorkshire 029E,HU128UG,HU12
+England,East Riding of Yorkshire 033B,HU128GG,HU12
+England,East Riding of Yorkshire 029A,HU128TP,HU12
+England,Kingston upon Hull 026E,HU12BS,HU12
+England,Kingston upon Hull 029C,HU12SG,HU12
+England,East Riding of Yorkshire 039F,HU120SS,HU12
+England,East Riding of Yorkshire 029B,HU128HD,HU12
+England,Kingston upon Hull 029C,HU12SX,HU12
+England,East Riding of Yorkshire 039F,HU120SR,HU12
+England,East Riding of Yorkshire 033C,HU128AN,HU12
+England,East Riding of Yorkshire 031B,HU120JJ,HU12
+England,East Riding of Yorkshire 029B,HU128JA,HU12
+England,East Riding of Yorkshire 033D,HU129GF,HU12
+England,East Riding of Yorkshire 031A,HU129AD,HU12
+England,East Riding of Yorkshire 029B,HU128JD,HU12
+England,East Riding of Yorkshire 029D,HU128LX,HU12
+England,East Riding of Yorkshire 033B,HU128LT,HU12
+England,East Riding of Yorkshire 039E,HU120FD,HU12
+England,East Riding of Yorkshire 031B,HU120JH,HU12
+England,East Riding of Yorkshire 029E,HU128SJ,HU12
+England,East Riding of Yorkshire 033D,HU129PJ,HU12
+England,East Riding of Yorkshire 039A,HU120NT,HU12
+England,Kingston upon Hull 029C,HU12PG,HU12
+England,East Riding of Yorkshire 033E,HU129LR,HU12
+England,East Riding of Yorkshire 039F,HU120TY,HU12
+England,East Riding of Yorkshire 039E,HU120NQ,HU12
+England,East Riding of Yorkshire 033A,HU129FD,HU12
+England,East Riding of Yorkshire 031A,HU128SN,HU12
+England,East Riding of Yorkshire 029B,HU128NR,HU12
+England,East Riding of Yorkshire 029A,HU128XY,HU12
+England,Kingston upon Hull 029C,HU12RF,HU12
+England,East Riding of Yorkshire 033B,HU128HN,HU12
+England,East Riding of Yorkshire 031B,HU120HS,HU12
+England,East Riding of Yorkshire 031B,HU120BZ,HU12
+England,East Riding of Yorkshire 029C,HU128BW,HU12
+England,East Riding of Yorkshire 039F,HU120UH,HU12
+England,East Riding of Yorkshire 033C,HU128BH,HU12
+England,East Riding of Yorkshire 029A,HU128TR,HU12
+England,East Riding of Yorkshire 029B,HU128ES,HU12
+England,East Riding of Yorkshire 039A,HU120NN,HU12
+England,East Riding of Yorkshire 033D,HU129PT,HU12
+England,East Riding of Yorkshire 031C,HU129SX,HU12
+England,East Riding of Yorkshire 033D,HU129NG,HU12
+England,East Riding of Yorkshire 039E,HU120PU,HU12
+England,East Riding of Yorkshire 031A,HU128SS,HU12
+England,East Riding of Yorkshire 029C,HU128FT,HU12
+England,East Riding of Yorkshire 031A,HU129BN,HU12
+England,East Riding of Yorkshire 033E,HU129QE,HU12
+England,East Riding of Yorkshire 029C,HU128QY,HU12
+England,Kingston upon Hull 029E,HU12PA,HU12
+England,East Riding of Yorkshire 031B,HU120JB,HU12
+England,East Riding of Yorkshire 039E,HU120PH,HU12
+England,East Riding of Yorkshire 031E,HU129TJ,HU12
+England,East Riding of Yorkshire 033E,HU129QH,HU12
+England,East Riding of Yorkshire 039E,HU120PL,HU12
+England,East Riding of Yorkshire 029C,HU128DX,HU12
+England,East Riding of Yorkshire 031C,HU129RJ,HU12
+England,Kingston upon Hull 029E,HU12JN,HU12
+England,East Riding of Yorkshire 033C,HU128HH,HU12
+England,Kingston upon Hull 029E,HU12LD,HU12
+England,Kingston upon Hull 029E,HU12RR,HU12
+England,East Riding of Yorkshire 033B,HU128PU,HU12
+England,East Riding of Yorkshire 039E,HU120WF,HU12
+England,East Riding of Yorkshire 039A,HU120PR,HU12
+England,East Riding of Yorkshire 029C,HU128XT,HU12
+England,East Riding of Yorkshire 033A,HU129EH,HU12
+England,East Riding of Yorkshire 031C,HU120DT,HU12
+England,Kingston upon Hull 029C,HU12LP,HU12
+England,East Riding of Yorkshire 029B,HU128EX,HU12
+England,East Riding of Yorkshire 029E,HU128SQ,HU12
+England,East Riding of Yorkshire 029D,HU128NN,HU12
+England,East Riding of Yorkshire 031C,HU120AQ,HU12
+England,East Riding of Yorkshire 033C,HU128BJ,HU12
+England,East Riding of Yorkshire 031C,HU120AA,HU12
+England,East Riding of Yorkshire 033C,HU128AL,HU12
+England,East Riding of Yorkshire 031B,HU120DG,HU12
+England,East Riding of Yorkshire 031A,HU129DH,HU12
+England,East Riding of Yorkshire 029E,HU128UW,HU12
+England,East Riding of Yorkshire 033C,HU128EG,HU12
+England,East Riding of Yorkshire 029B,HU128GZ,HU12
+England,East Riding of Yorkshire 039F,HU120TS,HU12
+England,East Riding of Yorkshire 031E,HU129SD,HU12
+England,East Riding of Yorkshire 029E,HU128UL,HU12
+England,East Riding of Yorkshire 029C,HU128XL,HU12
+England,Kingston upon Hull 029C,HU12DB,HU12
+England,East Riding of Yorkshire 039F,HU120UA,HU12
+England,East Riding of Yorkshire 039F,HU120TH,HU12
+England,Kingston upon Hull 029C,HU12QN,HU12
+England,East Riding of Yorkshire 029A,HU128QJ,HU12
+England,East Riding of Yorkshire 029D,HU128LZ,HU12
+England,Kingston upon Hull 029C,HU12TR,HU12
+England,East Riding of Yorkshire 039F,HU120UD,HU12
+England,East Riding of Yorkshire 029C,HU128TE,HU12
+England,East Riding of Yorkshire 033C,HU128AT,HU12
+England,East Riding of Yorkshire 033D,HU129PG,HU12
+England,East Riding of Yorkshire 031B,HU120LJ,HU12
+England,East Riding of Yorkshire 021B,HU128SR,HU12
+England,East Riding of Yorkshire 033D,HU129JW,HU12
+England,East Riding of Yorkshire 031C,HU120AF,HU12
+England,East Riding of Yorkshire 029B,HU128HG,HU12
+England,Kingston upon Hull 029E,HU12QX,HU12
+England,East Riding of Yorkshire 029C,HU128BQ,HU12
+England,East Riding of Yorkshire 033A,HU129DB,HU12
+England,East Riding of Yorkshire 033D,HU128BA,HU12
+England,East Riding of Yorkshire 029C,HU128DQ,HU12
+England,East Riding of Yorkshire 039F,HU120TW,HU12
+England,East Riding of Yorkshire 029A,HU128QH,HU12
+England,Kingston upon Hull 029E,HU12HX,HU12
+England,East Riding of Yorkshire 039F,HU120SD,HU12
+England,East Riding of Yorkshire 031B,HU120BP,HU12
+England,East Riding of Yorkshire 029C,HU128BU,HU12
+England,East Riding of Yorkshire 033A,HU129HZ,HU12
+England,Kingston upon Hull 026E,HU12SJ,HU12
+England,East Riding of Yorkshire 031A,HU129BG,HU12
+England,East Riding of Yorkshire 039E,HU120PY,HU12
+England,East Riding of Yorkshire 029D,HU128NF,HU12
+England,East Riding of Yorkshire 031A,HU129BP,HU12
+England,East Riding of Yorkshire 029B,HU128EU,HU12
+England,East Riding of Yorkshire 031C,HU120ED,HU12
+England,East Riding of Yorkshire 029C,HU128BZ,HU12
+England,East Riding of Yorkshire 031E,HU129SJ,HU12
+England,East Riding of Yorkshire 033D,HU129GA,HU12
+England,East Riding of Yorkshire 033A,HU129HG,HU12
+England,East Riding of Yorkshire 039A,HU120PQ,HU12
+England,East Riding of Yorkshire 031A,HU129BF,HU12
+England,Kingston upon Hull 029E,HU12AR,HU12
+England,Kingston upon Hull 026E,HU129YN,HU12
+England,East Riding of Yorkshire 029A,HU128TW,HU12
+England,East Riding of Yorkshire 031C,HU120AL,HU12
+England,Kingston upon Hull 029C,HU12DS,HU12
+England,East Riding of Yorkshire 029A,HU128LD,HU12
+England,East Riding of Yorkshire 029B,HU128GW,HU12
+England,East Riding of Yorkshire 029C,HU128RP,HU12
+England,East Riding of Yorkshire 029E,HU128SG,HU12
+England,Kingston upon Hull 029E,HU12JX,HU12
+England,East Riding of Yorkshire 029A,HU128SA,HU12
+England,East Riding of Yorkshire 031E,HU129SB,HU12
+England,East Riding of Yorkshire 033B,HU128NY,HU12
+England,East Riding of Yorkshire 039E,HU120PZ,HU12
+England,East Riding of Yorkshire 029A,HU128TA,HU12
+England,East Riding of Yorkshire 031E,HU129RY,HU12
+England,East Riding of Yorkshire 033D,HU129PL,HU12
+England,East Riding of Yorkshire 031B,HU120HW,HU12
+England,East Riding of Yorkshire 033A,HU129JG,HU12
+England,East Riding of Yorkshire 039F,HU120SZ,HU12
+England,East Riding of Yorkshire 031E,HU129RH,HU12
+England,East Riding of Yorkshire 031C,HU129SQ,HU12
+England,East Riding of Yorkshire 033B,HU128HY,HU12
+England,East Riding of Yorkshire 031A,HU129BL,HU12
+England,Kingston upon Hull 029E,HU12AN,HU12
+England,East Riding of Yorkshire 029D,HU128LY,HU12
+England,East Riding of Yorkshire 029D,HU128LQ,HU12
+England,East Riding of Yorkshire 031E,HU129TE,HU12
+England,Kingston upon Hull 029C,HU12QQ,HU12
+England,East Riding of Yorkshire 029B,HU128BN,HU12
+England,Kingston upon Hull 029C,HU12DG,HU12
+England,East Riding of Yorkshire 029A,HU128TT,HU12
+England,East Riding of Yorkshire 031E,HU129SR,HU12
+England,Kingston upon Hull 029C,HU12JE,HU12
+England,East Riding of Yorkshire 029A,HU128TY,HU12
+England,East Riding of Yorkshire 029B,HU128JF,HU12
+England,East Riding of Yorkshire 039F,HU120TZ,HU12
+England,East Riding of Yorkshire 039F,HU120SH,HU12
+England,East Riding of Yorkshire 033C,HU129JT,HU12
+England,East Riding of Yorkshire 033D,HU129NN,HU12
+England,East Riding of Yorkshire 033A,HU129HY,HU12
+England,East Riding of Yorkshire 033B,HU128RQ,HU12
+England,East Riding of Yorkshire 033E,HU129NE,HU12
+England,East Riding of Yorkshire 031E,HU129TB,HU12
+England,East Riding of Yorkshire 031E,HU129SG,HU12
+England,East Riding of Yorkshire 029A,HU128NU,HU12
+England,East Riding of Yorkshire 031E,HU129QR,HU12
+England,East Riding of Yorkshire 031E,HU129TT,HU12
+England,East Riding of Yorkshire 033C,HU128AE,HU12
+England,East Riding of Yorkshire 033D,HU129PS,HU12
+England,East Riding of Yorkshire 033A,HU129HR,HU12
+England,Kingston upon Hull 029C,HU12RH,HU12
+England,East Riding of Yorkshire 029B,HU128FG,HU12
+England,East Riding of Yorkshire 033A,HU129EG,HU12
+England,East Riding of Yorkshire 031B,HU120LB,HU12
+England,East Riding of Yorkshire 031D,HU120NS,HU12
+England,Kingston upon Hull 029C,HU12DF,HU12
+England,East Riding of Yorkshire 029C,HU128DH,HU12
+England,East Riding of Yorkshire 031C,HU120QL,HU12
+England,East Riding of Yorkshire 031A,HU129EY,HU12
+England,East Riding of Yorkshire 033B,HU128PR,HU12
+England,East Riding of Yorkshire 031B,HU120JD,HU12
+England,East Riding of Yorkshire 033D,HU129NA,HU12
+England,East Riding of Yorkshire 033E,HU129QQ,HU12
+England,East Riding of Yorkshire 029B,HU128JR,HU12
+England,East Riding of Yorkshire 033B,HU128GL,HU12
+England,East Riding of Yorkshire 029B,HU128JY,HU12
+England,East Riding of Yorkshire 033C,HU128AG,HU12
+England,East Riding of Yorkshire 039A,HU120QF,HU12
+England,East Riding of Yorkshire 031B,HU120LG,HU12
+England,East Riding of Yorkshire 029D,HU128NS,HU12
+England,East Riding of Yorkshire 033C,HU128AA,HU12
+England,East Riding of Yorkshire 031C,HU120QN,HU12
+England,East Riding of Yorkshire 029C,HU128PT,HU12
+England,East Riding of Yorkshire 039E,HU120PG,HU12
+England,Kingston upon Hull 029C,HU12LX,HU12
+England,East Riding of Yorkshire 031A,HU128ST,HU12
+England,East Riding of Yorkshire 033D,HU129LB,HU12
+England,East Riding of Yorkshire 029E,HU128XD,HU12
+England,East Riding of Yorkshire 031B,HU120HB,HU12
+England,East Riding of Yorkshire 033B,HU128GS,HU12
+England,East Riding of Yorkshire 033D,HU129PX,HU12
+England,East Riding of Yorkshire 033B,HU128HP,HU12
+England,Kingston upon Hull 026E,HU12YA,HU12
+England,East Riding of Yorkshire 029A,HU128NT,HU12
+England,East Riding of Yorkshire 029C,HU128FN,HU12
+England,East Riding of Yorkshire 031E,HU129RP,HU12
+England,East Riding of Yorkshire 029C,HU128DS,HU12
+England,Kingston upon Hull 026E,HU128YJ,HU12
+England,East Riding of Yorkshire 029C,HU128XQ,HU12
+England,East Riding of Yorkshire 033C,HU128AF,HU12
+England,East Riding of Yorkshire 031A,HU129BT,HU12
+England,East Riding of Yorkshire 031A,HU129HQ,HU12
+England,East Riding of Yorkshire 039A,HU120NB,HU12
+England,East Riding of Yorkshire 029D,HU128QA,HU12
+England,East Riding of Yorkshire 033E,HU129QJ,HU12
+England,East Riding of Yorkshire 031A,HU128SP,HU12
+England,Kingston upon Hull 029E,HU12HN,HU12
+England,East Riding of Yorkshire 039F,HU120SB,HU12
+England,Kingston upon Hull 029E,HU12JT,HU12
+England,Kingston upon Hull 029E,HU12PD,HU12
+England,East Riding of Yorkshire 031A,HU129DJ,HU12
+England,East Riding of Yorkshire 029D,HU128DW,HU12
+England,East Riding of Yorkshire 033B,HU128NA,HU12
+England,East Riding of Yorkshire 029C,HU128FR,HU12
+England,East Riding of Yorkshire 029C,HU128DE,HU12
+England,East Riding of Yorkshire 029C,HU128EE,HU12
+England,East Riding of Yorkshire 039E,HU120PF,HU12
+England,East Riding of Yorkshire 033C,HU128AR,HU12
+England,Kingston upon Hull 029E,HU12PJ,HU12
+England,East Riding of Yorkshire 029B,HU128ET,HU12
+England,East Riding of Yorkshire 033D,HU128RW,HU12
+England,East Riding of Yorkshire 029C,HU128DA,HU12
+England,East Riding of Yorkshire 029C,HU128BY,HU12
+England,East Riding of Yorkshire 033E,HU129QL,HU12
+England,East Riding of Yorkshire 029D,HU128LG,HU12
+England,East Riding of Yorkshire 029C,HU128XU,HU12
+England,East Riding of Yorkshire 033C,HU128EF,HU12
+England,East Riding of Yorkshire 033B,HU128QL,HU12
+England,East Riding of Yorkshire 033B,HU128QD,HU12
+England,East Riding of Yorkshire 039A,HU120NW,HU12
+England,East Riding of Yorkshire 029C,HU128DG,HU12
+England,East Riding of Yorkshire 033E,HU129QG,HU12
+England,Kingston upon Hull 029E,HU12BP,HU12
+England,Kingston upon Hull 029E,HU12LY,HU12
+England,East Riding of Yorkshire 031C,HU129SY,HU12
+England,East Riding of Yorkshire 029C,HU128DD,HU12
+England,East Riding of Yorkshire 039F,HU120SG,HU12
+England,East Riding of Yorkshire 033A,HU129HJ,HU12
+England,Kingston upon Hull 029E,HU12BN,HU12
+England,East Riding of Yorkshire 039F,HU120TE,HU12
+England,East Riding of Yorkshire 033A,HU129DU,HU12
+England,East Riding of Yorkshire 033A,HU129JD,HU12
+England,East Riding of Yorkshire 031E,HU129TX,HU12
+England,Kingston upon Hull 029C,HU12DQ,HU12
+England,Kingston upon Hull 029E,HU12BB,HU12
+England,East Riding of Yorkshire 031A,HU129DR,HU12
+England,East Riding of Yorkshire 031E,HU129QZ,HU12
+England,East Riding of Yorkshire 029A,HU128JZ,HU12
+England,East Riding of Yorkshire 033D,HU129PQ,HU12
+England,East Riding of Yorkshire 031B,HU120HP,HU12
+England,East Riding of Yorkshire 029C,HU128QU,HU12
+England,East Riding of Yorkshire 029D,HU128LJ,HU12
+England,Kingston upon Hull 029C,HU12DR,HU12
+England,East Riding of Yorkshire 031E,HU129TD,HU12
+England,East Riding of Yorkshire 033A,HU129JJ,HU12
+England,East Riding of Yorkshire 033B,HU128HU,HU12
+England,East Riding of Yorkshire 039F,HU120TT,HU12
+England,East Riding of Yorkshire 039A,HU120NF,HU12
+England,East Riding of Yorkshire 033B,HU128GN,HU12
+England,East Riding of Yorkshire 029B,HU128GB,HU12
+England,East Riding of Yorkshire 031B,HU120JN,HU12
+England,Kingston upon Hull 029C,HU12ST,HU12
+England,East Riding of Yorkshire 031B,HU120HH,HU12
+England,East Riding of Yorkshire 039A,HU120ND,HU12
+England,East Riding of Yorkshire 031A,HU129AR,HU12
+England,East Riding of Yorkshire 033A,HU129JL,HU12
+England,East Riding of Yorkshire 029C,HU128DJ,HU12
+England,East Riding of Yorkshire 031B,HU120LF,HU12
+England,Kingston upon Hull 029C,HU12BJ,HU12
+England,East Riding of Yorkshire 031B,HU120HY,HU12
+England,East Riding of Yorkshire 029D,HU128LL,HU12
+England,East Riding of Yorkshire 031A,HU129HB,HU12
+England,East Riding of Yorkshire 029B,HU128DT,HU12
+England,East Riding of Yorkshire 029D,HU128LH,HU12
+England,East Riding of Yorkshire 033B,HU128RD,HU12
+England,East Riding of Yorkshire 033C,HU128AH,HU12
+England,East Riding of Yorkshire 031A,HU129AE,HU12
+England,East Riding of Yorkshire 033E,HU129QB,HU12
+England,East Riding of Yorkshire 039E,HU120RB,HU12
+England,East Riding of Yorkshire 031A,HU128SU,HU12
+England,East Riding of Yorkshire 033D,HU129NB,HU12
+England,East Riding of Yorkshire 033D,HU129PY,HU12
+England,East Riding of Yorkshire 033C,HU128PS,HU12
+England,East Riding of Yorkshire 033A,HU129HX,HU12
+England,East Riding of Yorkshire 033D,HU129PH,HU12
+England,East Riding of Yorkshire 039F,HU120SE,HU12
+England,East Riding of Yorkshire 029C,HU128PX,HU12
+England,East Riding of Yorkshire 029C,HU128QQ,HU12
+England,East Riding of Yorkshire 033A,HU129DX,HU12
+England,Kingston upon Hull 029C,HU12SR,HU12
+England,East Riding of Yorkshire 031C,HU120AD,HU12
+England,East Riding of Yorkshire 031C,HU120DZ,HU12
+England,East Riding of Yorkshire 033E,HU129GE,HU12
+England,East Riding of Yorkshire 031C,HU120DS,HU12
+England,East Riding of Yorkshire 033B,HU128BD,HU12
+England,East Riding of Yorkshire 029E,HU128UF,HU12
+England,East Riding of Yorkshire 029C,HU128FB,HU12
+England,East Riding of Yorkshire 029B,HU128JN,HU12
+England,East Riding of Yorkshire 031A,HU129AP,HU12
+England,East Riding of Yorkshire 031B,HU120HD,HU12
+England,East Riding of Yorkshire 033A,HU129EB,HU12
+England,Kingston upon Hull 029E,HU12HW,HU12
+England,East Riding of Yorkshire 029D,HU128NZ,HU12
+England,East Riding of Yorkshire 031B,HU120BS,HU12
+England,East Riding of Yorkshire 029A,HU128UZ,HU12
+England,East Riding of Yorkshire 033E,HU129PW,HU12
+England,East Riding of Yorkshire 033D,HU129LU,HU12
+England,East Riding of Yorkshire 031B,HU120GA,HU12
+England,East Riding of Yorkshire 033C,HU128PQ,HU12
+England,East Riding of Yorkshire 029E,HU128UN,HU12
+England,East Riding of Yorkshire 031A,HU129BS,HU12
+England,East Riding of Yorkshire 031B,HU120LE,HU12
+England,East Riding of Yorkshire 031B,HU120LN,HU12
+England,Kingston upon Hull 029E,HU12JH,HU12
+England,East Riding of Yorkshire 033B,HU128GT,HU12
+England,East Riding of Yorkshire 031E,HU129TS,HU12
+England,East Riding of Yorkshire 033A,HU129EP,HU12
+England,East Riding of Yorkshire 033D,HU129NH,HU12
+England,East Riding of Yorkshire 029B,HU128JE,HU12
+England,East Riding of Yorkshire 033D,HU128BB,HU12
+England,East Riding of Yorkshire 039E,HU120PN,HU12
+England,Kingston upon Hull 029E,HU12EG,HU12
+England,Kingston upon Hull 029E,HU12NW,HU12
+England,East Riding of Yorkshire 031C,HU120AT,HU12
+England,East Riding of Yorkshire 031A,HU129AU,HU12
+England,East Riding of Yorkshire 033A,HU129HU,HU12
+England,East Riding of Yorkshire 029B,HU128HZ,HU12
+England,East Riding of Yorkshire 031B,HU120DH,HU12
+England,East Riding of Yorkshire 039F,HU120UG,HU12
+England,East Riding of Yorkshire 029C,HU128BL,HU12
+England,East Riding of Yorkshire 029E,HU128SE,HU12
+England,East Riding of Yorkshire 039E,HU120PJ,HU12
+England,East Riding of Yorkshire 039E,HU120PB,HU12
+England,East Riding of Yorkshire 039F,HU120RX,HU12
+England,East Riding of Yorkshire 029E,HU128SX,HU12
+England,East Riding of Yorkshire 029A,HU128LR,HU12
+England,East Riding of Yorkshire 031A,HU129BW,HU12
+England,East Riding of Yorkshire 033B,HU128DU,HU12
+England,East Riding of Yorkshire 033B,HU128GF,HU12
+England,East Riding of Yorkshire 033D,HU129PU,HU12
+England,East Riding of Yorkshire 031C,HU129RT,HU12
+England,Kingston upon Hull 026E,HU129WJ,HU12
+England,East Riding of Yorkshire 039E,HU120RJ,HU12
+England,East Riding of Yorkshire 031A,HU129AZ,HU12
+England,Kingston upon Hull 029C,HU12EP,HU12
+England,East Riding of Yorkshire 031C,HU120BN,HU12
+England,East Riding of Yorkshire 039E,HU120PP,HU12
+England,East Riding of Yorkshire 029C,HU128TJ,HU12
+England,Kingston upon Hull 029C,HU12SH,HU12
+England,East Riding of Yorkshire 031A,HU129AX,HU12
+England,East Riding of Yorkshire 033C,HU128AS,HU12
+England,East Riding of Yorkshire 031D,HU120BU,HU12
+England,East Riding of Yorkshire 031E,HU129TP,HU12
+England,East Riding of Yorkshire 029B,HU128PF,HU12
+England,East Riding of Yorkshire 039F,HU120SY,HU12
+England,East Riding of Yorkshire 033D,HU129NT,HU12
+England,East Riding of Yorkshire 039E,HU120WU,HU12
+England,East Riding of Yorkshire 029E,HU128UE,HU12
+England,East Riding of Yorkshire 033B,HU128PY,HU12
+England,Kingston upon Hull 029C,HU12PH,HU12
+England,Kingston upon Hull 029C,HU12TY,HU12
+England,East Riding of Yorkshire 031C,HU120DP,HU12
+England,East Riding of Yorkshire 029B,HU128JL,HU12
+England,Kingston upon Hull 029E,HU12AZ,HU12
+England,East Riding of Yorkshire 029C,HU128RL,HU12
+England,East Riding of Yorkshire 039F,HU120UY,HU12
+England,East Riding of Yorkshire 029B,HU128HR,HU12
+England,East Riding of Yorkshire 031C,HU120DU,HU12
+England,East Riding of Yorkshire 031C,HU129JZ,HU12
+England,East Riding of Yorkshire 039F,HU120SL,HU12
+England,East Riding of Yorkshire 031B,HU120JE,HU12
+England,Kingston upon Hull 029C,HU12QJ,HU12
+England,East Riding of Yorkshire 029A,HU128UY,HU12
+England,East Riding of Yorkshire 033C,HU128AY,HU12
+England,East Riding of Yorkshire 033C,HU129JX,HU12
+England,Kingston upon Hull 029C,HU12TX,HU12
+England,East Riding of Yorkshire 031E,HU129TY,HU12
+England,East Riding of Yorkshire 029E,HU128SH,HU12
+England,East Riding of Yorkshire 031C,HU120AJ,HU12
+England,East Riding of Yorkshire 029B,HU128HF,HU12
+England,Kingston upon Hull 029E,HU12EX,HU12
+England,East Riding of Yorkshire 029E,HU128US,HU12
+England,East Riding of Yorkshire 029A,HU128TZ,HU12
+England,Kingston upon Hull 029E,HU12AE,HU12
+England,East Riding of Yorkshire 031B,HU120HA,HU12
+England,East Riding of Yorkshire 029A,HU128WJ,HU12
+England,East Riding of Yorkshire 033D,HU129NL,HU12
+England,East Riding of Yorkshire 031A,HU128SL,HU12
+England,East Riding of Yorkshire 033E,HU129LS,HU12
+England,East Riding of Yorkshire 029E,HU128SB,HU12
+England,East Riding of Yorkshire 033B,HU128NE,HU12
+England,East Riding of Yorkshire 033B,HU128GR,HU12
+England,East Riding of Yorkshire 039F,HU120RU,HU12
+England,East Riding of Yorkshire 031C,HU120QR,HU12
+England,East Riding of Yorkshire 031C,HU120QP,HU12
+England,East Riding of Yorkshire 029E,HU128UA,HU12
+England,East Riding of Yorkshire 031B,HU120HZ,HU12
+England,East Riding of Yorkshire 031E,HU129XF,HU12
+England,East Riding of Yorkshire 033B,HU128NB,HU12
+England,Kingston upon Hull 030B,HU12ET,HU12
+England,East Riding of Yorkshire 031B,HU120EF,HU12
+England,East Riding of Yorkshire 033B,HU128PH,HU12
+England,East Riding of Yorkshire 029B,HU128EA,HU12
+England,East Riding of Yorkshire 039E,HU120RR,HU12
+England,East Riding of Yorkshire 033B,HU128HL,HU12
+England,East Riding of Yorkshire 031B,HU120BY,HU12
+England,East Riding of Yorkshire 031C,HU129SL,HU12
+England,East Riding of Yorkshire 039F,HU120TB,HU12
+England,Kingston upon Hull 029E,HU12NR,HU12
+England,East Riding of Yorkshire 039E,HU120QJ,HU12
+England,East Riding of Yorkshire 033D,HU129PZ,HU12
+England,East Riding of Yorkshire 039F,HU120QE,HU12
+England,East Riding of Yorkshire 033E,HU129PR,HU12
+England,East Riding of Yorkshire 039E,HU120SF,HU12
+England,East Riding of Yorkshire 033D,HU129JR,HU12
+England,East Riding of Yorkshire 031B,HU120HN,HU12
+England,East Riding of Yorkshire 031C,HU120BL,HU12
+England,Kingston upon Hull 029C,HU12SU,HU12
+England,East Riding of Yorkshire 033A,HU129EQ,HU12
+England,East Riding of Yorkshire 033B,HU128HX,HU12
+England,Kingston upon Hull 029C,HU12RJ,HU12
+England,East Riding of Yorkshire 033C,HU129JY,HU12
+England,East Riding of Yorkshire 039A,HU120NJ,HU12
+England,East Riding of Yorkshire 033B,HU128QG,HU12
+England,East Riding of Yorkshire 033D,HU129NP,HU12
+England,East Riding of Yorkshire 039F,HU120RY,HU12
+England,Kingston upon Hull 029E,HU12BL,HU12
+England,East Riding of Yorkshire 031A,HU129BE,HU12
+England,East Riding of Yorkshire 039F,HU120SW,HU12
+England,Kingston upon Hull 029C,HU12RQ,HU12
+England,East Riding of Yorkshire 039E,HU120QB,HU12
+England,East Riding of Yorkshire 039E,HU120RN,HU12
+England,East Riding of Yorkshire 031E,HU129TG,HU12
+England,East Riding of Yorkshire 031B,HU120HF,HU12
+England,East Riding of Yorkshire 029B,HU128JG,HU12
+England,East Riding of Yorkshire 029B,HU128NJ,HU12
+England,East Riding of Yorkshire 039E,HU120RG,HU12
+England,East Riding of Yorkshire 039F,HU120TJ,HU12
+England,East Riding of Yorkshire 033D,HU129NQ,HU12
+England,East Riding of Yorkshire 033C,HU128AQ,HU12
+England,East Riding of Yorkshire 029E,HU128TU,HU12
+England,Kingston upon Hull 029E,HU12EA,HU12
+England,East Riding of Yorkshire 031C,HU120BG,HU12
+England,East Riding of Yorkshire 031A,HU129DG,HU12
+England,East Riding of Yorkshire 039F,HU120TX,HU12
+England,East Riding of Yorkshire 039E,HU120QD,HU12
+England,East Riding of Yorkshire 021A,HU129AL,HU12
+England,East Riding of Yorkshire 039E,HU120PE,HU12
+England,East Riding of Yorkshire 031A,HU129BB,HU12
+England,East Riding of Yorkshire 029E,HU128XZ,HU12
+England,Kingston upon Hull 029E,HU12JG,HU12
+England,East Riding of Yorkshire 033E,HU129NS,HU12
+England,East Riding of Yorkshire 039F,HU120TU,HU12
+England,East Riding of Yorkshire 033A,HU129EL,HU12
+England,East Riding of Yorkshire 033E,HU129PB,HU12
+England,East Riding of Yorkshire 031B,HU120HX,HU12
+England,Kingston upon Hull 029C,HU12SS,HU12
+England,Kingston upon Hull 029E,HU12JA,HU12
+England,East Riding of Yorkshire 029C,HU128TF,HU12
+England,East Riding of Yorkshire 033C,HU128EH,HU12
+England,East Riding of Yorkshire 029A,HU128LB,HU12
+England,East Riding of Yorkshire 029C,HU128ED,HU12
+England,East Riding of Yorkshire 031B,HU120LA,HU12
+England,East Riding of Yorkshire 029C,HU128EY,HU12
+England,East Riding of Yorkshire 033B,HU128HT,HU12
+England,Kingston upon Hull 029C,HU12NL,HU12
+England,East Riding of Yorkshire 029E,HU128UJ,HU12
+England,East Riding of Yorkshire 029C,HU128XN,HU12
+England,East Riding of Yorkshire 029E,HU128UD,HU12
+England,East Riding of Yorkshire 029D,HU128DY,HU12
+England,East Riding of Yorkshire 021A,HU129AH,HU12
+England,East Riding of Yorkshire 039A,HU120NX,HU12
+England,East Riding of Yorkshire 031A,HU129DE,HU12
+England,East Riding of Yorkshire 031B,HU120DD,HU12
+England,East Riding of Yorkshire 033E,HU129GB,HU12
+England,East Riding of Yorkshire 033C,HU128AD,HU12
+England,East Riding of Yorkshire 033D,HU129NU,HU12
+England,East Riding of Yorkshire 033B,HU128LP,HU12
+England,East Riding of Yorkshire 033B,HU128FA,HU12
+England,East Riding of Yorkshire 029C,HU128RH,HU12
+England,Kingston upon Hull 029E,HU12HP,HU12
+England,Kingston upon Hull 029E,HU12LU,HU12
+England,East Riding of Yorkshire 029C,HU128TN,HU12
+England,East Riding of Yorkshire 029B,HU128JW,HU12
+England,East Riding of Yorkshire 029A,HU128LU,HU12
+England,East Riding of Yorkshire 031E,HU129TU,HU12
+England,Kingston upon Hull 029E,HU12JJ,HU12
+England,East Riding of Yorkshire 031A,HU129BX,HU12
+England,East Riding of Yorkshire 033E,HU129QW,HU12
+England,East Riding of Yorkshire 029A,HU128PW,HU12
+England,East Riding of Yorkshire 029C,HU128DZ,HU12
+England,Kingston upon Hull 029C,HU12BQ,HU12
+England,Kingston upon Hull 029E,HU12AG,HU12
+England,Kingston upon Hull 029C,HU12DY,HU12
+England,East Riding of Yorkshire 029B,HU128HA,HU12
+England,East Riding of Yorkshire 031C,HU129RU,HU12
+England,East Riding of Yorkshire 039E,HU120RP,HU12
+England,East Riding of Yorkshire 033D,HU129LN,HU12
+England,East Riding of Yorkshire 031A,HU129EF,HU12
+England,Kingston upon Hull 029E,HU12ER,HU12
+England,East Riding of Yorkshire 033C,HU128AB,HU12
+England,Kingston upon Hull 026E,HU12YE,HU12
+England,East Riding of Yorkshire 031A,HU129BD,HU12
+England,East Riding of Yorkshire 031C,HU129SE,HU12
+England,East Riding of Yorkshire 031C,HU120QS,HU12
+England,East Riding of Yorkshire 033C,HU128FE,HU12
+England,East Riding of Yorkshire 039F,HU120UB,HU12
+England,East Riding of Yorkshire 039A,HU120NP,HU12
+England,East Riding of Yorkshire 039F,HU120TA,HU12
+England,East Riding of Yorkshire 029B,HU128EZ,HU12
+England,Kingston upon Hull 029E,HU12QH,HU12
+England,East Riding of Yorkshire 033B,HU128RE,HU12
+England,East Riding of Yorkshire 031E,HU129TF,HU12
+England,Kingston upon Hull 029E,HU12PU,HU12
+England,Kingston upon Hull 029C,HU12DZ,HU12
+England,East Riding of Yorkshire 029B,HU128LW,HU12
+England,East Riding of Yorkshire 033A,HU129FE,HU12
+England,East Riding of Yorkshire 033B,HU128RB,HU12
+England,East Riding of Yorkshire 029E,HU128SY,HU12
+England,East Riding of Yorkshire 031A,HU129HT,HU12
+England,East Riding of Yorkshire 031C,HU120DR,HU12
+England,East Riding of Yorkshire 029C,HU128GA,HU12
+England,East Riding of Yorkshire 029A,HU128LF,HU12
+England,East Riding of Yorkshire 033E,HU129QN,HU12
+England,East Riding of Yorkshire 033C,HU128QZ,HU12
+England,Kingston upon Hull 029E,HU12LG,HU12
+England,East Riding of Yorkshire 031C,HU129ST,HU12
+England,East Riding of Yorkshire 029A,HU128XB,HU12
+England,East Riding of Yorkshire 031C,HU120BJ,HU12
+England,East Riding of Yorkshire 031C,HU120DJ,HU12
+England,East Riding of Yorkshire 031C,HU129SU,HU12
+England,East Riding of Yorkshire 039A,HU120NE,HU12
+England,East Riding of Yorkshire 029B,HU128JB,HU12
+England,East Riding of Yorkshire 031E,HU129RB,HU12
+England,East Riding of Yorkshire 029E,HU128UQ,HU12
+England,East Riding of Yorkshire 029C,HU128EJ,HU12
+England,East Riding of Yorkshire 033E,HU129LG,HU12
+England,East Riding of Yorkshire 031E,HU129BQ,HU12
+England,East Riding of Yorkshire 039E,HU120RQ,HU12
+England,East Riding of Yorkshire 029C,HU128DN,HU12
+England,East Riding of Yorkshire 033A,HU129JQ,HU12
+England,East Riding of Yorkshire 039E,HU120SQ,HU12
+England,East Riding of Yorkshire 033B,HU128GD,HU12
+England,East Riding of Yorkshire 033A,HU129HN,HU12
+England,East Riding of Yorkshire 031A,HU129DZ,HU12
+England,East Riding of Yorkshire 031E,HU129TR,HU12
+England,East Riding of Yorkshire 039F,HU120TL,HU12
+England,East Riding of Yorkshire 033A,HU129DY,HU12
+England,East Riding of Yorkshire 039F,HU120TR,HU12
+England,East Riding of Yorkshire 029C,HU128BS,HU12
+England,Kingston upon Hull 029A,HU12RD,HU12
+England,East Riding of Yorkshire 031B,HU120BT,HU12
+England,Kingston upon Hull 029C,HU12RG,HU12
+England,East Riding of Yorkshire 029B,HU128ER,HU12
+England,Kingston upon Hull 029E,HU12PP,HU12
+England,East Riding of Yorkshire 033D,HU129ND,HU12
+England,East Riding of Yorkshire 033E,HU129QP,HU12
+England,East Riding of Yorkshire 029A,HU128PL,HU12
+England,East Riding of Yorkshire 031C,HU129SF,HU12
+England,East Riding of Yorkshire 031B,HU120HQ,HU12
+England,East Riding of Yorkshire 039E,HU120RW,HU12
+England,East Riding of Yorkshire 031A,HU128RR,HU12
+England,East Riding of Yorkshire 031B,HU120JQ,HU12
+England,Kingston upon Hull 029C,HU12DX,HU12
+England,Kingston upon Hull 029E,HU12HU,HU12
+England,Kingston upon Hull 029C,HU12SP,HU12
+England,East Riding of Yorkshire 029B,HU128EN,HU12
+England,East Riding of Yorkshire 033E,HU129LF,HU12
+England,East Riding of Yorkshire 029C,HU128QX,HU12
+England,East Riding of Yorkshire 029E,HU128TS,HU12
+England,East Riding of Yorkshire 031C,HU120EE,HU12
+England,East Riding of Yorkshire 033E,HU129PF,HU12
+England,East Riding of Yorkshire 033B,HU128HW,HU12
+England,East Riding of Yorkshire 033C,HU128HQ,HU12
+England,East Riding of Yorkshire 033C,HU128FJ,HU12
+England,East Riding of Yorkshire 031E,HU129RG,HU12
+England,East Riding of Yorkshire 039E,HU120PT,HU12
+England,East Riding of Yorkshire 031C,HU120DY,HU12
+England,East Riding of Yorkshire 033B,HU128GY,HU12
+England,East Riding of Yorkshire 039F,HU120SJ,HU12
+England,East Riding of Yorkshire 033A,HU129HH,HU12
+England,East Riding of Yorkshire 031E,HU129RZ,HU12
+England,East Riding of Yorkshire 029A,HU128UX,HU12
+England,Kingston upon Hull 029C,HU12PZ,HU12
+England,East Riding of Yorkshire 033E,HU129LE,HU12
+England,Kingston upon Hull 029E,HU12AH,HU12
+England,East Riding of Yorkshire 029C,HU128XW,HU12
+England,East Riding of Yorkshire 033D,HU129JN,HU12
+England,East Riding of Yorkshire 031C,HU120BH,HU12
+England,East Riding of Yorkshire 029B,HU128JH,HU12
+England,East Riding of Yorkshire 031C,HU120DN,HU12
+England,East Riding of Yorkshire 033C,HU128AX,HU12
+England,East Riding of Yorkshire 039E,HU120NA,HU12
+England,East Riding of Yorkshire 033A,HU129HF,HU12
+England,East Riding of Yorkshire 033A,HU129ER,HU12
+England,East Riding of Yorkshire 031B,HU120LD,HU12
+England,East Riding of Yorkshire 039E,HU120PX,HU12
+England,East Riding of Yorkshire 029C,HU128BP,HU12
