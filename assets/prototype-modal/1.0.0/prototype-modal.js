@@ -39,7 +39,7 @@ var prototypeModal = {
         document.cookie = 'ons-prototype-' + location.origin + this.path() + '= ; path=' + this.path();
     },
     hasCookie: function() {
-        return document.cookie.indexOf('ons-prototype-') >= 0;
+        return document.cookie.indexOf('ons-prototype-' + location.origin + this.path()) >= 0;
     }
 };
 
