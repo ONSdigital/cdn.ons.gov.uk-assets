@@ -1,0 +1,64 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001291","Abbey","Males","West Midlands","E06000051","Shropshire","Age65",19.73799,10.88739,63,6.27577,6.29751
+"E36001292","Albrighton","Males","West Midlands","E06000051","Shropshire","Age65",20.46532,11.31491,63,6.27577,6.29751
+"E36001293","Alveley and Claverley","Males","West Midlands","E06000051","Shropshire","Age65",19.91009,10.90799,63,6.27577,6.29751
+"E36001294","Bagley","Males","West Midlands","E06000051","Shropshire","Age65",21.63017,11.4554,63,6.27577,6.29751
+"E36001295","Battlefield","Males","West Midlands","E06000051","Shropshire","Age65",22.95376,10.25007,63,6.27577,6.29751
+"E36001296","Bayston Hill| Column and Su","Males","West Midlands","E06000051","Shropshire","Age65",19.22559,10.95423,63,6.27577,6.29751
+"E36001297","Belle Vue","Males","West Midlands","E06000051","Shropshire","Age65",19.13271,10.56389,63,6.27577,6.29751
+"E36001298","Bishop's Castle","Males","West Midlands","E06000051","Shropshire","Age65",19.34303,11.41616,63,6.27577,6.29751
+"E36001299","Bowbrook","Males","West Midlands","E06000051","Shropshire","Age65",18.51169,9.67892,63,6.27577,6.29751
+"E36001300","Bridgnorth East and Astley","Males","West Midlands","E06000051","Shropshire","Age65",17.62484,9.41658,63,6.27577,6.29751
+"E36001301","Bridgnorth West and Tasley","Males","West Midlands","E06000051","Shropshire","Age65",18.25485,10.70567,63,6.27577,6.29751
+"E36001302","Broseley","Males","West Midlands","E06000051","Shropshire","Age65",17.48149,6.76001,63,6.27577,6.29751
+"E36001303","Brown Clee","Males","West Midlands","E06000051","Shropshire","Age65",17.19455,9.56425,63,6.27577,6.29751
+"E36001304","Burnell","Males","West Midlands","E06000051","Shropshire","Age65",19.07905,11.60125,63,6.27577,6.29751
+"E36001305","Castlefields and Ditheringt","Males","West Midlands","E06000051","Shropshire","Age65",17.19644,6.61813,63,6.27577,6.29751
+"E36001306","Cheswardine","Males","West Midlands","E06000051","Shropshire","Age65",18.03303,9.76407,63,6.27577,6.29751
+"E36001307","Chirbury and Worthen","Males","West Midlands","E06000051","Shropshire","Age65",21.34632,11.5772,63,6.27577,6.29751
+"E36001308","Church Stretton and Craven","Males","West Midlands","E06000051","Shropshire","Age65",19.86361,11.42762,63,6.27577,6.29751
+"E36001309","Clee","Males","West Midlands","E06000051","Shropshire","Age65",19.04417,10.0765,63,6.27577,6.29751
+"E36001310","Cleobury Mortimer","Males","West Midlands","E06000051","Shropshire","Age65",18.89151,9.89282,63,6.27577,6.29751
+"E36001311","Clun","Males","West Midlands","E06000051","Shropshire","Age65",21.07369,11.72239,63,6.27577,6.29751
+"E36001312","Copthorne","Males","West Midlands","E06000051","Shropshire","Age65",19.71011,12.04934,63,6.27577,6.29751
+"E36001313","Corvedale","Males","West Midlands","E06000051","Shropshire","Age65",21.56031,12.30345,63,6.27577,6.29751
+"E36001314","Ellesmere Urban","Males","West Midlands","E06000051","Shropshire","Age65",19.88525,10.27844,63,6.27577,6.29751
+"E36001315","Gobowen| Selattyn and Westo","Males","West Midlands","E06000051","Shropshire","Age65",18.29183,8.82522,63,6.27577,6.29751
+"E36001316","Harlescott","Males","West Midlands","E06000051","Shropshire","Age65",16.67799,8.29604,63,6.27577,6.29751
+"E36001317","Highley","Males","West Midlands","E06000051","Shropshire","Age65",18.77313,7.7443,63,6.27577,6.29751
+"E36001318","Hodnet","Males","West Midlands","E06000051","Shropshire","Age65",19.02541,11.42076,63,6.27577,6.29751
+"E36001319","Llanymynech","Males","West Midlands","E06000051","Shropshire","Age65",20.3931,11.85847,63,6.27577,6.29751
+"E36001320","Longden","Males","West Midlands","E06000051","Shropshire","Age65",19.04628,10.11267,63,6.27577,6.29751
+"E36001321","Loton","Males","West Midlands","E06000051","Shropshire","Age65",21.42116,12.61091,63,6.27577,6.29751
+"E36001322","Ludlow East","Males","West Midlands","E06000051","Shropshire","Age65",18.19084,8.86991,63,6.27577,6.29751
+"E36001323","Ludlow North","Males","West Midlands","E06000051","Shropshire","Age65",17.75063,10.26887,63,6.27577,6.29751
+"E36001324","Ludlow South","Males","West Midlands","E06000051","Shropshire","Age65",20.05989,11.06712,63,6.27577,6.29751
+"E36001325","Market Drayton East","Males","West Midlands","E06000051","Shropshire","Age65",19.03222,10.47481,63,6.27577,6.29751
+"E36001326","Market Drayton West","Males","West Midlands","E06000051","Shropshire","Age65",18.32912,8.98286,63,6.27577,6.29751
+"E36001327","Meole","Males","West Midlands","E06000051","Shropshire","Age65",18.00908,9.68193,63,6.27577,6.29751
+"E36001328","Monkmoor","Males","West Midlands","E06000051","Shropshire","Age65",17.33754,8.39835,63,6.27577,6.29751
+"E36001329","Much Wenlock","Males","West Midlands","E06000051","Shropshire","Age65",18.713,10.48116,63,6.27577,6.29751
+"E36001330","Oswestry East","Males","West Midlands","E06000051","Shropshire","Age65",17.8705,8.58853,63,6.27577,6.29751
+"E36001331","Oswestry South","Males","West Midlands","E06000051","Shropshire","Age65",19.59293,10.09243,63,6.27577,6.29751
+"E36001332","Oswestry West","Males","West Midlands","E06000051","Shropshire","Age65",17.73379,9.67815,63,6.27577,6.29751
+"E36001333","Porthill","Males","West Midlands","E06000051","Shropshire","Age65",20.31001,12.91564,63,6.27577,6.29751
+"E36001334","Prees","Males","West Midlands","E06000051","Shropshire","Age65",18.45106,10.40332,63,6.27577,6.29751
+"E36001335","Quarry and Coton Hill","Males","West Midlands","E06000051","Shropshire","Age65",16.97922,8.64571,63,6.27577,6.29751
+"E36001336","Radbrook","Males","West Midlands","E06000051","Shropshire","Age65",20.47481,11.36156,63,6.27577,6.29751
+"E36001337","Rea Valley","Males","West Midlands","E06000051","Shropshire","Age65",20.67034,10.95238,63,6.27577,6.29751
+"E36001338","Ruyton and Baschurch","Males","West Midlands","E06000051","Shropshire","Age65",21.42534,11.26452,63,6.27577,6.29751
+"E36001339","Severn Valley","Males","West Midlands","E06000051","Shropshire","Age65",21.07659,11.03545,63,6.27577,6.29751
+"E36001340","Shawbury","Males","West Midlands","E06000051","Shropshire","Age65",18.39238,9.6872,63,6.27577,6.29751
+"E36001341","Shifnal North","Males","West Midlands","E06000051","Shropshire","Age65",18.29156,9.2091,63,6.27577,6.29751
+"E36001342","Shifnal South and Cosford","Males","West Midlands","E06000051","Shropshire","Age65",19.37912,11.18508,63,6.27577,6.29751
+"E36001343","St Martin's","Males","West Midlands","E06000051","Shropshire","Age65",17.35759,8.46964,63,6.27577,6.29751
+"E36001344","St Oswald","Males","West Midlands","E06000051","Shropshire","Age65",19.78983,11.51606,63,6.27577,6.29751
+"E36001345","Sundorne","Males","West Midlands","E06000051","Shropshire","Age65",19.89004,7.36006,63,6.27577,6.29751
+"E36001346","Tern","Males","West Midlands","E06000051","Shropshire","Age65",17.38894,9.86091,63,6.27577,6.29751
+"E36001347","The Meres","Males","West Midlands","E06000051","Shropshire","Age65",17.82095,10.63017,63,6.27577,6.29751
+"E36001348","Underdale","Males","West Midlands","E06000051","Shropshire","Age65",17.16591,8.38115,63,6.27577,6.29751
+"E36001349","Wem","Males","West Midlands","E06000051","Shropshire","Age65",18.24208,10.15555,63,6.27577,6.29751
+"E36001350","Whitchurch North","Males","West Midlands","E06000051","Shropshire","Age65",16.96165,8.55277,63,6.27577,6.29751
+"E36001351","Whitchurch South","Males","West Midlands","E06000051","Shropshire","Age65",16.72696,8.287,63,6.27577,6.29751
+"E36001352","Whittington","Males","West Midlands","E06000051","Shropshire","Age65",17.49591,8.8914,63,6.27577,6.29751
+"E36001353","Worfield","Males","West Midlands","E06000051","Shropshire","Age65",17.65987,9.97677,63,6.27577,6.29751
