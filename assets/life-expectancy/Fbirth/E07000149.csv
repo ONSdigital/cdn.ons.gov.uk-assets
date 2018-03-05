@@ -1,0 +1,37 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36004502","Abbey","Females","East of England","E07000149","South Norfolk","Age0",90.06169,68.64368,36,10.86167,5.8424
+"E36004503","Beck Vale","Females","East of England","E07000149","South Norfolk","Age0",84.13667,68.08842,36,10.86167,5.8424
+"E36004504","Bressingham and Burston","Females","East of England","E07000149","South Norfolk","Age0",89.22361,68.96093,36,10.86167,5.8424
+"E36004505","Brooke","Females","East of England","E07000149","South Norfolk","Age0",83.6135,69.62625,36,10.86167,5.8424
+"E36004506","Bunwell","Females","East of England","E07000149","South Norfolk","Age0",84.79186,68.54514,36,10.86167,5.8424
+"E36004507","Chedgrave and Thurton","Females","East of England","E07000149","South Norfolk","Age0",85.38422,68.26633,36,10.86167,5.8424
+"E36004508","Cringleford","Females","East of England","E07000149","South Norfolk","Age0",82.51335,69.75912,36,10.86167,5.8424
+"E36004509","Cromwells","Females","East of England","E07000149","South Norfolk","Age0",81.47081,67.24265,36,10.86167,5.8424
+"E36004510","Dickleburgh","Females","East of England","E07000149","South Norfolk","Age0",81.46059,67.64044,36,10.86167,5.8424
+"E36004511","Diss","Females","East of England","E07000149","South Norfolk","Age0",84.47364,67.10424,36,10.86167,5.8424
+"E36004512","Ditchingham and Broome","Females","East of England","E07000149","South Norfolk","Age0",88.59678,70.43785,36,10.86167,5.8424
+"E36004513","Earsham","Females","East of England","E07000149","South Norfolk","Age0",84.75171,68.05185,36,10.86167,5.8424
+"E36004514","Easton","Females","East of England","E07000149","South Norfolk","Age0",87.12111,70.79697,36,10.86167,5.8424
+"E36004515","Forncett","Females","East of England","E07000149","South Norfolk","Age0",82.1533,67.87915,36,10.86167,5.8424
+"E36004516","Gillingham","Females","East of England","E07000149","South Norfolk","Age0",83.98333,65.95171,36,10.86167,5.8424
+"E36004517","Harleston","Females","East of England","E07000149","South Norfolk","Age0",83.08552,64.95457,36,10.86167,5.8424
+"E36004518","Hempnall","Females","East of England","E07000149","South Norfolk","Age0",86.2158,68.52859,36,10.86167,5.8424
+"E36004519","Hethersett","Females","East of England","E07000149","South Norfolk","Age0",83.85083,67.98532,36,10.86167,5.8424
+"E36004520","Hingham and Deopham","Females","East of England","E07000149","South Norfolk","Age0",83.38945,67.69666,36,10.86167,5.8424
+"E36004521","Loddon","Females","East of England","E07000149","South Norfolk","Age0",82.56456,66.35064,36,10.86167,5.8424
+"E36004522","Mulbarton","Females","East of England","E07000149","South Norfolk","Age0",85.57426,70.28574,36,10.86167,5.8424
+"E36004523","New Costessey","Females","East of England","E07000149","South Norfolk","Age0",86.28126,67.06696,36,10.86167,5.8424
+"E36004524","Newton Flotman","Females","East of England","E07000149","South Norfolk","Age0",84.33038,69.27413,36,10.86167,5.8424
+"E36004525","Northfields","Females","East of England","E07000149","South Norfolk","Age0",81.34428,65.64579,36,10.86167,5.8424
+"E36004526","Old Costessey","Females","East of England","E07000149","South Norfolk","Age0",86.44866,66.96908,36,10.86167,5.8424
+"E36004527","Poringland with the Framing","Females","East of England","E07000149","South Norfolk","Age0",85.68191,69.12018,36,10.86167,5.8424
+"E36004528","Rockland","Females","East of England","E07000149","South Norfolk","Age0",83.66259,69.46887,36,10.86167,5.8424
+"E36004529","Roydon","Females","East of England","E07000149","South Norfolk","Age0",89.05395,70.59162,36,10.86167,5.8424
+"E36004530","Rustens","Females","East of England","E07000149","South Norfolk","Age0",79.20002,66.04391,36,10.86167,5.8424
+"E36004531","Scole","Females","East of England","E07000149","South Norfolk","Age0",86.31956,68.98919,36,10.86167,5.8424
+"E36004532","Stoke Holy Cross","Females","East of England","E07000149","South Norfolk","Age0",86.78215,69.96998,36,10.86167,5.8424
+"E36004533","Stratton","Females","East of England","E07000149","South Norfolk","Age0",82.37366,66.98863,36,10.86167,5.8424
+"E36004534","Tasburgh","Females","East of England","E07000149","South Norfolk","Age0",82.74676,69.32353,36,10.86167,5.8424
+"E36004535","Thurlton","Females","East of England","E07000149","South Norfolk","Age0",84.79721,67.64104,36,10.86167,5.8424
+"E36004536","Town","Females","East of England","E07000149","South Norfolk","Age0",85.62192,68.9427,36,10.86167,5.8424
+"E36004537","Wicklewood","Females","East of England","E07000149","South Norfolk","Age0",83.03267,69.1712,36,10.86167,5.8424

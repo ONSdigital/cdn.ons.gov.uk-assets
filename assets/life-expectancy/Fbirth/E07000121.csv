@@ -1,0 +1,28 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36003835","Bare","Females","North West","E07000121","Lancaster","Age0",82.59951,66.28006,27,13.8168,16.54324
+"E36003836","Bolton-le-Sands","Females","North West","E07000121","Lancaster","Age0",86.84165,68.46756,27,13.8168,16.54324
+"E36003837","Bulk","Females","North West","E07000121","Lancaster","Age0",79.96577,59.60847,27,13.8168,16.54324
+"E36003838","Carnforth","Females","North West","E07000121","Lancaster","Age0",80.77983,63.82496,27,13.8168,16.54324
+"E36003839","Castle","Females","North West","E07000121","Lancaster","Age0",81.76241,64.21789,27,13.8168,16.54324
+"E36003840","Duke's","Females","North West","E07000121","Lancaster","Age0",83.02225,64.00865,27,13.8168,16.54324
+"E36003841","Ellel|University","Females","North West","E07000121","Lancaster","Age0",82.90155,68.05206,27,13.8168,16.54324
+"E36003842","Halton-with-Aughton","Females","North West","E07000121","Lancaster","Age0",82.30432,68.53274,27,13.8168,16.54324
+"E36003843","Harbour","Females","North West","E07000121","Lancaster","Age0",78.3027,57.40656,27,13.8168,16.54324
+"E36003844","Heysham Central","Females","North West","E07000121","Lancaster","Age0",79.40442,61.34793,27,13.8168,16.54324
+"E36003845","Heysham North","Females","North West","E07000121","Lancaster","Age0",83.43662,60.92667,27,13.8168,16.54324
+"E36003846","Heysham South","Females","North West","E07000121","Lancaster","Age0",83.39266,64.55507,27,13.8168,16.54324
+"E36003847","John O'Gaunt","Females","North West","E07000121","Lancaster","Age0",83.6644,68.65452,27,13.8168,16.54324
+"E36003848","Kellet","Females","North West","E07000121","Lancaster","Age0",88.54165,71.57112,27,13.8168,16.54324
+"E36003849","Lower Lune Valley","Females","North West","E07000121","Lancaster","Age0",84.92047,70.37355,27,13.8168,16.54324
+"E36003850","Overton","Females","North West","E07000121","Lancaster","Age0",82.30048,62.46799,27,13.8168,16.54324
+"E36003851","Poulton","Females","North West","E07000121","Lancaster","Age0",77.486,58.05035,27,13.8168,16.54324
+"E36003852","Scotforth East","Females","North West","E07000121","Lancaster","Age0",81.5074,65.3501,27,13.8168,16.54324
+"E36003853","Scotforth West","Females","North West","E07000121","Lancaster","Age0",83.26045,67.20728,27,13.8168,16.54324
+"E36003854","Silverdale","Females","North West","E07000121","Lancaster","Age0",91.3028,73.9498,27,13.8168,16.54324
+"E36003855","Skerton East","Females","North West","E07000121","Lancaster","Age0",81.68352,62.54913,27,13.8168,16.54324
+"E36003856","Skerton West","Females","North West","E07000121","Lancaster","Age0",81.90789,59.75927,27,13.8168,16.54324
+"E36003857","Slyne-with-Hest","Females","North West","E07000121","Lancaster","Age0",84.3249,70.97378,27,13.8168,16.54324
+"E36003858","Torrisholme","Females","North West","E07000121","Lancaster","Age0",85.40279,68.07055,27,13.8168,16.54324
+"E36003859","Upper Lune Valley","Females","North West","E07000121","Lancaster","Age0",86.73305,71.78691,27,13.8168,16.54324
+"E36003860","Warton","Females","North West","E07000121","Lancaster","Age0",87.3455,68.99747,27,13.8168,16.54324
+"E36003861","Westgate","Females","North West","E07000121","Lancaster","Age0",80.13919,58.92392,27,13.8168,16.54324

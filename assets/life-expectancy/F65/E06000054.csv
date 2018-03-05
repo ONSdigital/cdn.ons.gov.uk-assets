@@ -1,0 +1,99 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001478","Aldbourne and Ramsbury","Females","South West","E06000054","Wiltshire","Age65",20.28016,12.20764,98,15.33067,8.46541
+"E36001479","Alderbury and Whiteparish","Females","South West","E06000054","Wiltshire","Age65",26.33747,15.16647,98,15.33067,8.46541
+"E36001480","Amesbury East","Females","South West","E06000054","Wiltshire","Age65",23.41187,11.94161,98,15.33067,8.46541
+"E36001481","Amesbury West","Females","South West","E06000054","Wiltshire","Age65",19.67624,8.81179,98,15.33067,8.46541
+"E36001482","Bourne and Woodford Valley","Females","South West","E06000054","Wiltshire","Age65",26.58122,15.73452,98,15.33067,8.46541
+"E36001483","Box and Colerne","Females","South West","E06000054","Wiltshire","Age65",22.84022,11.86241,98,15.33067,8.46541
+"E36001484","Bradford-on-Avon North","Females","South West","E06000054","Wiltshire","Age65",28.80393,14.72333,98,15.33067,8.46541
+"E36001485","Bradford-on-Avon South","Females","South West","E06000054","Wiltshire","Age65",27.92132,14.70383,98,15.33067,8.46541
+"E36001486","Brinkworth","Females","South West","E06000054","Wiltshire","Age65",22.74846,13.02589,98,15.33067,8.46541
+"E36001487","Bromham| Rowde and Potterne","Females","South West","E06000054","Wiltshire","Age65",23.18279,11.26326,98,15.33067,8.46541
+"E36001488","Bulford| Allington and Figh","Females","South West","E06000054","Wiltshire","Age65",23.70682,10.74204,98,15.33067,8.46541
+"E36001489","Burbage and the Bedwyns","Females","South West","E06000054","Wiltshire","Age65",22.51797,13.07907,98,15.33067,8.46541
+"E36001490","By Brook","Females","South West","E06000054","Wiltshire","Age65",23.74939,11.42576,98,15.33067,8.46541
+"E36001491","Calne Central","Females","South West","E06000054","Wiltshire","Age65",23.47869,11.23968,98,15.33067,8.46541
+"E36001492","Calne Chilvester and Abberd","Females","South West","E06000054","Wiltshire","Age65",24.83354,10.98022,98,15.33067,8.46541
+"E36001493","Calne North","Females","South West","E06000054","Wiltshire","Age65",20.65031,8.65977,98,15.33067,8.46541
+"E36001494","Calne Rural","Females","South West","E06000054","Wiltshire","Age65",20.21789,10.84764,98,15.33067,8.46541
+"E36001495","Calne South and Cherhill","Females","South West","E06000054","Wiltshire","Age65",23.66813,12.83249,98,15.33067,8.46541
+"E36001496","Chippenham Cepen Park and D","Females","South West","E06000054","Wiltshire","Age65",23.41823,11.81388,98,15.33067,8.46541
+"E36001497","Chippenham Cepen Park and R","Females","South West","E06000054","Wiltshire","Age65",18.23526,9.28136,98,15.33067,8.46541
+"E36001498","Chippenham Hardenhuish","Females","South West","E06000054","Wiltshire","Age65",24.26442,11.89122,98,15.33067,8.46541
+"E36001499","Chippenham Hardens and Engl","Females","South West","E06000054","Wiltshire","Age65",24.4983,9.68615,98,15.33067,8.46541
+"E36001500","Chippenham Lowden and Rowde","Females","South West","E06000054","Wiltshire","Age65",17.52558,9.23772,98,15.33067,8.46541
+"E36001501","Chippenham Monkton","Females","South West","E06000054","Wiltshire","Age65",22.07467,11.18456,98,15.33067,8.46541
+"E36001502","Chippenham Pewsham","Females","South West","E06000054","Wiltshire","Age65",21.7178,11.22868,98,15.33067,8.46541
+"E36001503","Chippenham Queens and Sheld","Females","South West","E06000054","Wiltshire","Age65",23.89329,11.01706,98,15.33067,8.46541
+"E36001504","Corsham Pickwick","Females","South West","E06000054","Wiltshire","Age65",23.41606,11.94995,98,15.33067,8.46541
+"E36001505","Corsham Town","Females","South West","E06000054","Wiltshire","Age65",21.01104,11.82723,98,15.33067,8.46541
+"E36001506","Corsham Without and Box Hil","Females","South West","E06000054","Wiltshire","Age65",28.73943,15.7587,98,15.33067,8.46541
+"E36001507","Cricklade and Latton","Females","South West","E06000054","Wiltshire","Age65",23.85953,12.56139,98,15.33067,8.46541
+"E36001508","Devizes and Roundway South","Females","South West","E06000054","Wiltshire","Age65",26.74788,13.39709,98,15.33067,8.46541
+"E36001509","Devizes East","Females","South West","E06000054","Wiltshire","Age65",22.04361,10.78942,98,15.33067,8.46541
+"E36001510","Devizes North","Females","South West","E06000054","Wiltshire","Age65",22.30864,11.42615,98,15.33067,8.46541
+"E36001511","Downton and Ebble Valley","Females","South West","E06000054","Wiltshire","Age65",25.10615,13.58112,98,15.33067,8.46541
+"E36001512","Durrington and Larkhill","Females","South West","E06000054","Wiltshire","Age65",22.1535,10.99358,98,15.33067,8.46541
+"E36001513","Ethandune","Females","South West","E06000054","Wiltshire","Age65",26.34556,15.11216,98,15.33067,8.46541
+"E36001514","Fovant and Chalke Valley","Females","South West","E06000054","Wiltshire","Age65",24.16602,14.27169,98,15.33067,8.46541
+"E36001515","Hilperton","Females","South West","E06000054","Wiltshire","Age65",23.0725,12.26627,98,15.33067,8.46541
+"E36001516","Holt and Staverton","Females","South West","E06000054","Wiltshire","Age65",19.64415,10.8363,98,15.33067,8.46541
+"E36001517","Kington","Females","South West","E06000054","Wiltshire","Age65",20.05332,10.53678,98,15.33067,8.46541
+"E36001518","Laverstock| Ford and Old Sa","Females","South West","E06000054","Wiltshire","Age65",32.85625,16.24815,98,15.33067,8.46541
+"E36001519","Ludgershall and Perham Down","Females","South West","E06000054","Wiltshire","Age65",19.80142,8.68761,98,15.33067,8.46541
+"E36001520","Lyneham","Females","South West","E06000054","Wiltshire","Age65",28.90967,12.45382,98,15.33067,8.46541
+"E36001521","Malmesbury","Females","South West","E06000054","Wiltshire","Age65",24.3695,12.39791,98,15.33067,8.46541
+"E36001522","Marlborough East","Females","South West","E06000054","Wiltshire","Age65",21.12212,11.46189,98,15.33067,8.46541
+"E36001523","Marlborough West","Females","South West","E06000054","Wiltshire","Age65",20.94384,13.31763,98,15.33067,8.46541
+"E36001524","Melksham Central","Females","South West","E06000054","Wiltshire","Age65",20.42171,8.80241,98,15.33067,8.46541
+"E36001525","Melksham North","Females","South West","E06000054","Wiltshire","Age65",21.92902,9.68225,98,15.33067,8.46541
+"E36001526","Melksham South","Females","South West","E06000054","Wiltshire","Age65",22.97975,10.69591,98,15.33067,8.46541
+"E36001527","Melksham Without North","Females","South West","E06000054","Wiltshire","Age65",19.53063,10.61457,98,15.33067,8.46541
+"E36001528","Melksham Without South","Females","South West","E06000054","Wiltshire","Age65",22.69854,10.6285,98,15.33067,8.46541
+"E36001529","Mere","Females","South West","E06000054","Wiltshire","Age65",22.00454,12.9339,98,15.33067,8.46541
+"E36001530","Minety","Females","South West","E06000054","Wiltshire","Age65",22.23348,13.31583,98,15.33067,8.46541
+"E36001531","Nadder and East Knoyle","Females","South West","E06000054","Wiltshire","Age65",21.20605,12.49245,98,15.33067,8.46541
+"E36001532","Pewsey","Females","South West","E06000054","Wiltshire","Age65",26.83745,13.93752,98,15.33067,8.46541
+"E36001533","Pewsey Vale","Females","South West","E06000054","Wiltshire","Age65",24.23097,13.20738,98,15.33067,8.46541
+"E36001534","Purton","Females","South West","E06000054","Wiltshire","Age65",17.96684,8.67403,98,15.33067,8.46541
+"E36001535","Redlynch and Landford","Females","South West","E06000054","Wiltshire","Age65",19.62512,11.11635,98,15.33067,8.46541
+"E36001536","Roundway","Females","South West","E06000054","Wiltshire","Age65",18.30632,10.40024,98,15.33067,8.46541
+"E36001537","Salisbury Bemerton","Females","South West","E06000054","Wiltshire","Age65",21.91008,9.3139,98,15.33067,8.46541
+"E36001538","Salisbury Fisherton and Bem","Females","South West","E06000054","Wiltshire","Age65",20.58126,10.79995,98,15.33067,8.46541
+"E36001539","Salisbury Harnham","Females","South West","E06000054","Wiltshire","Age65",21.27263,9.97723,98,15.33067,8.46541
+"E36001540","Salisbury St Edmund and Mil","Females","South West","E06000054","Wiltshire","Age65",20.13777,10.26044,98,15.33067,8.46541
+"E36001541","Salisbury St Francis and St","Females","South West","E06000054","Wiltshire","Age65",20.5038,11.61568,98,15.33067,8.46541
+"E36001542","Salisbury St Mark's and Bis","Females","South West","E06000054","Wiltshire","Age65",21.77141,10.38625,98,15.33067,8.46541
+"E36001543","Salisbury St Martin's and C","Females","South West","E06000054","Wiltshire","Age65",19.81851,11.85759,98,15.33067,8.46541
+"E36001544","Salisbury St Paul's","Females","South West","E06000054","Wiltshire","Age65",24.02401,12.24756,98,15.33067,8.46541
+"E36001545","Sherston","Females","South West","E06000054","Wiltshire","Age65",21.01082,11.26991,98,15.33067,8.46541
+"E36001546","Southwick","Females","South West","E06000054","Wiltshire","Age65",23.93125,11.70577,98,15.33067,8.46541
+"E36001547","Summerham and Seend","Females","South West","E06000054","Wiltshire","Age65",26.36618,13.87326,98,15.33067,8.46541
+"E36001548","The Collingbournes and Neth","Females","South West","E06000054","Wiltshire","Age65",21.54794,11.41153,98,15.33067,8.46541
+"E36001549","The Lavingtons and Erlestok","Females","South West","E06000054","Wiltshire","Age65",19.53681,11.19687,98,15.33067,8.46541
+"E36001550","Tidworth","Females","South West","E06000054","Wiltshire","Age65",25.71768,11.20201,98,15.33067,8.46541
+"E36001551","Till and Wylye Valley","Females","South West","E06000054","Wiltshire","Age65",22.62028,12.51417,98,15.33067,8.46541
+"E36001552","Tisbury","Females","South West","E06000054","Wiltshire","Age65",23.17274,13.93964,98,15.33067,8.46541
+"E36001553","Trowbridge Adcroft","Females","South West","E06000054","Wiltshire","Age65",25.826,9.10265,98,15.33067,8.46541
+"E36001554","Trowbridge Central","Females","South West","E06000054","Wiltshire","Age65",18.4535,7.78274,98,15.33067,8.46541
+"E36001555","Trowbridge Drynham","Females","South West","E06000054","Wiltshire","Age65",21.59638,9.42203,98,15.33067,8.46541
+"E36001556","Trowbridge Grove","Females","South West","E06000054","Wiltshire","Age65",22.00829,10.77842,98,15.33067,8.46541
+"E36001557","Trowbridge Lambrok","Females","South West","E06000054","Wiltshire","Age65",23.47439,10.70927,98,15.33067,8.46541
+"E36001558","Trowbridge Park","Females","South West","E06000054","Wiltshire","Age65",18.03009,8.30947,98,15.33067,8.46541
+"E36001559","Trowbridge Paxcroft","Females","South West","E06000054","Wiltshire","Age65",24.53551,14.04182,98,15.33067,8.46541
+"E36001560","Urchfont and The Cannings","Females","South West","E06000054","Wiltshire","Age65",23.7181,12.96147,98,15.33067,8.46541
+"E36001561","Warminster Broadway","Females","South West","E06000054","Wiltshire","Age65",21.46106,10.39933,98,15.33067,8.46541
+"E36001562","Warminster Copheap and Wyly","Females","South West","E06000054","Wiltshire","Age65",24.91883,14.24637,98,15.33067,8.46541
+"E36001563","Warminster East","Females","South West","E06000054","Wiltshire","Age65",22.74301,11.99158,98,15.33067,8.46541
+"E36001564","Warminster West","Females","South West","E06000054","Wiltshire","Age65",22.24954,11.11818,98,15.33067,8.46541
+"E36001565","Warminster Without","Females","South West","E06000054","Wiltshire","Age65",21.0323,12.5462,98,15.33067,8.46541
+"E36001566","West Selkley","Females","South West","E06000054","Wiltshire","Age65",21.58026,12.58815,98,15.33067,8.46541
+"E36001567","Westbury East","Females","South West","E06000054","Wiltshire","Age65",21.18238,9.84425,98,15.33067,8.46541
+"E36001568","Westbury North","Females","South West","E06000054","Wiltshire","Age65",19.70715,7.89931,98,15.33067,8.46541
+"E36001569","Westbury West","Females","South West","E06000054","Wiltshire","Age65",21.81064,9.28607,98,15.33067,8.46541
+"E36001570","Wilton and Lower Wylye Vall","Females","South West","E06000054","Wiltshire","Age65",22.02182,11.38356,98,15.33067,8.46541
+"E36001571","Winsley and Westwood","Females","South West","E06000054","Wiltshire","Age65",21.326,13.53597,98,15.33067,8.46541
+"E36001572","Winterslow","Females","South West","E06000054","Wiltshire","Age65",25.11954,14.99399,98,15.33067,8.46541
+"E36001573","Wootton Bassett East","Females","South West","E06000054","Wiltshire","Age65",27.1426,13.95942,98,15.33067,8.46541
+"E36001574","Wootton Bassett North","Females","South West","E06000054","Wiltshire","Age65",24.0241,9.82765,98,15.33067,8.46541
+"E36001575","Wootton Bassett South","Females","South West","E06000054","Wiltshire","Age65",19.38989,10.1997,98,15.33067,8.46541

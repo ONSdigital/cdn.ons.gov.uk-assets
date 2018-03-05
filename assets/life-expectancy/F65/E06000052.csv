@@ -1,0 +1,124 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001354","Altarnun","Females","South West","E06000052","Cornwall","Age65",21.33943,10.44568,123,12.04087,7.25024
+"E36001355","Bodmin Central","Females","South West","E06000052","Cornwall","Age65",24.61758,10.42162,123,12.04087,7.25024
+"E36001356","Bodmin East","Females","South West","E06000052","Cornwall","Age65",16.68965,8.27308,123,12.04087,7.25024
+"E36001357","Bodmin West","Females","South West","E06000052","Cornwall","Age65",21.55684,8.25179,123,12.04087,7.25024
+"E36001358","Breage","Females","South West","E06000052","Cornwall","Age65",24.2251,11.98983,123,12.04087,7.25024
+"E36001359","Bude North and Stratton","Females","South West","E06000052","Cornwall","Age65",20.54091,10.62251,123,12.04087,7.25024
+"E36001360","Bude South","Females","South West","E06000052","Cornwall","Age65",24.70428,10.77297,123,12.04087,7.25024
+"E36001361","Bugle","Females","South West","E06000052","Cornwall","Age65",17.66212,7.68744,123,12.04087,7.25024
+"E36001362","Callington","Females","South West","E06000052","Cornwall","Age65",19.09241,10.0781,123,12.04087,7.25024
+"E36001363","Camborne Central","Females","South West","E06000052","Cornwall","Age65",18.88156,8.21874,123,12.04087,7.25024
+"E36001364","Camborne North","Females","South West","E06000052","Cornwall","Age65",21.1439,9.88018,123,12.04087,7.25024
+"E36001365","Camborne South","Females","South West","E06000052","Cornwall","Age65",19.07394,9.03743,123,12.04087,7.25024
+"E36001366","Camborne West","Females","South West","E06000052","Cornwall","Age65",20.34605,8.59624,123,12.04087,7.25024
+"E36001367","Camelford","Females","South West","E06000052","Cornwall","Age65",25.77102,10.94744,123,12.04087,7.25024
+"E36001368","Carn Brea North","Females","South West","E06000052","Cornwall","Age65",24.52289,8.82469,123,12.04087,7.25024
+"E36001369","Carn Brea South","Females","South West","E06000052","Cornwall","Age65",24.2442,9.0983,123,12.04087,7.25024
+"E36001370","Chacewater and Kenwyn","Females","South West","E06000052","Cornwall","Age65",24.01884,11.83703,123,12.04087,7.25024
+"E36001371","Colan and Mawgan","Females","South West","E06000052","Cornwall","Age65",22.53247,9.65352,123,12.04087,7.25024
+"E36001372","Constantine","Females","South West","E06000052","Cornwall","Age65",21.8275,11.95075,123,12.04087,7.25024
+"E36001373","Falmouth Arwenack","Females","South West","E06000052","Cornwall","Age65",20.84221,11.58102,123,12.04087,7.25024
+"E36001374","Falmouth Boslowick","Females","South West","E06000052","Cornwall","Age65",19.83518,10.34376,123,12.04087,7.25024
+"E36001375","Falmouth Gyllyngvase","Females","South West","E06000052","Cornwall","Age65",20.07066,12.17449,123,12.04087,7.25024
+"E36001376","Falmouth Penwerris","Females","South West","E06000052","Cornwall","Age65",20.45877,9.09028,123,12.04087,7.25024
+"E36001377","Falmouth Trescobeas","Females","South West","E06000052","Cornwall","Age65",21.94052,10.00095,123,12.04087,7.25024
+"E36001378","Feock and Kea","Females","South West","E06000052","Cornwall","Age65",26.42362,14.65622,123,12.04087,7.25024
+"E36001379","Flexbury and Poughill","Females","South West","E06000052","Cornwall","Age65",19.91076,10.47497,123,12.04087,7.25024
+"E36001380","Fowey","Females","South West","E06000052","Cornwall","Age65",22.75347,10.55445,123,12.04087,7.25024
+"E36001381","Gulval and Heamoor","Females","South West","E06000052","Cornwall","Age65",20.6865,9.0748,123,12.04087,7.25024
+"E36001382","Gunnislake","Females","South West","E06000052","Cornwall","Age65",21.4691,11.50779,123,12.04087,7.25024
+"E36001383","Gwinear-Gwithian and St Ert","Females","South West","E06000052","Cornwall","Age65",19.73379,10.6446,123,12.04087,7.25024
+"E36001384","Hayle North","Females","South West","E06000052","Cornwall","Age65",20.94087,9.35435,123,12.04087,7.25024
+"E36001385","Hayle South","Females","South West","E06000052","Cornwall","Age65",19.29375,8.67271,123,12.04087,7.25024
+"E36001386","Helston Central","Females","South West","E06000052","Cornwall","Age65",18.64262,9.19669,123,12.04087,7.25024
+"E36001387","Helston North","Females","South West","E06000052","Cornwall","Age65",27.04134,11.91115,123,12.04087,7.25024
+"E36001388","Illogan","Females","South West","E06000052","Cornwall","Age65",23.10187,10.8262,123,12.04087,7.25024
+"E36001389","Kelly Bray","Females","South West","E06000052","Cornwall","Age65",21.33054,11.06047,123,12.04087,7.25024
+"E36001390","Ladock| St Clement and St E","Females","South West","E06000052","Cornwall","Age65",24.141,11.67348,123,12.04087,7.25024
+"E36001391","Lanivet","Females","South West","E06000052","Cornwall","Age65",23.09032,11.7821,123,12.04087,7.25024
+"E36001392","Launceston Central","Females","South West","E06000052","Cornwall","Age65",25.67532,10.84963,123,12.04087,7.25024
+"E36001393","Launceston North","Females","South West","E06000052","Cornwall","Age65",19.84231,11.28937,123,12.04087,7.25024
+"E36001394","Launceston South","Females","South West","E06000052","Cornwall","Age65",19.19049,8.29742,123,12.04087,7.25024
+"E36001395","Lelant and Carbis Bay","Females","South West","E06000052","Cornwall","Age65",22.75247,11.29339,123,12.04087,7.25024
+"E36001396","Liskeard Central","Females","South West","E06000052","Cornwall","Age65",19.9545,8.96775,123,12.04087,7.25024
+"E36001397","Liskeard North","Females","South West","E06000052","Cornwall","Age65",16.18459,8.52173,123,12.04087,7.25024
+"E36001398","Liskeard South and Dobwalls","Females","South West","E06000052","Cornwall","Age65",20.5095,9.97215,123,12.04087,7.25024
+"E36001399","Looe East","Females","South West","E06000052","Cornwall","Age65",18.87069,9.15652,123,12.04087,7.25024
+"E36001400","Looe West and Lansallos","Females","South West","E06000052","Cornwall","Age65",19.95015,10.05892,123,12.04087,7.25024
+"E36001401","Lostwithiel","Females","South West","E06000052","Cornwall","Age65",20.47686,10.6747,123,12.04087,7.25024
+"E36001402","Ludgvan","Females","South West","E06000052","Cornwall","Age65",18.7239,9.97323,123,12.04087,7.25024
+"E36001403","Mabe","Females","South West","E06000052","Cornwall","Age65",23.26509,12.47322,123,12.04087,7.25024
+"E36001404","Marazion","Females","South West","E06000052","Cornwall","Age65",22.71574,10.63496,123,12.04087,7.25024
+"E36001405","Menheniot","Females","South West","E06000052","Cornwall","Age65",24.45738,11.73613,123,12.04087,7.25024
+"E36001406","Mevagissey","Females","South West","E06000052","Cornwall","Age65",24.67098,11.7434,123,12.04087,7.25024
+"E36001407","Mount Charles","Females","South West","E06000052","Cornwall","Age65",21.48588,9.1757,123,12.04087,7.25024
+"E36001408","Mount Hawke and Portreath","Females","South West","E06000052","Cornwall","Age65",21.9222,10.75158,123,12.04087,7.25024
+"E36001409","Mullion","Females","South West","E06000052","Cornwall","Age65",20.13365,10.88657,123,12.04087,7.25024
+"E36001410","Newlyn and Goonhavern","Females","South West","E06000052","Cornwall","Age65",19.02503,9.99224,123,12.04087,7.25024
+"E36001411","Newlyn and Mousehole","Females","South West","E06000052","Cornwall","Age65",21.45066,10.67779,123,12.04087,7.25024
+"E36001412","Newquay Central","Females","South West","E06000052","Cornwall","Age65",19.50002,9.25252,123,12.04087,7.25024
+"E36001413","Newquay Pentire","Females","South West","E06000052","Cornwall","Age65",19.82916,8.81484,123,12.04087,7.25024
+"E36001414","Newquay Treloggan","Females","South West","E06000052","Cornwall","Age65",21.47923,9.81929,123,12.04087,7.25024
+"E36001415","Newquay Tretherras","Females","South West","E06000052","Cornwall","Age65",21.91552,11.58707,123,12.04087,7.25024
+"E36001416","Newquay Treviglas","Females","South West","E06000052","Cornwall","Age65",26.49699,11.57271,123,12.04087,7.25024
+"E36001417","Padstow","Females","South West","E06000052","Cornwall","Age65",25.43527,12.34311,123,12.04087,7.25024
+"E36001418","Pelynt","Females","South West","E06000052","Cornwall","Age65",24.34127,12.90311,123,12.04087,7.25024
+"E36001419","Penryn East and Mylor","Females","South West","E06000052","Cornwall","Age65",22.32853,12.66489,123,12.04087,7.25024
+"E36001420","Penryn West","Females","South West","E06000052","Cornwall","Age65",21.23044,9.53592,123,12.04087,7.25024
+"E36001421","Penwithick","Females","South West","E06000052","Cornwall","Age65",23.17584,9.65268,123,12.04087,7.25024
+"E36001422","Penzance Central","Females","South West","E06000052","Cornwall","Age65",22.35322,9.83275,123,12.04087,7.25024
+"E36001423","Penzance East","Females","South West","E06000052","Cornwall","Age65",20.1407,8.99319,123,12.04087,7.25024
+"E36001424","Penzance Promenade","Females","South West","E06000052","Cornwall","Age65",23.79818,10.84851,123,12.04087,7.25024
+"E36001425","Perranporth","Females","South West","E06000052","Cornwall","Age65",20.14833,10.14013,123,12.04087,7.25024
+"E36001426","Porthleven and Helston Sout","Females","South West","E06000052","Cornwall","Age65",24.94621,11.02467,123,12.04087,7.25024
+"E36001427","Poundstock","Females","South West","E06000052","Cornwall","Age65",24.83812,10.55124,123,12.04087,7.25024
+"E36001428","Probus","Females","South West","E06000052","Cornwall","Age65",20.01976,10.76217,123,12.04087,7.25024
+"E36001429","Rame","Females","South West","E06000052","Cornwall","Age65",21.06389,10.69679,123,12.04087,7.25024
+"E36001430","Redruth Central","Females","South West","E06000052","Cornwall","Age65",19.66257,8.51184,123,12.04087,7.25024
+"E36001431","Redruth North","Females","South West","E06000052","Cornwall","Age65",21.08064,7.40598,123,12.04087,7.25024
+"E36001432","Redruth South","Females","South West","E06000052","Cornwall","Age65",21.45317,10.2185,123,12.04087,7.25024
+"E36001433","Roche","Females","South West","E06000052","Cornwall","Age65",21.48639,9.41054,123,12.04087,7.25024
+"E36001434","Roseland","Females","South West","E06000052","Cornwall","Age65",20.37611,11.50679,123,12.04087,7.25024
+"E36001435","Saltash Burraton","Females","South West","E06000052","Cornwall","Age65",18.35362,11.65465,123,12.04087,7.25024
+"E36001436","Saltash Essa","Females","South West","E06000052","Cornwall","Age65",21.44351,8.98148,123,12.04087,7.25024
+"E36001437","Saltash Pill","Females","South West","E06000052","Cornwall","Age65",17.65082,10.0252,123,12.04087,7.25024
+"E36001438","Saltash St Stephens","Females","South West","E06000052","Cornwall","Age65",21.42448,9.43766,123,12.04087,7.25024
+"E36001439","St Agnes","Females","South West","E06000052","Cornwall","Age65",22.32275,12.18417,123,12.04087,7.25024
+"E36001440","St Austell Bay","Females","South West","E06000052","Cornwall","Age65",25.9112,12.61765,123,12.04087,7.25024
+"E36001441","St Austell Bethel","Females","South West","E06000052","Cornwall","Age65",26.48104,10.64317,123,12.04087,7.25024
+"E36001442","St Austell Gover","Females","South West","E06000052","Cornwall","Age65",20.80413,9.71164,123,12.04087,7.25024
+"E36001443","St Austell Poltair","Females","South West","E06000052","Cornwall","Age65",25.51582,8.89539,123,12.04087,7.25024
+"E36001444","St Blaise","Females","South West","E06000052","Cornwall","Age65",19.80019,8.41861,123,12.04087,7.25024
+"E36001445","St Buryan","Females","South West","E06000052","Cornwall","Age65",21.55548,11.32301,123,12.04087,7.25024
+"E36001446","St Cleer","Females","South West","E06000052","Cornwall","Age65",23.05467,11.40162,123,12.04087,7.25024
+"E36001447","St Columb","Females","South West","E06000052","Cornwall","Age65",20.89816,9.36379,123,12.04087,7.25024
+"E36001448","St Day and Lanner","Females","South West","E06000052","Cornwall","Age65",18.76438,8.77318,123,12.04087,7.25024
+"E36001449","St Dennis","Females","South West","E06000052","Cornwall","Age65",22.8452,8.87871,123,12.04087,7.25024
+"E36001450","St Endellion","Females","South West","E06000052","Cornwall","Age65",21.77001,11.6813,123,12.04087,7.25024
+"E36001451","St Enoder","Females","South West","E06000052","Cornwall","Age65",18.43009,9.09559,123,12.04087,7.25024
+"E36001452","St Germans","Females","South West","E06000052","Cornwall","Age65",28.22546,14.03157,123,12.04087,7.25024
+"E36001453","St Issey","Females","South West","E06000052","Cornwall","Age65",22.91552,11.92177,123,12.04087,7.25024
+"E36001454","St Ive","Females","South West","E06000052","Cornwall","Age65",21.57292,11.04564,123,12.04087,7.25024
+"E36001455","St Ives North","Females","South West","E06000052","Cornwall","Age65",26.47539,10.63609,123,12.04087,7.25024
+"E36001456","St Ives South","Females","South West","E06000052","Cornwall","Age65",21.66354,11.08956,123,12.04087,7.25024
+"E36001457","St Just in Penwith","Females","South West","E06000052","Cornwall","Age65",24.00574,10.73877,123,12.04087,7.25024
+"E36001458","St Keverne and Meneage","Females","South West","E06000052","Cornwall","Age65",20.62507,10.99807,123,12.04087,7.25024
+"E36001459","St Mewan","Females","South West","E06000052","Cornwall","Age65",19.38246,9.78252,123,12.04087,7.25024
+"E36001460","St Stephen","Females","South West","E06000052","Cornwall","Age65",24.72446,9.57519,123,12.04087,7.25024
+"E36001461","St Teath","Females","South West","E06000052","Cornwall","Age65",26.6009,12.30638,123,12.04087,7.25024
+"E36001462","Stithians","Females","South West","E06000052","Cornwall","Age65",21.43698,10.59026,123,12.04087,7.25024
+"E36001463","Stokeclimsland","Females","South West","E06000052","Cornwall","Age65",22.52077,12.66121,123,12.04087,7.25024
+"E36001464","Threemilestone and Gloweth","Females","South West","E06000052","Cornwall","Age65",24.33901,10.61724,123,12.04087,7.25024
+"E36001465","Tintagel","Females","South West","E06000052","Cornwall","Age65",24.34143,11.64127,123,12.04087,7.25024
+"E36001466","Torpoint East","Females","South West","E06000052","Cornwall","Age65",18.0185,8.56886,123,12.04087,7.25024
+"E36001467","Torpoint West","Females","South West","E06000052","Cornwall","Age65",24.31751,11.02909,123,12.04087,7.25024
+"E36001468","Troon and Beacon","Females","South West","E06000052","Cornwall","Age65",22.52672,8.67188,123,12.04087,7.25024
+"E36001469","Truro Boscawen","Females","South West","E06000052","Cornwall","Age65",20.5487,11.66649,123,12.04087,7.25024
+"E36001470","Truro Moresk","Females","South West","E06000052","Cornwall","Age65",21.19134,11.22388,123,12.04087,7.25024
+"E36001471","Truro Tregolls","Females","South West","E06000052","Cornwall","Age65",22.33368,11.30423,123,12.04087,7.25024
+"E36001472","Truro Trehaverne","Females","South West","E06000052","Cornwall","Age65",16.91051,8.74531,123,12.04087,7.25024
+"E36001473","Tywardreath","Females","South West","E06000052","Cornwall","Age65",21.62602,9.08711,123,12.04087,7.25024
+"E36001474","Wadebridge East","Females","South West","E06000052","Cornwall","Age65",26.18424,11.49059,123,12.04087,7.25024
+"E36001475","Wadebridge West","Females","South West","E06000052","Cornwall","Age65",23.44908,10.50987,123,12.04087,7.25024
+"E36001476","Wendron","Females","South West","E06000052","Cornwall","Age65",21.37453,11.3629,123,12.04087,7.25024

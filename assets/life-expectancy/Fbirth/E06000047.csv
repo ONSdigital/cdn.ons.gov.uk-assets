@@ -1,0 +1,64 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001063","Annfield Plain","Females","North East","E06000047","County Durham","Age0",79.77252,57.87123,63,9.35859,18.85421
+"E36001064","Aycliffe East","Females","North East","E06000047","County Durham","Age0",82.86244,60.1199,63,9.35859,18.85421
+"E36001065","Aycliffe North","Females","North East","E06000047","County Durham","Age0",82.34855,62.89467,63,9.35859,18.85421
+"E36001066","Aycliffe West","Females","North East","E06000047","County Durham","Age0",79.10186,56.96692,63,9.35859,18.85421
+"E36001067","Barnard Castle East","Females","North East","E06000047","County Durham","Age0",82.69393,66.28974,63,9.35859,18.85421
+"E36001068","Barnard Castle West","Females","North East","E06000047","County Durham","Age0",85.57036,70.10261,63,9.35859,18.85421
+"E36001069","Belmont","Females","North East","E06000047","County Durham","Age0",83.31949,66.01159,63,9.35859,18.85421
+"E36001070","Benfieldside","Females","North East","E06000047","County Durham","Age0",86.03459,65.45076,63,9.35859,18.85421
+"E36001071","Bishop Auckland Town","Females","North East","E06000047","County Durham","Age0",81.28798,62.87598,63,9.35859,18.85421
+"E36001072","Blackhalls","Females","North East","E06000047","County Durham","Age0",79.13499,57.46245,63,9.35859,18.85421
+"E36001073","Brandon","Females","North East","E06000047","County Durham","Age0",81.32112,59.53553,63,9.35859,18.85421
+"E36001074","Burnopfield and Dipton","Females","North East","E06000047","County Durham","Age0",81.86262,62.701,63,9.35859,18.85421
+"E36001075","Chester-le-Street North and","Females","North East","E06000047","County Durham","Age0",82.79081,64.53659,63,9.35859,18.85421
+"E36001076","Chester-le-Street South","Females","North East","E06000047","County Durham","Age0",85.16421,65.59271,63,9.35859,18.85421
+"E36001077","Chester-le-Street West Cent","Females","North East","E06000047","County Durham","Age0",81.66832,57.88977,63,9.35859,18.85421
+"E36001078","Chilton","Females","North East","E06000047","County Durham","Age0",80.71334,59.00143,63,9.35859,18.85421
+"E36001079","Consett North","Females","North East","E06000047","County Durham","Age0",80.50844,60.42866,63,9.35859,18.85421
+"E36001080","Coundon","Females","North East","E06000047","County Durham","Age0",80.02451,57.87075,63,9.35859,18.85421
+"E36001081","Coxhoe","Females","North East","E06000047","County Durham","Age0",80.93255,59.89818,63,9.35859,18.85421
+"E36001082","Craghead and South Moor","Females","North East","E06000047","County Durham","Age0",81.5163,56.80618,63,9.35859,18.85421
+"E36001083","Crook North and Tow Law","Females","North East","E06000047","County Durham","Age0",81.45551,60.39791,63,9.35859,18.85421
+"E36001084","Crook South","Females","North East","E06000047","County Durham","Age0",81.92143,58.72744,63,9.35859,18.85421
+"E36001085","Dawdon","Females","North East","E06000047","County Durham","Age0",80.2138,57.03658,63,9.35859,18.85421
+"E36001086","Deerness Valley","Females","North East","E06000047","County Durham","Age0",83.91095,60.71353,63,9.35859,18.85421
+"E36001087","Delves Lane and Consett Sou","Females","North East","E06000047","County Durham","Age0",80.27662,59.39399,63,9.35859,18.85421
+"E36001088","Deneside","Females","North East","E06000047","County Durham","Age0",80.87684,55.98228,63,9.35859,18.85421
+"E36001089","Durham South","Females","North East","E06000047","County Durham","Age0",82.81522,63.77083,63,9.35859,18.85421
+"E36001090","Easington","Females","North East","E06000047","County Durham","Age0",79.78401,57.5126,63,9.35859,18.85421
+"E36001091","Elvet","Females","North East","E06000047","County Durham","Age0",83.07756,67.33187,63,9.35859,18.85421
+"E36001092","Esh","Females","North East","E06000047","County Durham","Age0",82.83016,61.28143,63,9.35859,18.85421
+"E36001093","Evenwood","Females","North East","E06000047","County Durham","Age0",81.21327,62.23037,63,9.35859,18.85421
+"E36001094","Ferryhill","Females","North East","E06000047","County Durham","Age0",79.90242,57.50049,63,9.35859,18.85421
+"E36001095","Framwellgate Moor","Females","North East","E06000047","County Durham","Age0",83.3522,62.66263,63,9.35859,18.85421
+"E36001096","Gilesgate","Females","North East","E06000047","County Durham","Age0",81.47937,60.12479,63,9.35859,18.85421
+"E36001097","Horden","Females","North East","E06000047","County Durham","Age0",78.38472,52.00413,63,9.35859,18.85421
+"E36001098","Lanchester","Females","North East","E06000047","County Durham","Age0",85.2189,65.33026,63,9.35859,18.85421
+"E36001099","Leadgate and Medomsley","Females","North East","E06000047","County Durham","Age0",81.02027,61.48761,63,9.35859,18.85421
+"E36001100","Lumley","Females","North East","E06000047","County Durham","Age0",82.27091,63.64498,63,9.35859,18.85421
+"E36001101","Murton","Females","North East","E06000047","County Durham","Age0",80.23359,56.96493,63,9.35859,18.85421
+"E36001102","Neville's Cross","Females","North East","E06000047","County Durham","Age0",81.70591,70.85834,63,9.35859,18.85421
+"E36001103","Newton Hall","Females","North East","E06000047","County Durham","Age0",86.64373,68.59408,63,9.35859,18.85421
+"E36001104","Ouston and Urpeth","Females","North East","E06000047","County Durham","Age0",84.11476,64.47355,63,9.35859,18.85421
+"E36001105","Pelton","Females","North East","E06000047","County Durham","Age0",81.96117,62.13207,63,9.35859,18.85421
+"E36001106","Peterlee East","Females","North East","E06000047","County Durham","Age0",77.28514,52.63867,63,9.35859,18.85421
+"E36001107","Peterlee West","Females","North East","E06000047","County Durham","Age0",83.03437,56.73782,63,9.35859,18.85421
+"E36001108","Sacriston","Females","North East","E06000047","County Durham","Age0",80.37471,60.80097,63,9.35859,18.85421
+"E36001109","Seaham","Females","North East","E06000047","County Durham","Age0",81.76574,63.04745,63,9.35859,18.85421
+"E36001110","Sedgefield","Females","North East","E06000047","County Durham","Age0",83.37848,66.81299,63,9.35859,18.85421
+"E36001111","Sherburn","Females","North East","E06000047","County Durham","Age0",82.93844,60.95635,63,9.35859,18.85421
+"E36001112","Shildon East","Females","North East","E06000047","County Durham","Age0",78.872,58.79874,63,9.35859,18.85421
+"E36001113","Shildon West","Females","North East","E06000047","County Durham","Age0",78.46987,56.34745,63,9.35859,18.85421
+"E36001114","Shotton","Females","North East","E06000047","County Durham","Age0",80.20256,55.06939,63,9.35859,18.85421
+"E36001115","Spennymoor and Middlestone","Females","North East","E06000047","County Durham","Age0",82.39847,61.30486,63,9.35859,18.85421
+"E36001116","Stanley","Females","North East","E06000047","County Durham","Age0",79.24215,55.89799,63,9.35859,18.85421
+"E36001117","Tanfield","Females","North East","E06000047","County Durham","Age0",80.54873,59.92751,63,9.35859,18.85421
+"E36001118","Thornley","Females","North East","E06000047","County Durham","Age0",78.75037,54.71175,63,9.35859,18.85421
+"E36001119","Trimdon","Females","North East","E06000047","County Durham","Age0",80.66905,57.40863,63,9.35859,18.85421
+"E36001120","Tudhoe","Females","North East","E06000047","County Durham","Age0",81.42625,59.71931,63,9.35859,18.85421
+"E36001121","Weardale","Females","North East","E06000047","County Durham","Age0",82.89751,65.97026,63,9.35859,18.85421
+"E36001122","West Auckland","Females","North East","E06000047","County Durham","Age0",79.89478,59.59286,63,9.35859,18.85421
+"E36001123","Willington","Females","North East","E06000047","County Durham","Age0",80.58386,59.66243,63,9.35859,18.85421
+"E36001124","Wingate","Females","North East","E06000047","County Durham","Age0",83.55747,59.95614,63,9.35859,18.85421
+"E36001125","Woodhouse Close","Females","North East","E06000047","County Durham","Age0",79.46941,56.44491,63,9.35859,18.85421

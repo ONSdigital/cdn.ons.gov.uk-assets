@@ -1,0 +1,123 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001354","Altarnun","Males","South West","E06000052","Cornwall","Age0",78.29696,62.15153,122,12.17609,13.44423
+"E36001355","Bodmin Central","Males","South West","E06000052","Cornwall","Age0",78.91478,60.94743,122,12.17609,13.44423
+"E36001356","Bodmin East","Males","South West","E06000052","Cornwall","Age0",76.26554,61.73616,122,12.17609,13.44423
+"E36001357","Bodmin West","Males","South West","E06000052","Cornwall","Age0",79.02691,60.01491,122,12.17609,13.44423
+"E36001358","Breage","Males","South West","E06000052","Cornwall","Age0",82.83575,67.62805,122,12.17609,13.44423
+"E36001359","Bude North and Stratton","Males","South West","E06000052","Cornwall","Age0",80.58053,64.39614,122,12.17609,13.44423
+"E36001360","Bude South","Males","South West","E06000052","Cornwall","Age0",79.53397,63.45169,122,12.17609,13.44423
+"E36001361","Bugle","Males","South West","E06000052","Cornwall","Age0",77.58087,60.63342,122,12.17609,13.44423
+"E36001362","Callington","Males","South West","E06000052","Cornwall","Age0",75.74986,60.71156,122,12.17609,13.44423
+"E36001363","Camborne Central","Males","South West","E06000052","Cornwall","Age0",76.92517,60.20349,122,12.17609,13.44423
+"E36001364","Camborne North","Males","South West","E06000052","Cornwall","Age0",78.90991,61.2596,122,12.17609,13.44423
+"E36001365","Camborne South","Males","South West","E06000052","Cornwall","Age0",74.40782,58.25953,122,12.17609,13.44423
+"E36001366","Camborne West","Males","South West","E06000052","Cornwall","Age0",77.71506,59.47936,122,12.17609,13.44423
+"E36001367","Camelford","Males","South West","E06000052","Cornwall","Age0",82.40092,63.10679,122,12.17609,13.44423
+"E36001368","Carn Brea North","Males","South West","E06000052","Cornwall","Age0",79.52334,60.29154,122,12.17609,13.44423
+"E36001369","Carn Brea South","Males","South West","E06000052","Cornwall","Age0",76.76537,60.01846,122,12.17609,13.44423
+"E36001370","Chacewater and Kenwyn","Males","South West","E06000052","Cornwall","Age0",83.00466,67.60633,122,12.17609,13.44423
+"E36001371","Colan and Mawgan","Males","South West","E06000052","Cornwall","Age0",80.87895,63.15853,122,12.17609,13.44423
+"E36001372","Constantine","Males","South West","E06000052","Cornwall","Age0",79.53447,66.03149,122,12.17609,13.44423
+"E36001373","Falmouth Arwenack","Males","South West","E06000052","Cornwall","Age0",75.86037,62.88716,122,12.17609,13.44423
+"E36001374","Falmouth Boslowick","Males","South West","E06000052","Cornwall","Age0",79.71985,66.49076,122,12.17609,13.44423
+"E36001375","Falmouth Gyllyngvase","Males","South West","E06000052","Cornwall","Age0",79.07445,65.77432,122,12.17609,13.44423
+"E36001376","Falmouth Penwerris","Males","South West","E06000052","Cornwall","Age0",80.07471,60.97917,122,12.17609,13.44423
+"E36001377","Falmouth Trescobeas","Males","South West","E06000052","Cornwall","Age0",81.22928,64.68616,122,12.17609,13.44423
+"E36001378","Feock and Kea","Males","South West","E06000052","Cornwall","Age0",83.05338,69.21102,122,12.17609,13.44423
+"E36001379","Flexbury and Poughill","Males","South West","E06000052","Cornwall","Age0",79.60353,66.09632,122,12.17609,13.44423
+"E36001380","Fowey","Males","South West","E06000052","Cornwall","Age0",79.7419,64.26782,122,12.17609,13.44423
+"E36001381","Gulval and Heamoor","Males","South West","E06000052","Cornwall","Age0",80.00727,60.89936,122,12.17609,13.44423
+"E36001382","Gunnislake","Males","South West","E06000052","Cornwall","Age0",83.3815,66.44018,122,12.17609,13.44423
+"E36001383","Gwinear-Gwithian and St Ert","Males","South West","E06000052","Cornwall","Age0",77.61269,62.54084,122,12.17609,13.44423
+"E36001384","Hayle North","Males","South West","E06000052","Cornwall","Age0",82.49626,63.57715,122,12.17609,13.44423
+"E36001385","Hayle South","Males","South West","E06000052","Cornwall","Age0",76.13236,59.95983,122,12.17609,13.44423
+"E36001386","Helston Central","Males","South West","E06000052","Cornwall","Age0",75.23977,60.78482,122,12.17609,13.44423
+"E36001387","Helston North","Males","South West","E06000052","Cornwall","Age0",84.78021,67.61857,122,12.17609,13.44423
+"E36001388","Illogan","Males","South West","E06000052","Cornwall","Age0",81.59689,63.23832,122,12.17609,13.44423
+"E36001389","Kelly Bray","Males","South West","E06000052","Cornwall","Age0",81.74072,66.99045,122,12.17609,13.44423
+"E36001390","Ladock| St Clement and St E","Males","South West","E06000052","Cornwall","Age0",80.58507,65.80048,122,12.17609,13.44423
+"E36001391","Lanivet","Males","South West","E06000052","Cornwall","Age0",82.42696,65.44086,122,12.17609,13.44423
+"E36001392","Launceston Central","Males","South West","E06000052","Cornwall","Age0",79.55168,62.1126,122,12.17609,13.44423
+"E36001393","Launceston North","Males","South West","E06000052","Cornwall","Age0",79.30012,64.70769,122,12.17609,13.44423
+"E36001394","Launceston South","Males","South West","E06000052","Cornwall","Age0",75.98167,62.54591,122,12.17609,13.44423
+"E36001395","Lelant and Carbis Bay","Males","South West","E06000052","Cornwall","Age0",82.36745,67.62684,122,12.17609,13.44423
+"E36001396","Liskeard Central","Males","South West","E06000052","Cornwall","Age0",76.76316,60.1757,122,12.17609,13.44423
+"E36001398","Liskeard South and Dobwalls","Males","South West","E06000052","Cornwall","Age0",80.08235,64.01484,122,12.17609,13.44423
+"E36001399","Looe East","Males","South West","E06000052","Cornwall","Age0",78.27907,62.33371,122,12.17609,13.44423
+"E36001400","Looe West and Lansallos","Males","South West","E06000052","Cornwall","Age0",79.84141,62.40282,122,12.17609,13.44423
+"E36001401","Lostwithiel","Males","South West","E06000052","Cornwall","Age0",78.81846,63.97918,122,12.17609,13.44423
+"E36001402","Ludgvan","Males","South West","E06000052","Cornwall","Age0",78.91913,64.96863,122,12.17609,13.44423
+"E36001403","Mabe","Males","South West","E06000052","Cornwall","Age0",81.81091,67.42235,122,12.17609,13.44423
+"E36001404","Marazion","Males","South West","E06000052","Cornwall","Age0",78.34772,63.1843,122,12.17609,13.44423
+"E36001405","Menheniot","Males","South West","E06000052","Cornwall","Age0",82.72083,66.93466,122,12.17609,13.44423
+"E36001406","Mevagissey","Males","South West","E06000052","Cornwall","Age0",78.38285,63.75207,122,12.17609,13.44423
+"E36001407","Mount Charles","Males","South West","E06000052","Cornwall","Age0",76.17426,58.35284,122,12.17609,13.44423
+"E36001408","Mount Hawke and Portreath","Males","South West","E06000052","Cornwall","Age0",78.61194,63.98365,122,12.17609,13.44423
+"E36001409","Mullion","Males","South West","E06000052","Cornwall","Age0",80.21844,64.12747,122,12.17609,13.44423
+"E36001410","Newlyn and Goonhavern","Males","South West","E06000052","Cornwall","Age0",80.05878,66.10288,122,12.17609,13.44423
+"E36001411","Newlyn and Mousehole","Males","South West","E06000052","Cornwall","Age0",79.35241,62.76306,122,12.17609,13.44423
+"E36001412","Newquay Central","Males","South West","E06000052","Cornwall","Age0",72.60412,56.89504,122,12.17609,13.44423
+"E36001413","Newquay Pentire","Males","South West","E06000052","Cornwall","Age0",75.24428,62.29436,122,12.17609,13.44423
+"E36001414","Newquay Treloggan","Males","South West","E06000052","Cornwall","Age0",78.88186,61.61856,122,12.17609,13.44423
+"E36001415","Newquay Tretherras","Males","South West","E06000052","Cornwall","Age0",81.26635,64.83808,122,12.17609,13.44423
+"E36001416","Newquay Treviglas","Males","South West","E06000052","Cornwall","Age0",78.42919,62.44541,122,12.17609,13.44423
+"E36001417","Padstow","Males","South West","E06000052","Cornwall","Age0",81.49092,67.16577,122,12.17609,13.44423
+"E36001418","Pelynt","Males","South West","E06000052","Cornwall","Age0",81.32885,65.07582,122,12.17609,13.44423
+"E36001419","Penryn East and Mylor","Males","South West","E06000052","Cornwall","Age0",81.72033,67.76668,122,12.17609,13.44423
+"E36001420","Penryn West","Males","South West","E06000052","Cornwall","Age0",78.06645,61.46733,122,12.17609,13.44423
+"E36001421","Penwithick","Males","South West","E06000052","Cornwall","Age0",83.00679,62.56318,122,12.17609,13.44423
+"E36001422","Penzance Central","Males","South West","E06000052","Cornwall","Age0",77.45769,57.08187,122,12.17609,13.44423
+"E36001423","Penzance East","Males","South West","E06000052","Cornwall","Age0",77.59571,58.68033,122,12.17609,13.44423
+"E36001424","Penzance Promenade","Males","South West","E06000052","Cornwall","Age0",80.81403,63.3301,122,12.17609,13.44423
+"E36001425","Perranporth","Males","South West","E06000052","Cornwall","Age0",79.51299,64.59486,122,12.17609,13.44423
+"E36001426","Porthleven and Helston Sout","Males","South West","E06000052","Cornwall","Age0",80.66759,63.1826,122,12.17609,13.44423
+"E36001427","Poundstock","Males","South West","E06000052","Cornwall","Age0",82.03419,65.95562,122,12.17609,13.44423
+"E36001428","Probus","Males","South West","E06000052","Cornwall","Age0",81.02648,65.87841,122,12.17609,13.44423
+"E36001429","Rame","Males","South West","E06000052","Cornwall","Age0",79.80722,66.02341,122,12.17609,13.44423
+"E36001430","Redruth Central","Males","South West","E06000052","Cornwall","Age0",79.23571,61.82913,122,12.17609,13.44423
+"E36001431","Redruth North","Males","South West","E06000052","Cornwall","Age0",77.67265,58.59492,122,12.17609,13.44423
+"E36001432","Redruth South","Males","South West","E06000052","Cornwall","Age0",78.72298,63.03488,122,12.17609,13.44423
+"E36001433","Roche","Males","South West","E06000052","Cornwall","Age0",79.68175,63.25024,122,12.17609,13.44423
+"E36001434","Roseland","Males","South West","E06000052","Cornwall","Age0",75.89747,64.16259,122,12.17609,13.44423
+"E36001435","Saltash Burraton","Males","South West","E06000052","Cornwall","Age0",81.72678,70.32741,122,12.17609,13.44423
+"E36001436","Saltash Essa","Males","South West","E06000052","Cornwall","Age0",81.77371,65.543,122,12.17609,13.44423
+"E36001437","Saltash Pill","Males","South West","E06000052","Cornwall","Age0",77.59178,62.95647,122,12.17609,13.44423
+"E36001438","Saltash St Stephens","Males","South West","E06000052","Cornwall","Age0",81.03266,65.97697,122,12.17609,13.44423
+"E36001439","St Agnes","Males","South West","E06000052","Cornwall","Age0",78.10594,65.25034,122,12.17609,13.44423
+"E36001440","St Austell Bay","Males","South West","E06000052","Cornwall","Age0",83.44005,67.89998,122,12.17609,13.44423
+"E36001441","St Austell Bethel","Males","South West","E06000052","Cornwall","Age0",81.80373,63.88366,122,12.17609,13.44423
+"E36001442","St Austell Gover","Males","South West","E06000052","Cornwall","Age0",74.21454,56.88318,122,12.17609,13.44423
+"E36001443","St Austell Poltair","Males","South West","E06000052","Cornwall","Age0",77.03471,59.31605,122,12.17609,13.44423
+"E36001444","St Blaise","Males","South West","E06000052","Cornwall","Age0",78.46965,57.69074,122,12.17609,13.44423
+"E36001445","St Buryan","Males","South West","E06000052","Cornwall","Age0",81.31776,64.61382,122,12.17609,13.44423
+"E36001446","St Cleer","Males","South West","E06000052","Cornwall","Age0",80.66031,65.31283,122,12.17609,13.44423
+"E36001447","St Columb","Males","South West","E06000052","Cornwall","Age0",79.14788,62.4304,122,12.17609,13.44423
+"E36001448","St Day and Lanner","Males","South West","E06000052","Cornwall","Age0",78.56055,62.17315,122,12.17609,13.44423
+"E36001449","St Dennis","Males","South West","E06000052","Cornwall","Age0",76.0956,58.33003,122,12.17609,13.44423
+"E36001450","St Endellion","Males","South West","E06000052","Cornwall","Age0",78.90778,64.30652,122,12.17609,13.44423
+"E36001451","St Enoder","Males","South West","E06000052","Cornwall","Age0",78.79556,64.06782,122,12.17609,13.44423
+"E36001452","St Germans","Males","South West","E06000052","Cornwall","Age0",80.53959,67.2172,122,12.17609,13.44423
+"E36001453","St Issey","Males","South West","E06000052","Cornwall","Age0",81.4528,66.58118,122,12.17609,13.44423
+"E36001454","St Ive","Males","South West","E06000052","Cornwall","Age0",79.19223,63.84392,122,12.17609,13.44423
+"E36001455","St Ives North","Males","South West","E06000052","Cornwall","Age0",80.61904,63.60187,122,12.17609,13.44423
+"E36001456","St Ives South","Males","South West","E06000052","Cornwall","Age0",79.65421,63.2558,122,12.17609,13.44423
+"E36001457","St Just in Penwith","Males","South West","E06000052","Cornwall","Age0",77.9897,61.89186,122,12.17609,13.44423
+"E36001458","St Keverne and Meneage","Males","South West","E06000052","Cornwall","Age0",81.79987,67.4475,122,12.17609,13.44423
+"E36001459","St Mewan","Males","South West","E06000052","Cornwall","Age0",81.25183,67.92297,122,12.17609,13.44423
+"E36001460","St Stephen","Males","South West","E06000052","Cornwall","Age0",81.08923,63.57178,122,12.17609,13.44423
+"E36001461","St Teath","Males","South West","E06000052","Cornwall","Age0",79.7316,63.80974,122,12.17609,13.44423
+"E36001462","Stithians","Males","South West","E06000052","Cornwall","Age0",80.22494,63.72769,122,12.17609,13.44423
+"E36001463","Stokeclimsland","Males","South West","E06000052","Cornwall","Age0",81.00656,67.02629,122,12.17609,13.44423
+"E36001464","Threemilestone and Gloweth","Males","South West","E06000052","Cornwall","Age0",77.87327,63.883,122,12.17609,13.44423
+"E36001465","Tintagel","Males","South West","E06000052","Cornwall","Age0",81.57147,65.76376,122,12.17609,13.44423
+"E36001466","Torpoint East","Males","South West","E06000052","Cornwall","Age0",73.96158,57.93381,122,12.17609,13.44423
+"E36001467","Torpoint West","Males","South West","E06000052","Cornwall","Age0",83.5199,67.1139,122,12.17609,13.44423
+"E36001468","Troon and Beacon","Males","South West","E06000052","Cornwall","Age0",76.97449,58.36909,122,12.17609,13.44423
+"E36001469","Truro Boscawen","Males","South West","E06000052","Cornwall","Age0",81.58605,68.19939,122,12.17609,13.44423
+"E36001470","Truro Moresk","Males","South West","E06000052","Cornwall","Age0",80.21742,67.03968,122,12.17609,13.44423
+"E36001471","Truro Tregolls","Males","South West","E06000052","Cornwall","Age0",76.51756,61.79787,122,12.17609,13.44423
+"E36001472","Truro Trehaverne","Males","South West","E06000052","Cornwall","Age0",78.4109,62.87575,122,12.17609,13.44423
+"E36001473","Tywardreath","Males","South West","E06000052","Cornwall","Age0",78.81156,63.20038,122,12.17609,13.44423
+"E36001474","Wadebridge East","Males","South West","E06000052","Cornwall","Age0",80.38307,64.18918,122,12.17609,13.44423
+"E36001475","Wadebridge West","Males","South West","E06000052","Cornwall","Age0",80.37475,65.09392,122,12.17609,13.44423
+"E36001476","Wendron","Males","South West","E06000052","Cornwall","Age0",81.61687,67.31678,122,12.17609,13.44423

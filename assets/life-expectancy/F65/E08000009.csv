@@ -1,0 +1,22 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36006405","Altrincham","Females","North West","E08000009","Trafford","Age65",22.68746,11.78836,21,6.04471,8.37241
+"E36006406","Ashton upon Mersey","Females","North West","E08000009","Trafford","Age65",23.40696,11.18318,21,6.04471,8.37241
+"E36006407","Bowdon","Females","North West","E08000009","Trafford","Age65",21.21849,11.98401,21,6.04471,8.37241
+"E36006408","Broadheath","Females","North West","E08000009","Trafford","Age65",23.23755,11.12419,21,6.04471,8.37241
+"E36006409","Brooklands","Females","North West","E08000009","Trafford","Age65",21.1289,11.28219,21,6.04471,8.37241
+"E36006410","Bucklow-St Martins","Females","North West","E08000009","Trafford","Age65",19.77233,6.48976,21,6.04471,8.37241
+"E36006411","Clifford","Females","North West","E08000009","Trafford","Age65",23.87572,5.98659,21,6.04471,8.37241
+"E36006412","Davyhulme East","Females","North West","E08000009","Trafford","Age65",21.21455,10.38662,21,6.04471,8.37241
+"E36006413","Davyhulme West","Females","North West","E08000009","Trafford","Age65",22.4801,10.73825,21,6.04471,8.37241
+"E36006414","Flixton","Females","North West","E08000009","Trafford","Age65",21.18657,9.70975,21,6.04471,8.37241
+"E36006415","Gorse Hill","Females","North West","E08000009","Trafford","Age65",21.27855,8.13763,21,6.04471,8.37241
+"E36006416","Hale Barns","Females","North West","E08000009","Trafford","Age65",24.30841,13.79604,21,6.04471,8.37241
+"E36006417","Hale Central","Females","North West","E08000009","Trafford","Age65",24.96265,14.359,21,6.04471,8.37241
+"E36006418","Longford","Females","North West","E08000009","Trafford","Age65",22.14116,8.83235,21,6.04471,8.37241
+"E36006419","Priory","Females","North West","E08000009","Trafford","Age65",22.26303,10.09598,21,6.04471,8.37241
+"E36006420","Sale Moor","Females","North West","E08000009","Trafford","Age65",24.25587,10.64187,21,6.04471,8.37241
+"E36006421","St Mary's","Females","North West","E08000009","Trafford","Age65",21.94909,9.8107,21,6.04471,8.37241
+"E36006422","Stretford","Females","North West","E08000009","Trafford","Age65",19.84366,8.64445,21,6.04471,8.37241
+"E36006423","Timperley","Females","North West","E08000009","Trafford","Age65",21.47649,11.71074,21,6.04471,8.37241
+"E36006424","Urmston","Females","North West","E08000009","Trafford","Age65",18.91794,8.16739,21,6.04471,8.37241
+"E36006425","Village","Females","North West","E08000009","Trafford","Age65",20.88016,10.05631,21,6.04471,8.37241

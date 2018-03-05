@@ -1,0 +1,15 @@
+"WD13CD","WD13NM","Sex","Region","LAD11CD","LAD11NM","Age","LE","HLE","NumberofWardsinlocalareas","InequalityinLE","InequalityinHLE"
+"E36001742","Abbey","Females","East of England","E07000008","Cambridge","Age0",88.13675,65.87591,14,14.12435,17.67058
+"E36001743","Arbury","Females","East of England","E07000008","Cambridge","Age0",85.04803,66.08483,14,14.12435,17.67058
+"E36001744","Castle","Females","East of England","E07000008","Cambridge","Age0",89.41517,74.82402,14,14.12435,17.67058
+"E36001745","Cherry Hinton","Females","East of England","E07000008","Cambridge","Age0",88.20718,68.40407,14,14.12435,17.67058
+"E36001746","Coleridge","Females","East of England","E07000008","Cambridge","Age0",81.40466,65.31366,14,14.12435,17.67058
+"E36001747","East Chesterton","Females","East of England","E07000008","Cambridge","Age0",82.20106,63.93284,14,14.12435,17.67058
+"E36001748","King's Hedges","Females","East of England","E07000008","Cambridge","Age0",80.17948,62.16341,14,14.12435,17.67058
+"E36001749","Market","Females","East of England","E07000008","Cambridge","Age0",88.11154,72.43377,14,14.12435,17.67058
+"E36001750","Newnham","Females","East of England","E07000008","Cambridge","Age0",94.30383,79.83399,14,14.12435,17.67058
+"E36001751","Petersfield","Females","East of England","E07000008","Cambridge","Age0",85.006,70.38176,14,14.12435,17.67058
+"E36001752","Queen Edith's","Females","East of England","E07000008","Cambridge","Age0",86.25459,72.16196,14,14.12435,17.67058
+"E36001753","Romsey","Females","East of England","E07000008","Cambridge","Age0",83.17355,67.29284,14,14.12435,17.67058
+"E36001754","Trumpington","Females","East of England","E07000008","Cambridge","Age0",84.01227,69.5104,14,14.12435,17.67058
+"E36001755","West Chesterton","Females","East of England","E07000008","Cambridge","Age0",83.61701,71.25465,14,14.12435,17.67058
