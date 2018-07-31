@@ -1,0 +1,57 @@
+{ 
+  "@context": [ 
+      "https://cdn.ons.gov.uk/assets/json-ld/context.json",
+      {
+         "defines": {
+             "@reverse": "rdfs:isDefinedBy"
+         },
+         "domain": { 
+             "@id": "rdfs:domain",
+             "@type": "@id"
+         },
+         "range": { 
+             "@id": "rdfs:range",
+             "@type": "@id"
+         }        
+    }
+  ],
+  "@id": "ons:",
+  "@type": "owl:Ontology",
+  "defines": [
+      { 
+        "id": "ons:nationalStatistic",
+        "type": "owl:DatatypeProperty",
+        "rdfs:label": "national statistic",
+        "rdfs:comment": "Indicates whether a Dataset is a national statistic",
+        "domain": "Dataset",
+        "range": "xsd:boolean"
+      },
+      { 
+        "id": "ons:nextReleaseDate",
+        "type": "owl:DatatypeProperty",
+        "rdfs:label": "next release date",
+        "rdfs:subPropertyOf": "dct:date",
+        "rdfs:comment": "Expected next release date for the dataset",
+        "domain": "Dataset",
+        "range": "xsd:string"
+      },
+      { 
+        "id": "ons:edition",
+        "type": "owl:DatatypeProperty",
+        "rdfs:label": "edition identifier",
+        "rdfs:subPropertyOf": "skos:prefLabel",
+        "rdfs:comment": "A subset of the dataset representing a specific time period.",
+        "domain": "Dataset",
+        "range": "xsd:string"
+      },
+      { 
+        "id": "ons:observation",
+        "type": "owl:DatatypeProperty",
+        "rdfs:label": "observation",
+        "rdfs:subPropertyOf": "skos:prefLabel",
+        "rdfs:comment": "A single value in a dataset defined by a single selection from each dimension",
+        "domain": "Dataset",
+        "range": "xsd:string"
+      }  
+  ]
+}
