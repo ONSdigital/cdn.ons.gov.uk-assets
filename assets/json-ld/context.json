@@ -1,16 +1,18 @@
 {
  "@context": { 
+  "adms": "http://www.w3.org/ns/adms#",
   "dc": "http://purl.org/dc/terms/",
-  "vcard": "http://www.w3.org/2006/vcard/ns#",
-  "owl": "http://www.w3.org/2002/07/owl#",
   "dcat": "http://www.w3.org/ns/dcat#",
   "hydra": "http://www.w3.org/ns/hydra/core#",
-  "schema": "https://schema.org",
-  "stat": "http://data.europa.eu/(xyz)/statdcat-ap/",
-  "qb": "http://purl.org/linked-data/cube#",
-  "skos": "http://www.w3.org/2004/02/skos/core#",
-  "adms": "http://www.w3.org/ns/adms#",
   "ons": "https://cdn.ons.gov.uk/assets/json-ld/terms#",
+  "owl": "http://www.w3.org/2002/07/owl#",
+  "qb": "http://purl.org/linked-data/cube#",
+  "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+  "schema": "https://schema.org",
+  "skos": "http://www.w3.org/2004/02/skos/core#",
+  "stat": "http://data.europa.eu/(xyz)/statdcat-ap/",
+  "vcard": "http://www.w3.org/2006/vcard/ns#",
+  "xsd": "http://www.w3.org/2001/XMLSchema#",
 
   "href": {
       "@id": "schema:url",
