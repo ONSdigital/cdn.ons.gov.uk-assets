@@ -10,6 +10,7 @@ under an equivalent `assets` directory.
 
 E.g., to include the ONS logo (from [assets/images/ons-logo.png](assets/images/ons-logo.png)), you would
 link to the file using the following URL:
+
 ```
 https://cdn.ons.gov.uk/assets/images/ons-logo.png
 ```
@@ -40,4 +41,4 @@ E-mail the ONS Website team or ask us on Slack!
 
 ### Licence
 
-Copyright ©‎ 2016, Office for National Statistics (https://www.ons.gov.uk)
+Copyright ©‎ 2016-2020, Office for National Statistics (https://www.ons.gov.uk)
