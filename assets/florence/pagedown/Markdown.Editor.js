@@ -1114,7 +1114,7 @@
                 text = text.replace(/^http:\/\/(https?|ftp):\/\//, '$1://');
                 if (!/^(?:https?|ftp):\/\//.test(text))
                     text = 'http://' + text;
-                if (check.value == "on")
+                if (check.checked == true)
                     text = text.replace(/.*\/\/[^\/]*/, '')
             }
 
