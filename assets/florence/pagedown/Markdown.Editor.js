@@ -1115,7 +1115,7 @@
                 if (!/^(?:https?|ftp):\/\//.test(text))
                     text = 'http://' + text;
                 if (check.checked == true)
-                    text = text.replace(/.*\/\/[^\/]*/, '')
+                    text = text.replace(/^.*\/\/[^\/]*/, '')
             }
 
             dialog.parentNode.removeChild(dialog);
@@ -1208,7 +1208,7 @@
             style.fontSize = "0.8em";
             style.fontWeight = "bold";
 
-            var div = doc.createElement("div");
+            let div = doc.createElement("div");
             style = div.style;
             style.textAlign = "center";
 
