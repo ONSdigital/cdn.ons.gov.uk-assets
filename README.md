@@ -8,7 +8,7 @@ Static assets for ONS web services.
 The `assets` directory in this repository is published to the CDN
 under an equivalent `assets` directory.
 
-E.g., to include the ONS logo (from [assets/images/ons-logo.png](assets/images/ons-logo.png)), you would
+For example, to include the ONS logo (from [assets/images/ons-logo.png](assets/images/ons-logo.png)), you would
 link to the file using the following URL:
 
 ```
