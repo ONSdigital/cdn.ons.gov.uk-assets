@@ -41,4 +41,4 @@ E-mail the ONS Website team or ask us on Slack!
 
 ### Licence
 
-Copyright ©‎ 2016-2020, Office for National Statistics (https://www.ons.gov.uk)
+Copyright ©‎ 2024, Office for National Statistics (https://www.ons.gov.uk)
